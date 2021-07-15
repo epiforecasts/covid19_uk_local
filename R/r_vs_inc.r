@@ -121,7 +121,7 @@ p <- ggplot(compare_previous %>% select(-name) %>%
   scale_fill_manual("", values = c("black", "red"),
                     breaks = c("last", week_label_short),
                     labels = c("latest", week_label)) +
-  theme(legend.position = "bottom")
+  theme(legend.position = "bottom", plot.background = element_rect(fill = "white"))
 
 ggsave(here::here("figure", paste0("r_vs_inc_", week_label_short, ".png")),
        suppressWarnings(
@@ -145,6 +145,7 @@ p <- ggplot(compare,
   ylab("7-day incidence / 100k") +
   xlab("R") +
   theme_minimal() +
+  theme(plot.background = element_rect(fill = "white")) +
   geom_vline(xintercept = 1, linetype = "dashed") +
   scale_color_brewer("Region", palette = "Paired")
 
