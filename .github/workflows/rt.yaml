@@ -17,7 +17,7 @@ jobs:
       run: sudo apt-get install libudunits2-dev libcurl4-openssl-dev libgdal-dev
 
     - name: Install R dependencies
-      run: Rscript -e 'install.packages(c("readxl", "janitor", "dplyr", "tidyr", "ggplot2", "vroom", "ggrepel", "here", "lubridate", "covidregionaldata"))'
+      run: Rscript -e 'install.packages(c("readxl", "janitor", "dplyr", "tidyr", "ggplot2", "vroom", "ggrepel", "ggExtra", "here", "lubridate", "covidregionaldata"))'
 
     - name: Generate latest plots
       run: | 
