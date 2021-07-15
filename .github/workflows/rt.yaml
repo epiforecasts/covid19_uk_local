@@ -26,6 +26,7 @@ jobs:
 
     - name: Commit files
       run: |
+        rm Rplots.pdf
         git config user.email "action@github.com"
         git config user.name "GitHub Action - plots"
         git add --all
