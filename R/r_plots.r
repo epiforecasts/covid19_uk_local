@@ -95,6 +95,7 @@ p <- ggplot(prop_gt_1, aes(x = date, y = gt_1, alpha = type)) +
   theme_minimal() +
   ylab("Proportion of UTLAs with P(R > 1) > 0.5") +
   geom_hline(yintercept = 1) +
-  scale_alpha_manual("", values = c(1, 0.35))
+  scale_alpha_manual("", values = c(1, 0.35)) +
+  theme(legend.position = "bottom")
 
 ggsave(here::here("figure", "latest_prop_gt1.png"), p, height = 4, width = 8)
