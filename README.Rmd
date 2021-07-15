@@ -1,0 +1,22 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, echo = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "README-"
+)
+Title <- "Latest R vs incidence plots"
+```
+
+# R vs incidence - week-on-week change
+
+![](figure/r_vs_inc_1w.png)
+
+# R vs incidence - by region
+
+![](figure/r_vs_inc_region.png)
