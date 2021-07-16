@@ -47,9 +47,12 @@ rt_by_utla <- rt %>%
   filter(type != "forecast") %>%
   left_join(utla_nhser, by = "utla_name") %>%
   left_join(pop_l %>% rename(utla_name = "region"), by = "utla_name") %>%
-  mutate(nhse_region = if_else(is.na(nhse_region), as.character(nation), nhse_region),
-	 nhse_region = if_else(grepl("^Cornwall", utla_name), "South West", nhse_region),
-	 nhse_region = if_else(grepl("^Hackney", utla_name), "London", nhse_region))
+  mutate(nhse_region =
+           if_else(is.na(nhse_region), as.character(nation), nhse_region),
+         nhse_region =
+           if_else(grepl("^Cornwall", utla_name), "South West", nhse_region),
+         nhse_region =
+           if_else(grepl("^Hackney", utla_name), "London", nhse_region))
 
 utla_sorted <- rt_by_utla %>%
   filter(date == max(date)) %>%
@@ -92,11 +95,10 @@ prop_gt_1 <- rt_by_utla %>%
 p <- ggplot(prop_gt_1, aes(x = date, y = gt_1, alpha = type)) +
   geom_col() +
   xlab("") +
-  theme_minimal() +
+  theme_bw() +
   ylab("Proportion of UTLAs with P(R > 1) > 0.5") +
   geom_hline(yintercept = 1) +
   scale_alpha_manual("", values = c(1, 0.35)) +
-  theme(legend.position = "bottom", 
-        plot.background = element_rect(fill = "white"))
+  theme(legend.position = "bottom")
 
 ggsave(here::here("figure", "latest_prop_gt1.png"), p, height = 4, width = 8)
