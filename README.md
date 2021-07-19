@@ -22,4 +22,4 @@ Covid](https://epiforecasts.io/covid/posts/national/united-kingdom/).
 
 # Recent reproduction numbers
 
-![](figure/recent_R.png)
+![](figure/recent_r.png)

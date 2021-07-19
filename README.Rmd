@@ -33,5 +33,5 @@ All plots generated using data from [Epiforecasts UK Covid](https://epiforecasts
 
 # Recent reproduction numbers
 
-![](figure/recent_R.png)
+![](figure/recent_r.png)
 
