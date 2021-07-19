@@ -30,3 +30,8 @@ All plots generated using data from [Epiforecasts UK Covid](https://epiforecasts
 # Distribution of reproduction numbers by region
 
 ![](figure/R_ranking.png)
+
+# Recent reproduction numbers
+
+![](figure/recent_R.png)
+
