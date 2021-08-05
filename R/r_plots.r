@@ -66,7 +66,7 @@ p <- ggplot(utla_sorted,
   geom_linerange(aes(ymin = lower_20, ymax = upper_20), size = 2) +
   geom_linerange(aes(ymin = lower_50, ymax = upper_50), alpha = 0.35, size = 2) +
   geom_linerange(aes(ymin = lower_90, ymax = upper_90), alpha = 0.15, size = 2) +
-  scale_colour_brewer("", palette = "Set1", drop = FALSE) +
+  scale_colour_brewer("", palette = "Paired", drop = FALSE) +
   xlab("") +
   ylab("Reproduction number estimate") +
   theme_classic() +

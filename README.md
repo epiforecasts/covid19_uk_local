@@ -12,10 +12,14 @@ Covid](https://epiforecasts.io/covid/posts/national/united-kingdom/).
 
 ![](figure/r_vs_inc_region.png)
 
-# Proportion of UTLAs likely to have R&gt;1
+# Proportion of UTLAs likely to have R>1
 
 ![](figure/latest_prop_gt1.png)
 
 # Distribution of reproduction numbers by region
 
 ![](figure/R_ranking.png)
+
+# Recent reproduction numbers
+
+![](figure/recent_r.png)
