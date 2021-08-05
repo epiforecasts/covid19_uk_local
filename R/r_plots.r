@@ -1,3 +1,13 @@
+# set up options
+library("optparse")
+option_list <- list(
+    make_option(c("-s", "--source"), type = "character", action = "store_true",
+        default = "cases",
+        help = "Specify the data source to use [default %default]")
+    )
+args <- parse_args(OptionParser(option_list = option_list))
+
+# load packages
 library("here")
 library("dplyr")
 library("tidyr")
@@ -8,9 +18,10 @@ library("lubridate")
 library("covidregionaldata")
 library("ggrepel")
 library("readxl")
+library("stringr")
 
 # make output directory
-fig_path <- here::here("figure")
+fig_path <- here::here("figure", args$source)
 dir.create(fig_path, recursive = TRUE, showWarnings = FALSE)
 
 pop_l <- read_excel(here::here("data", "uk_pop.xls"),
@@ -37,7 +48,7 @@ pop_l <- read_excel(here::here("data", "uk_pop.xls"),
 
 rt_url <-
   paste0("https://raw.githubusercontent.com/epiforecasts/covid-rt-estimates/",
-         "master/subnational/united-kingdom-local/cases/summary/rt.csv")
+         "master/subnational/united-kingdom-local/", args$source, "/summary/rt.csv")
 rt <- vroom::vroom(rt_url)
 
 utla_nhser <- readRDS(here::here("data", "utla_nhser.rds"))
@@ -70,7 +81,7 @@ p <- ggplot(utla_sorted,
   xlab("") +
   ylab("Reproduction number estimate") +
   theme_classic() +
-  labs(size = paste("Cases")) +
+  labs(size = str_to_sentence(args$source)) +
   geom_hline(yintercept = 1, linetype = "dashed") +
   theme(legend.position = "bottom",
         legend.direction = "horizontal",
@@ -79,7 +90,7 @@ p <- ggplot(utla_sorted,
         axis.text.x=element_blank(),
         axis.ticks.x=element_blank())
 
-ggsave(here::here("figure", "R_ranking.png"), p, height = 4, width = 12)
+ggsave(file.path(fig_path, "R_ranking.png"), p, height = 4, width = 12)
 
 prop_gt <- rt_by_utla %>%
   filter(date > max(date) - 90) %>%
@@ -108,7 +119,7 @@ plot_gt <- function(data) {
 
 p <- plot_gt(prop_gt_nat)
 
-ggsave(here::here("figure", "latest_prop_gt1.png"), p, height = 4, width = 8)
+ggsave(file.path(fig_path, "latest_prop_gt1.png"), p, height = 4, width = 8)
 
 prop_gt_da_region <- prop_gt %>%
   group_by(date, nhse_region) %>%
@@ -119,5 +130,5 @@ prop_gt_da_region <- prop_gt %>%
 p <- plot_gt(prop_gt_da_region) + 
   facet_wrap(~ nhse_region)
 
-ggsave(here::here("figure", "latest_prop_gt1_da_region.png"), p,
+ggsave(file.path(fig_path, "latest_prop_gt1_da_region.png"), p,
                   height = 8, width = 8)

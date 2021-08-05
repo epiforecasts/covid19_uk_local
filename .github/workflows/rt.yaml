@@ -25,10 +25,8 @@ jobs:
           ${{ runner.os }}-renv-
 
     - name: Restore packages
-      shell: Rscript {0}
-      run: |
-        if (!requireNamespace("renv", quietly = TRUE)) install.packages("renv")
-        renv::restore()
+      shell: bash {0}
+      run: update.sh
 
     - name: Generate latest plots
       run: | 

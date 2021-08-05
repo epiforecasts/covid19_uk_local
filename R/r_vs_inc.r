@@ -1,3 +1,12 @@
+# set up options
+library("optparse")
+option_list <- list(
+    make_option(c("-s", "--source"), type = "character", action = "store_true",
+        default = "cases",
+        help = "Specify the data source to use [default %default]")
+    )
+args <- parse_args(OptionParser(option_list = option_list))
+
 library("readxl")
 library("janitor")
 library("dplyr")
@@ -6,6 +15,11 @@ library("vroom")
 library("ggplot2")
 library("ggrepel")
 library("ggExtra")
+
+# make output directory
+fig_path <- here::here("figure", args$source)
+dir.create(fig_path, recursive = TRUE, showWarnings = FALSE)
+
 
 ## get UTLA/NHSER mapping
 utla_nhser <- readRDS(here::here("data", "utla_nhser.rds")) %>%
@@ -33,10 +47,10 @@ pop_l <- read_excel(here::here("data", "uk_pop.xls"),
   pivot_longer(c(-nation), names_to = "region", values_to = "pop") %>%
   filter(!is.na(pop))
 
-rt <- vroom("https://raw.githubusercontent.com/epiforecasts/covid-rt-estimates/master/subnational/united-kingdom-local/cases/summary/rt.csv") %>%
+rt <- vroom(paste0("https://raw.githubusercontent.com/epiforecasts/covid-rt-estimates/master/subnational/united-kingdom-local/", args$source, "/summary/rt.csv")) %>%
   rename_at(vars(c(-region, -date, -strat, -type)), ~ paste0(., "_R"))
 
-rep <- vroom("https://raw.githubusercontent.com/epiforecasts/covid-rt-estimates/master/subnational/united-kingdom-local/cases/summary/cases_by_report.csv") %>%
+rep <- vroom(paste0("https://raw.githubusercontent.com/epiforecasts/covid-rt-estimates/master/subnational/united-kingdom-local/", args$source, "/summary/cases_by_report.csv")) %>%
   rename_at(vars(c(-region, -date, -strat, -type)), ~ paste0(., "_rep"))
 
 compare <- pop_l %>%
@@ -120,7 +134,7 @@ p <- ggplot(compare_previous %>% select(-name) %>%
                     labels = c("latest", week_label)) +
   theme(legend.position = "bottom")
 
-ggsave(here::here("figure", paste0("r_vs_inc_", week_label_short, ".png")),
+ggsave(file.path(fig_path, paste0("r_vs_inc_", week_label_short, ".png")),
        suppressWarnings(
          ggMarginal(p,
                     groupFill = TRUE, groupColour = TRUE, type = "histogram",
@@ -145,7 +159,7 @@ p <- ggplot(compare_latest,
   geom_vline(xintercept = 1, linetype = "dashed") +
   scale_color_brewer("Region", palette = "Paired")
 
-ggsave(here::here("figure", "r_vs_inc_region.png"), p, width = 11, height = 6)
+ggsave(file.path(fig_path, "r_vs_inc_region.png"), p, width = 11, height = 6)
 
 weeks_hist <- 5
 
@@ -169,5 +183,4 @@ p <- ggplot(recent, aes(x = date, y = mean_R,
   theme(legend.position = "bottom") +
   geom_text_repel(aes(label = label), show.legend = FALSE)
 
-ggsave(here::here("figure", "recent_r.png"), p, width = 11, height = 6)
-
+ggsave(file.path(fig_path,  "recent_r.png"), p, width = 11, height = 6)
