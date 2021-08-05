@@ -81,24 +81,43 @@ p <- ggplot(utla_sorted,
 
 ggsave(here::here("figure", "R_ranking.png"), p, height = 4, width = 12)
 
-prop_gt_1 <- rt_by_utla %>%
+prop_gt <- rt_by_utla %>%
   filter(date > max(date) - 90) %>%
   group_by(date) %>%
   filter(!duplicated(utla_name)) %>%
   ungroup() %>%
-  mutate(gt_1 = median > 1) %>%
+  mutate(gt_1 = median > 1)
+
+prop_gt_nat <- prop_gt %>%
   group_by(date) %>%
   summarise(gt_1 = mean(gt_1), 
             type = names(which.max(table(type))),
             .groups = "drop")
 
-p <- ggplot(prop_gt_1, aes(x = date, y = gt_1, alpha = type)) +
-  geom_col() +
-  xlab("") +
-  theme_bw() +
-  ylab("Proportion of UTLAs with P(R > 1) > 0.5") +
-  geom_hline(yintercept = 1) +
-  scale_alpha_manual("", values = c(1, 0.35)) +
-  theme(legend.position = "bottom")
+plot_gt <- function(data) {
+  p <- ggplot(data, aes(x = date, y = gt_1, alpha = type)) +
+    geom_col() +
+    xlab("") +
+    theme_bw() +
+    ylab("Proportion of UTLAs with P(R > 1) > 0.5") +
+    geom_hline(yintercept = 1) +
+    scale_alpha_manual("", values = c(1, 0.35)) +
+    theme(legend.position = "bottom")
+  return(p)
+}
+
+p <- plot_gt(prop_gt_nat)
 
 ggsave(here::here("figure", "latest_prop_gt1.png"), p, height = 4, width = 8)
+
+prop_gt_da_region <- prop_gt %>%
+  group_by(date, nhse_region) %>%
+  summarise(gt_1 = mean(gt_1), 
+            type = names(which.max(table(type))),
+            .groups = "drop")
+
+p <- plot_gt(prop_gt_da_region) + 
+  facet_wrap(~ nhse_region)
+
+ggsave(here::here("figure", "latest_prop_gt1_da_region.png"), p,
+                  height = 8, width = 8)

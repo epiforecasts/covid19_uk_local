@@ -12,9 +12,13 @@ Covid](https://epiforecasts.io/covid/posts/national/united-kingdom/).
 
 ![](figure/r_vs_inc_region.png)
 
-# Proportion of UTLAs likely to have R>1
+# Proportion of UTLAs likely to have R\>1
 
 ![](figure/latest_prop_gt1.png)
+
+# Proportion of UTLAs likely to have R\>1 by NHS region and devolved authority
+
+![](figure/latest_prop_gt1_da_region.png)
 
 # Distribution of reproduction numbers by region
 

@@ -27,6 +27,10 @@ All plots generated using data from [Epiforecasts UK Covid](https://epiforecasts
 
 ![](figure/latest_prop_gt1.png)
 
+# Proportion of UTLAs likely to have R>1 by NHS region and devolved authority
+
+![](figure/latest_prop_gt1_da_region.png)
+
 # Distribution of reproduction numbers by region
 
 ![](figure/R_ranking.png)

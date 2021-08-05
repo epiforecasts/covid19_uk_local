@@ -32,6 +32,6 @@ RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
     && rm -rf /tmp/downloaded_packages
 
 # [Optional] Uncomment this section to install additional OS packages.
-# RUN apt-get update \
-#     && export DEBIAN_FRONTEND=noninteractive \
-#     && apt-get -y install --no-install-recommends <your-package-list-here>
+RUN apt-get update \
+    && export DEBIAN_FRONTEND=noninteractive \
+    && apt-get -y install --no-install-recommends pandoc

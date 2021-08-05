@@ -16,8 +16,19 @@ jobs:
     - name: Install system dependencies
       run: sudo apt-get install libudunits2-dev libcurl4-openssl-dev libgdal-dev
 
-    - name: Install R dependencies
-      run: Rscript -e 'install.packages(c("readxl", "janitor", "dplyr", "tidyr", "ggplot2", "vroom", "ggrepel", "ggExtra", "here", "lubridate", "covidregionaldata"))'
+    - name: Cache packages
+      uses: actions/cache@v2
+      with:
+        path: ~/.local/share/renv
+        key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-renv-
+
+    - name: Restore packages
+      shell: Rscript {0}
+      run: |
+        if (!requireNamespace("renv", quietly = TRUE)) install.packages("renv")
+        renv::restore()
 
     - name: Generate latest plots
       run: | 
