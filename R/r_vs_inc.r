@@ -20,6 +20,8 @@ library("ggExtra")
 fig_path <- here::here("figure", args$source)
 dir.create(fig_path, recursive = TRUE, showWarnings = FALSE)
 
+out_path <- here::here("output", args$source)
+dir.create(out_path, recursive = TRUE, showWarnings = FALSE)
 
 ## get UTLA/NHSER mapping
 utla_nhser <- readRDS(here::here("data", "utla_nhser.rds")) %>%
@@ -58,11 +60,6 @@ compare <- pop_l %>%
   inner_join(rep, by = c("region", "date", "strat", "type")) %>%
   mutate(median_abs = median_rep) %>%
   mutate_at(vars(ends_with("_rep")), ~ . / pop * 700000) %>%
-  mutate(label = if_else((median_R > 2) |
-                         (median_R > 1 & median_rep > 300) |
-                         (median_R < 1 & median_rep > 200) |
-                         (median_R > 1.5 & median_rep > 200),
-                        region, NA_character_)) %>%
   left_join(utla_nhser, by = "region") %>%
   mutate(nhse_region = if_else(nation == "England", nhse_region,
                                as.character(nation)),
@@ -74,7 +71,14 @@ compare <- pop_l %>%
 compare_latest <- compare %>%
   filter(type != "forecast") %>%
   filter(date == max(date)) %>%
-  mutate(date = "last")
+  mutate(date = "last") %>%
+  mutate(label = if_else((median_R > median(median_R) + 1.5 * IQR(median_R)) |
+                         (median_R > median(median_R) + IQR(median_R) &
+                          median_rep > median(median_rep) + IQR(median_rep)) |
+                         (median_rep > median(median_rep) + 1.5 * IQR(median_rep)),
+                         region, NA_character_))
+
+saveRDS(compare_latest, file.path(out_path, "r_inc.rds"))
 
 labelled_regions <- compare_latest %>%
   filter(!is.na(label)) %>%
@@ -167,9 +171,10 @@ recent <- compare %>%
   filter(type != "forecast") %>%
   filter(as.integer(max(date) - date) %% 7 == 0,
          date > max(date) - 7 * 5) %>%
-  mutate(label = if_else(date == max(date) & !is.na(label), region, NA_character_))
+  mutate(label = if_else(date == max(date) & region %in% labelled_regions,
+                         region, NA_character_))
 
-p <- ggplot(recent, aes(x = date, y = mean_R,
+p <- ggplot(recent, aes(x = date, y = median_R,
                         colour = nhse_region,
                         group = region)) +
   geom_point() +
@@ -183,4 +188,4 @@ p <- ggplot(recent, aes(x = date, y = mean_R,
   theme(legend.position = "bottom") +
   geom_text_repel(aes(label = label), show.legend = FALSE)
 
-ggsave(file.path(fig_path,  "recent_r.png"), p, width = 11, height = 6)
+ggsave(file.path(fig_path, "recent_r.png"), p, width = 11, height = 6)
