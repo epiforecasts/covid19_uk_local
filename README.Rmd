@@ -99,3 +99,8 @@ All plots generated using data and estimates from [Epiforecasts UK Covid](https:
 ## Mortality
 
 ![](figure/deaths/recent_r.png)
+
+# Cases vs. admissions
+
+![](figure/cas_adm.png)
+
