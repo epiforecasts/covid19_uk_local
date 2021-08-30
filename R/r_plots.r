@@ -7,6 +7,8 @@ option_list <- list(
     )
 args <- parse_args(OptionParser(option_list = option_list))
 
+das <- c("Northern Ireland", "Scotland", "Wales")
+
 # load packages
 library("here")
 library("dplyr")
@@ -51,7 +53,9 @@ rt_url <-
          "master/subnational/united-kingdom-local/", args$source, "/summary/rt.csv")
 rt <- vroom::vroom(rt_url)
 
-utla_nhser <- readRDS(here::here("data", "utla_nhser.rds"))
+utla_nhser <- readRDS(here::here("data", "utla_nhser.rds")) %>%
+mutate(nhse_region = factor(nhse_region,
+                            c(setdiff(unique(nhse_region), das), das)))
 
 rt_by_utla <- rt %>%
   rename(utla_name = region) %>%
@@ -59,11 +63,12 @@ rt_by_utla <- rt %>%
   left_join(utla_nhser, by = "utla_name") %>%
   left_join(pop_l %>% rename(utla_name = "region"), by = "utla_name") %>%
   mutate(nhse_region =
-           if_else(is.na(nhse_region), as.character(nation), nhse_region),
+           if_else(is.na(nhse_region), as.character(nation), as.character(nhse_region)),
          nhse_region =
            if_else(grepl("^Cornwall", utla_name), "South West", nhse_region),
          nhse_region =
-           if_else(grepl("^Hackney", utla_name), "London", nhse_region))
+           if_else(grepl("^Hackney", utla_name), "London", nhse_region),
+         nhse_region = factor(nhse_region, levels(utla_nhser$nhse_region)))
 
 utla_sorted <- rt_by_utla %>%
   filter(date == max(date)) %>%
@@ -97,29 +102,31 @@ prop_gt <- rt_by_utla %>%
   group_by(date) %>%
   filter(!duplicated(utla_name)) %>%
   ungroup() %>%
-  mutate(gt_1 = median > 1)
+  mutate(gt_1 = as.integer(median > 1))
 
-prop_gt_nat <- prop_gt %>%
+prop_gt_reg <- prop_gt %>%
   group_by(date) %>%
   summarise(gt_1 = mean(gt_1), 
             type = names(which.max(table(type))),
             .groups = "drop")
 
 plot_gt <- function(data) {
-  p <- ggplot(data, aes(x = date, y = gt_1, alpha = type)) +
+  p <- ggplot(data, aes(x = date, y = gt_1, alpha = type,
+                        fill = nhse_region)) +
     geom_col() +
     xlab("") +
     theme_bw() +
     ylab("Proportion of UTLAs with P(R > 1) > 0.5") +
     geom_hline(yintercept = 1) +
+    scale_fill_brewer("", palette = "Paired", drop = FALSE) +
     scale_alpha_manual("", values = c(1, 0.35)) +
     theme(legend.position = "bottom")
   return(p)
 }
 
-p <- plot_gt(prop_gt_nat)
+p <- plot_gt(prop_gt)
 
-ggsave(file.path(fig_path, "latest_prop_gt1.png"), p, height = 4, width = 8)
+ggsave(file.path(fig_path, "latest_prop_gt1.png"), p, height = 6.5, width = 11)
 
 prop_gt_da_region <- prop_gt %>%
   group_by(date, nhse_region) %>%
