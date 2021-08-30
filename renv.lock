@@ -219,6 +219,13 @@
       "Repository": "RSPM",
       "Hash": "4d243a9c10b00589889fe32314ffd902"
     },
+    "getopt": {
+      "Package": "getopt",
+      "Version": "1.20.3",
+      "Source": "Repository",
+      "Repository": "RSPM",
+      "Hash": "ad68e3263f0bc9269aab8c2039440117"
+    },
     "ggExtra": {
       "Package": "ggExtra",
       "Version": "0.9",
@@ -435,6 +442,13 @@
       "Source": "Repository",
       "Repository": "RSPM",
       "Hash": "f4dbc5a47fd93d3415249884d31d6791"
+    },
+    "optparse": {
+      "Package": "optparse",
+      "Version": "1.6.6",
+      "Source": "Repository",
+      "Repository": "RSPM",
+      "Hash": "35beff0d8469fbb7037925dde658888c"
     },
     "pillar": {
       "Package": "pillar",

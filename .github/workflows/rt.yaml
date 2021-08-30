@@ -32,8 +32,7 @@ jobs:
 
     - name: Generate latest plots
       run: | 
-        Rscript 'R/r_vs_inc.r'
-        Rscript 'R/r_plots.r'
+        bash update.sh
 
     - name: Commit files
       run: |

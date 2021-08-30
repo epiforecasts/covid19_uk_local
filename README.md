@@ -1,29 +1,66 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-All plots generated using data from [Epiforecasts UK
-Covid](https://epiforecasts.io/covid/posts/national/united-kingdom/).
+All plots generated using data and estimates from [Epiforecasts UK
+Covid](https://epiforecasts.io/covid/posts/national/united-kingdom/)
+separately for test positive cases, hospital admisssions, and mortality.
 
 # R vs incidence - week-on-week change
 
-![](figure/r_vs_inc_1w.png)
+## Cases
+
+![](figure/cases/r_vs_inc_1w.png)
+
+## Admissions (England only)
+
+![](figure/admissions/r_vs_inc_1w.png)
+
+## Deaths
+
+![](figure/deaths/r_vs_inc_1w.png)
 
 # R vs incidence - by region
 
-![](figure/r_vs_inc_region.png)
+## Cases
 
-# Proportion of UTLAs likely to have R\>1
+![](figure/cases/r_vs_inc_region.png)
 
-![](figure/latest_prop_gt1.png)
+## Admissions (England only)
 
-# Proportion of UTLAs likely to have R\>1 by NHS region and devolved authority
+![](figure/admissions/r_vs_inc_region.png)
 
-![](figure/latest_prop_gt1_da_region.png)
+## Deaths
 
-# Distribution of reproduction numbers by region
+![](figure/deaths/r_vs_inc_region.png)
 
-![](figure/R_ranking.png)
+# Proportion of UTLAs likely to have R>1
+
+## Cases
+
+![](figure/cases/latest_prop_gt1.png)
+
+## Admissions (England only)
+
+![](figure/admissions/latest_prop_gt1.png)
+
+## Deaths
+
+![](figure/deaths/latest_prop_gt1.png)
 
 # Recent reproduction numbers
 
-![](figure/recent_r.png)
+## Cases
+
+![](figure/cases/recent_r.png)
+
+## Admissions (England only)
+
+![](figure/admissions/recent_r.png)
+
+## Deaths
+
+![](figure/deaths/recent_r.png)
+
+# Cases vs. admissions
+
+![](figure/cas_adm.png)
