@@ -15,14 +15,10 @@ com <- adm %>%
   mutate(label = if_else(!is.na(label.adm) | !is.na(label.cas),
          region, NA_character_))
 
-xmax <- max(com$median_R.cas, na.rm = TRUE) +
-  IQR(com$median_R.cas, na.rm = TRUE)
-xmin <- min(com$median_R.cas, na.rm = TRUE) -
-  IQR(com$median_R.cas, na.rm = TRUE)
-ymax <- max(com$median_R.adm, na.rm = TRUE) +
-  IQR(com$median_R.adm, na.rm = TRUE)
-ymin <- min(com$median_R.adm, na.rm = TRUE) -
-  IQR(com$median_R.adm, na.rm = TRUE)
+xmax <- 1.1 * max(com$median_R.cas, na.rm = TRUE)
+xmin <- 0.9 * min(com$median_R.cas, na.rm = TRUE)
+ymax <- 1.1 * max(com$median_R.adm, na.rm = TRUE)
+ymin <- 0.9 * min(com$median_R.adm, na.rm = TRUE)
 
 p <- ggplot(com, aes(x = median_R.cas, y = median_R.adm,
                      color = nhse_region)) +

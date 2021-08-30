@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 Title <- "Latest R vs incidence plots"
 ```
 
-All plots generated using data and estimates from [Epiforecasts UK Covid](https://epiforecasts.io/covid/posts/national/united-kingdom/) for test positive cases, hospital admisssions, and mortality.
+All plots generated using data and estimates from [Epiforecasts UK Covid](https://epiforecasts.io/covid/posts/national/united-kingdom/) separately for test positive cases, hospital admisssions, and mortality.
 
 # R vs incidence - week-on-week change
 
@@ -21,11 +21,11 @@ All plots generated using data and estimates from [Epiforecasts UK Covid](https:
 
 ![](figure/cases/r_vs_inc_1w.png)
 
-## Admissions
+## Admissions (England only)
 
 ![](figure/admissions/r_vs_inc_1w.png)
 
-## Mortality
+## Deaths
 
 ![](figure/deaths/r_vs_inc_1w.png)
 
@@ -35,11 +35,11 @@ All plots generated using data and estimates from [Epiforecasts UK Covid](https:
 
 ![](figure/cases/r_vs_inc_region.png)
 
-## Admissions
+## Admissions (England only)
 
 ![](figure/admissions/r_vs_inc_region.png)
 
-## Mortality
+## Deaths
 
 ![](figure/deaths/r_vs_inc_region.png)
 
@@ -49,11 +49,11 @@ All plots generated using data and estimates from [Epiforecasts UK Covid](https:
 
 ![](figure/cases/latest_prop_gt1.png)
 
-## Admissions
+## Admissions (England only)
 
 ![](figure/admissions/latest_prop_gt1.png)
 
-## Mortality
+## Deaths
 
 ![](figure/deaths/latest_prop_gt1.png)
 
@@ -64,11 +64,11 @@ All plots generated using data and estimates from [Epiforecasts UK Covid](https:
 
 ![](figure/cases/latest_prop_gt1_da_region.png)
 
-## Admissions
+## Admissions (England only)
 
 ![](figure/admissions/latest_prop_gt1_da_region.png)
 
-## Mortality
+## Deaths
 
 ![](figure/deaths/latest_prop_gt1_da_region.png)
 
@@ -78,11 +78,11 @@ All plots generated using data and estimates from [Epiforecasts UK Covid](https:
 
 ![](figure/cases/R_ranking.png)
 
-## Admissions
+## Admissions (England only)
 
 ![](figure/admissions/R_ranking.png)
 
-## Mortality
+## Deaths
 
 ![](figure/deaths/R_ranking.png)
 
@@ -92,11 +92,11 @@ All plots generated using data and estimates from [Epiforecasts UK Covid](https:
 
 ![](figure/cases/recent_r.png)
 
-## Admissions
+## Admissions (England only)
 
 ![](figure/admissions/recent_r.png)
 
-## Mortality
+## Deaths
 
 ![](figure/deaths/recent_r.png)
 

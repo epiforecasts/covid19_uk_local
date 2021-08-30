@@ -7,6 +7,8 @@ option_list <- list(
     )
 args <- parse_args(OptionParser(option_list = option_list))
 
+das <- c("Northern Ireland", "Scotland", "Wales")
+
 library("readxl")
 library("janitor")
 library("dplyr")
@@ -15,6 +17,7 @@ library("vroom")
 library("ggplot2")
 library("ggrepel")
 library("ggExtra")
+library("magrittr")
 
 # make output directory
 fig_path <- here::here("figure", args$source)
@@ -25,7 +28,9 @@ dir.create(out_path, recursive = TRUE, showWarnings = FALSE)
 
 ## get UTLA/NHSER mapping
 utla_nhser <- readRDS(here::here("data", "utla_nhser.rds")) %>%
-  rename(region = utla_name)
+  rename(region = utla_name) %>%
+  mutate(nhse_region = factor(nhse_region,
+                              c(setdiff(unique(nhse_region), das), das)))
 
 pop_l <- read_excel(here::here("data", "uk_pop.xls"),
                        sheet = "MYE2 - Persons", skip = 4) %>%
@@ -61,12 +66,13 @@ compare <- pop_l %>%
   mutate(median_abs = median_rep) %>%
   mutate_at(vars(ends_with("_rep")), ~ . / pop * 700000) %>%
   left_join(utla_nhser, by = "region") %>%
-  mutate(nhse_region = if_else(nation == "England", nhse_region,
+  mutate(nhse_region = if_else(nation == "England", as.character(nhse_region),
                                as.character(nation)),
          nhse_region = if_else(grepl("^Cornwall", region), "South West",
                                nhse_region),
          nhse_region = if_else(grepl("^Hackney", region), "London",
-                               nhse_region))
+                               nhse_region),
+         nhse_region = factor(nhse_region, levels(utla_nhser$nhse_region)))
 
 compare_latest <- compare %>%
   filter(type != "forecast") %>%
@@ -103,9 +109,29 @@ compare_previous <- rt %>%
   unite("name", c(name, select)) %>%
   pivot_wider() %>%
   left_join(utla_nhser, by = "region") %>%
-  mutate(nhse_region = if_else(is.na(nhse_region), "Other", nhse_region)) %>%
   pivot_longer(c(starts_with("R_"), starts_with("rep_"))) %>%
   separate(name, c("variable", "date"), remove = FALSE)
+
+xmin <- compare_previous %>%
+  filter(variable == "R") %>%
+  pull(value) %>%
+  min %>%
+  multiply_by(0.9)
+xmax <- compare_previous %>%
+  filter(variable == "R") %>%
+  pull(value) %>%
+  max %>%
+  multiply_by(1.1)
+ymin <- compare_previous %>%
+  filter(variable == "rep") %>%
+  pull(value) %>%
+  min %>%
+  multiply_by(0.9)
+ymax <- compare_previous %>%
+  filter(variable == "rep") %>%
+  pull(value) %>%
+  max %>%
+  multiply_by(1.1)
 
 p <- ggplot(compare_previous %>% select(-name) %>%
             pivot_wider(names_from = "variable"),
@@ -117,6 +143,12 @@ p <- ggplot(compare_previous %>% select(-name) %>%
                           y = paste("rep", week_label_short, sep = "_"),
                           xend = 'R_last', yend = "rep_last"),
                arrow = arrow(length = unit(0.01, "npc"))) +
+  geom_errorbar(data = compare_latest,
+                alpha = 0.3, aes(ymin = lower_20_rep, ymax = upper_20_rep,
+                                 x = median_R)) +
+  geom_errorbar(data = compare_latest,
+                alpha = 0.15, aes(ymin = lower_50_rep, ymax = upper_50_rep,
+                                  x = median_R)) +
   geom_errorbarh(data = compare_latest,
                  alpha = 0.3, aes(xmin = lower_20_R, xmax = upper_20_R,
                                   y = median_rep)) +
@@ -129,6 +161,7 @@ p <- ggplot(compare_previous %>% select(-name) %>%
   geom_point(aes(y = rep, x = R)) +
   ylab("7-day incidence / 100k") +
   xlab("R") +
+  coord_cartesian(xlim = c(xmin, xmax), ylim = c(ymin, ymax)) +
   theme_bw() +
   scale_colour_manual("", values = c("black", "red"),
                       breaks = c("last", week_label_short),
@@ -149,6 +182,23 @@ ggsave(file.path(fig_path, paste0("r_vs_inc_", week_label_short, ".png")),
        width = 11, height = 7
        )
 
+xmin <- compare_latest %>%
+  pull(median_R) %>%
+  min %>%
+  multiply_by(0.9)
+xmax <- compare_latest %>%
+  pull(median_R) %>%
+  max %>%
+  multiply_by(1.1)
+ymin <- compare_latest %>%
+  pull(median_rep) %>%
+  min %>%
+  multiply_by(0.9)
+ymax <- compare_latest %>%
+  pull(median_rep) %>%
+  max %>%
+  multiply_by(1.1)
+
 p <- ggplot(compare_latest,
        aes(y = median_rep, x = median_R, colour = nhse_region)) +
   geom_point() +
@@ -161,7 +211,8 @@ p <- ggplot(compare_latest,
   xlab("R") +
   theme_bw() +
   geom_vline(xintercept = 1, linetype = "dashed") +
-  scale_color_brewer("Region", palette = "Paired")
+  coord_cartesian(xlim = c(xmin, xmax), ylim = c(ymin, ymax)) +
+  scale_color_brewer("Region", palette = "Paired", drop = FALSE)
 
 ggsave(file.path(fig_path, "r_vs_inc_region.png"), p, width = 11, height = 6)
 
