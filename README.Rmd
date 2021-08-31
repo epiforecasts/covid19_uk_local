@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 Title <- "Latest R vs incidence plots"
 ```
 
-All plots generated using data and estimates from [Epiforecasts UK Covid](https://epiforecasts.io/covid/posts/national/united-kingdom/) separately for test positive cases, hospital admisssions, and mortality.
+All plots generated daily using data and estimates from [Epiforecasts UK Covid](https://epiforecasts.io/covid/posts/national/united-kingdom/) separately for test positive cases, hospital admisssions, and mortality.
 
 # R vs incidence - week-on-week change
 
