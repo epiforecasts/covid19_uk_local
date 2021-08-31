@@ -15,22 +15,15 @@ com <- adm %>%
   mutate(label = if_else(!is.na(label.adm) | !is.na(label.cas),
          region, NA_character_))
 
-xmax <- 1.1 * max(com$median_R.cas, na.rm = TRUE)
-xmin <- 0.9 * min(com$median_R.cas, na.rm = TRUE)
-ymax <- 1.1 * max(com$median_R.adm, na.rm = TRUE)
-ymin <- 0.9 * min(com$median_R.adm, na.rm = TRUE)
-
 p <- ggplot(com, aes(x = median_R.cas, y = median_R.adm,
                      color = nhse_region)) +
   geom_point() +
-  xlab("Cases") +
-  ylab("Admissions") +
+  xlab("R based on Cases") +
+  ylab("R based on Admissions") +
   geom_text_repel(aes(label = label), show.legend = FALSE) +
   theme_bw() +
   geom_vline(xintercept = 1, linetype = "dashed") +
   geom_hline(yintercept = 1, linetype = "dashed") +
-  scale_color_brewer("Region", palette = "Paired") +
-  coord_cartesian(xlim = c(xmin, xmax),
-                  ylim = c(ymin, ymax))
+  scale_color_brewer("Region", palette = "Paired")
 
 ggsave(file.path(fig_path, "cas_adm.png"), p, width = 11, height = 6)
