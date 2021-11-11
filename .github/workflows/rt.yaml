@@ -19,7 +19,7 @@ jobs:
 
     - name: Install R dependencies
       run: |
-        install.packages(c("dplyr", "ggplot2", "ggrepel", "optparse", "readxl", "janitor", "tidyr", "vroom", "ggExtra", "magrittr", "here", "covidregionaldata", "stringr"))
+        install.packages(c("dplyr", "ggplot2", "ggrepel", "optparse", "readxl", "janitor", "tidyr", "vroom", "ggExtra", "magrittr", "here", "covidregionaldata", "stringr", "svglite"))
       shell: Rscript {0}
 
     - name: Generate latest plots
