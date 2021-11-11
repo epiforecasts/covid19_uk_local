@@ -9,6 +9,7 @@ jobs:
     runs-on: ubuntu-20.04
     env:
       RSPM: "https://packagemanager.rstudio.com/cran/__linux__/focal/latest"
+      GITHUB_PAT: ${{ secrets.API_TOKEN_GITHUB }}
     steps:
     - uses: actions/checkout@master
     - uses: r-lib/actions/setup-r@v1
@@ -16,19 +17,10 @@ jobs:
     - name: Install system dependencies
       run: sudo apt-get install libudunits2-dev libcurl4-openssl-dev libgdal-dev
 
-    - name: Cache packages
-      uses: actions/cache@v2
-      with:
-        path: ~/.local/share/renv
-        key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
-        restore-keys: |
-          ${{ runner.os }}-renv-
-
-    - name: Restore packages
-      shell: Rscript {0}
+    - name: Install R dependencies
       run: |
-        if (!requireNamespace("renv", quietly = TRUE)) install.packages("renv")
-        renv::restore()
+        install.packages(c("dplyr", "ggplot2", "ggrepel", "optparse", "readxl", "janitor", "tidyr", "vroom", "ggExtra", "magrittr", "here", "covidregionaldata", "stringr"))
+      shell: Rscript {0}
 
     - name: Generate latest plots
       run: | 
