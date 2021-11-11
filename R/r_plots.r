@@ -95,7 +95,7 @@ p <- ggplot(utla_sorted,
         axis.text.x=element_blank(),
         axis.ticks.x=element_blank())
 
-ggsave(file.path(fig_path, "R_ranking.png"), p, height = 4, width = 12)
+ggsave(file.path(fig_path, "R_ranking.svg"), p, height = 4, width = 12)
 
 prop_gt <- rt_by_utla %>%
   filter(date > max(date) - 90) %>%
@@ -126,7 +126,7 @@ plot_gt <- function(data) {
 
 p <- plot_gt(prop_gt)
 
-ggsave(file.path(fig_path, "latest_prop_gt1.png"), p, height = 6.5, width = 11)
+ggsave(file.path(fig_path, "latest_prop_gt1.svg"), p, height = 6.5, width = 11)
 
 prop_gt_da_region <- prop_gt %>%
   group_by(date, nhse_region) %>%
@@ -137,5 +137,5 @@ prop_gt_da_region <- prop_gt %>%
 p <- plot_gt(prop_gt_da_region) + 
   facet_wrap(~ nhse_region)
 
-ggsave(file.path(fig_path, "latest_prop_gt1_da_region.png"), p,
+ggsave(file.path(fig_path, "latest_prop_gt1_da_region.svg"), p,
                   height = 8, width = 8)

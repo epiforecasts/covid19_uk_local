@@ -26,4 +26,4 @@ p <- ggplot(com, aes(x = median_R.cas, y = median_R.adm,
   geom_hline(yintercept = 1, linetype = "dashed") +
   scale_color_brewer("Region", palette = "Paired")
 
-ggsave(file.path(fig_path, "cas_adm.png"), p, width = 11, height = 6)
+ggsave(file.path(fig_path, "cas_adm.svg"), p, width = 11, height = 6)

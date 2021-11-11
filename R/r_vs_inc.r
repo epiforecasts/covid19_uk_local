@@ -171,7 +171,7 @@ p <- ggplot(compare_previous %>% select(-name) %>%
                     labels = c("latest", week_label)) +
   theme(legend.position = "bottom")
 
-ggsave(file.path(fig_path, paste0("r_vs_inc_", week_label_short, ".png")),
+ggsave(file.path(fig_path, paste0("r_vs_inc_", week_label_short, ".svg")),
        suppressWarnings(
          ggMarginal(p,
                     groupFill = TRUE, groupColour = TRUE, type = "histogram",
@@ -214,7 +214,7 @@ p <- ggplot(compare_latest,
   coord_cartesian(xlim = c(xmin, xmax), ylim = c(ymin, ymax)) +
   scale_color_brewer("Region", palette = "Paired", drop = FALSE)
 
-ggsave(file.path(fig_path, "r_vs_inc_region.png"), p, width = 11, height = 6)
+ggsave(file.path(fig_path, "r_vs_inc_region.svg"), p, width = 11, height = 6)
 
 weeks_hist <- 5
 
@@ -239,4 +239,4 @@ p <- ggplot(recent, aes(x = date, y = median_R,
   theme(legend.position = "bottom") +
   geom_text_repel(aes(label = label), show.legend = FALSE)
 
-ggsave(file.path(fig_path, "recent_r.png"), p, width = 11, height = 6)
+ggsave(file.path(fig_path, "recent_r.svg"), p, width = 11, height = 6)
