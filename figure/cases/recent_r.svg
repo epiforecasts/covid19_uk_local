@@ -1322,12 +1322,12 @@
 <polyline points='71.49,255.02 207.69,260.73 343.88,262.74 480.08,262.31 616.28,261.15 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.20; stroke-linecap: butt;' />
 <polyline points='71.49,218.91 207.69,235.76 343.88,260.59 480.08,275.04 616.28,279.68 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.20; stroke-linecap: butt;' />
 <line x1='37.44' y1='252.98' x2='786.52' y2='252.98' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.50; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
-<text x='581.97' y='190.04' text-anchor='middle' style='font-size: 11.04px; fill: #B2DF8A; font-family: Liberation Sans;' textLength='58.91px' lengthAdjust='spacingAndGlyphs'>Shropshire</text>
-<text x='634.73' y='266.60' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='102.10px' lengthAdjust='spacingAndGlyphs'>Clackmannanshire</text>
-<text x='620.65' y='244.48' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='35.53px' lengthAdjust='spacingAndGlyphs'>Falkirk</text>
-<text x='634.46' y='173.82' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='57.30px' lengthAdjust='spacingAndGlyphs'>Inverclyde</text>
-<text x='570.54' y='158.46' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='81.99px' lengthAdjust='spacingAndGlyphs'>Orkney Islands</text>
-<text x='598.00' y='289.54' text-anchor='middle' style='font-size: 11.04px; fill: #6A3D9A; font-family: Liberation Sans;' textLength='40.57px' lengthAdjust='spacingAndGlyphs'>Torfaen</text>
+<text x='650.56' y='190.04' text-anchor='middle' style='font-size: 11.04px; fill: #B2DF8A; font-family: Liberation Sans;' textLength='58.91px' lengthAdjust='spacingAndGlyphs'>Shropshire</text>
+<text x='602.51' y='266.65' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='102.10px' lengthAdjust='spacingAndGlyphs'>Clackmannanshire</text>
+<text x='616.60' y='244.47' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='35.53px' lengthAdjust='spacingAndGlyphs'>Falkirk</text>
+<text x='614.73' y='173.80' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='57.30px' lengthAdjust='spacingAndGlyphs'>Inverclyde</text>
+<text x='634.42' y='147.85' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='81.99px' lengthAdjust='spacingAndGlyphs'>Orkney Islands</text>
+<text x='634.61' y='289.54' text-anchor='middle' style='font-size: 11.04px; fill: #6A3D9A; font-family: Liberation Sans;' textLength='40.57px' lengthAdjust='spacingAndGlyphs'>Torfaen</text>
 <rect x='37.44' y='5.48' width='749.08' height='338.34' style='stroke-width: 1.07; stroke: #333333;' />
 </g>
 <g clip-path='url(#cpMC4wMHw3OTIuMDB8MC4wMHw0MzIuMDA=)'>
