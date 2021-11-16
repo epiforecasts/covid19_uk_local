@@ -1333,22 +1333,22 @@
 <polyline points='71.49,222.38 207.69,226.65 343.88,223.43 480.08,220.15 616.28,217.70 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.20; stroke-linecap: butt;' />
 <polyline points='71.49,181.11 207.69,210.30 343.88,232.89 480.08,235.20 616.28,232.64 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.20; stroke-linecap: butt;' />
 <line x1='37.44' y1='217.88' x2='786.52' y2='217.88' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.50; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
-<line x1='620.37' y1='60.20' x2='616.61' y2='67.70' style='stroke-width: 1.07; stroke: #E31A1C;' />
-<line x1='606.07' y1='153.36' x2='615.31' y2='148.37' style='stroke-width: 1.07; stroke: #FF7F00;' />
-<text x='634.73' y='36.39' text-anchor='middle' style='font-size: 11.04px; fill: #FDBF6F; font-family: Liberation Sans;' textLength='77.83px' lengthAdjust='spacingAndGlyphs'>Bristol, City of</text>
-<text x='652.01' y='61.29' text-anchor='middle' style='font-size: 11.04px; fill: #E31A1C; font-family: Liberation Sans;' textLength='59.68px' lengthAdjust='spacingAndGlyphs'>Hampshire</text>
-<text x='576.97' y='17.12' text-anchor='middle' style='font-size: 11.04px; fill: #E31A1C; font-family: Liberation Sans;' textLength='68.54px' lengthAdjust='spacingAndGlyphs'>Isle of Wight</text>
-<text x='664.99' y='92.02' text-anchor='middle' style='font-size: 11.04px; fill: #FDBF6F; font-family: Liberation Sans;' textLength='87.03px' lengthAdjust='spacingAndGlyphs'>North Somerset</text>
-<text x='573.00' y='54.28' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='84.19px' lengthAdjust='spacingAndGlyphs'>North Yorkshire</text>
-<text x='544.56' y='85.92' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='133.77px' lengthAdjust='spacingAndGlyphs'>Richmond upon Thames</text>
-<text x='683.10' y='107.39' text-anchor='middle' style='font-size: 11.04px; fill: #FDBF6F; font-family: Liberation Sans;' textLength='122.05px' lengthAdjust='spacingAndGlyphs'>South Gloucestershire</text>
-<text x='586.86' y='70.49' text-anchor='middle' style='font-size: 11.04px; fill: #A6CEE3; font-family: Liberation Sans;' textLength='48.55px' lengthAdjust='spacingAndGlyphs'>Thurrock</text>
-<text x='655.96' y='76.70' text-anchor='middle' style='font-size: 11.04px; fill: #E31A1C; font-family: Liberation Sans;' textLength='69.24px' lengthAdjust='spacingAndGlyphs'>West Sussex</text>
-<text x='587.02' y='101.19' text-anchor='middle' style='font-size: 11.04px; fill: #FDBF6F; font-family: Liberation Sans;' textLength='48.01px' lengthAdjust='spacingAndGlyphs'>Wiltshire</text>
-<text x='597.68' y='163.20' text-anchor='middle' style='font-size: 11.04px; fill: #FF7F00; font-family: Liberation Sans;' textLength='216.09px' lengthAdjust='spacingAndGlyphs'>Armagh City, Banbridge and Craigavon</text>
-<text x='634.84' y='199.14' text-anchor='middle' style='font-size: 11.04px; fill: #FF7F00; font-family: Liberation Sans;' textLength='130.05px' lengthAdjust='spacingAndGlyphs'>Fermanagh and Omagh</text>
-<text x='649.54' y='147.96' text-anchor='middle' style='font-size: 11.04px; fill: #FF7F00; font-family: Liberation Sans;' textLength='55.63px' lengthAdjust='spacingAndGlyphs'>Mid Ulster</text>
-<text x='597.96' y='231.36' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='102.10px' lengthAdjust='spacingAndGlyphs'>Clackmannanshire</text>
+<line x1='619.65' y1='108.89' x2='616.43' y2='94.19' style='stroke-width: 1.07; stroke: #FDBF6F;' />
+<line x1='626.32' y1='153.26' x2='617.25' y2='148.37' style='stroke-width: 1.07; stroke: #FF7F00;' />
+<text x='598.00' y='36.41' text-anchor='middle' style='font-size: 11.04px; fill: #FDBF6F; font-family: Liberation Sans;' textLength='77.83px' lengthAdjust='spacingAndGlyphs'>Bristol, City of</text>
+<text x='581.36' y='69.89' text-anchor='middle' style='font-size: 11.04px; fill: #E31A1C; font-family: Liberation Sans;' textLength='59.68px' lengthAdjust='spacingAndGlyphs'>Hampshire</text>
+<text x='655.62' y='17.12' text-anchor='middle' style='font-size: 11.04px; fill: #E31A1C; font-family: Liberation Sans;' textLength='68.54px' lengthAdjust='spacingAndGlyphs'>Isle of Wight</text>
+<text x='664.79' y='84.16' text-anchor='middle' style='font-size: 11.04px; fill: #FDBF6F; font-family: Liberation Sans;' textLength='87.03px' lengthAdjust='spacingAndGlyphs'>North Somerset</text>
+<text x='598.97' y='53.74' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='84.19px' lengthAdjust='spacingAndGlyphs'>North Yorkshire</text>
+<text x='689.21' y='99.38' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='133.77px' lengthAdjust='spacingAndGlyphs'>Richmond upon Thames</text>
+<text x='682.48' y='114.85' text-anchor='middle' style='font-size: 11.04px; fill: #FDBF6F; font-family: Liberation Sans;' textLength='122.05px' lengthAdjust='spacingAndGlyphs'>South Gloucestershire</text>
+<text x='645.62' y='68.94' text-anchor='middle' style='font-size: 11.04px; fill: #A6CEE3; font-family: Liberation Sans;' textLength='48.55px' lengthAdjust='spacingAndGlyphs'>Thurrock</text>
+<text x='576.49' y='85.12' text-anchor='middle' style='font-size: 11.04px; fill: #E31A1C; font-family: Liberation Sans;' textLength='69.24px' lengthAdjust='spacingAndGlyphs'>West Sussex</text>
+<text x='587.11' y='100.96' text-anchor='middle' style='font-size: 11.04px; fill: #FDBF6F; font-family: Liberation Sans;' textLength='48.01px' lengthAdjust='spacingAndGlyphs'>Wiltshire</text>
+<text x='634.65' y='163.11' text-anchor='middle' style='font-size: 11.04px; fill: #FF7F00; font-family: Liberation Sans;' textLength='216.09px' lengthAdjust='spacingAndGlyphs'>Armagh City, Banbridge and Craigavon</text>
+<text x='597.77' y='199.15' text-anchor='middle' style='font-size: 11.04px; fill: #FF7F00; font-family: Liberation Sans;' textLength='130.05px' lengthAdjust='spacingAndGlyphs'>Fermanagh and Omagh</text>
+<text x='583.21' y='147.85' text-anchor='middle' style='font-size: 11.04px; fill: #FF7F00; font-family: Liberation Sans;' textLength='55.63px' lengthAdjust='spacingAndGlyphs'>Mid Ulster</text>
+<text x='634.71' y='214.77' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='102.10px' lengthAdjust='spacingAndGlyphs'>Clackmannanshire</text>
 <rect x='37.44' y='5.48' width='749.08' height='338.34' style='stroke-width: 1.07; stroke: #333333;' />
 </g>
 <g clip-path='url(#cpMC4wMHw3OTIuMDB8MC4wMHw0MzIuMDA=)'>
