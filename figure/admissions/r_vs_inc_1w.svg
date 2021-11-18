@@ -2126,18 +2126,18 @@
 <polyline points='332.46,368.47 332.46,368.46 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.15; stroke-linecap: butt;' />
 <polyline points='332.46,368.46 284.90,368.46 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.15; stroke-linecap: butt;' />
 <polyline points='284.90,368.47 284.90,368.46 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.15; stroke-linecap: butt;' />
-<text x='367.52' y='113.49' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='47.79px' lengthAdjust='spacingAndGlyphs'>Barnsley</text>
-<text x='381.13' y='241.24' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='43.32px' lengthAdjust='spacingAndGlyphs'>Bedford</text>
-<text x='271.17' y='341.16' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='209.37px' lengthAdjust='spacingAndGlyphs'>Bournemouth, Christchurch and Poole</text>
+<text x='367.60' y='113.46' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='47.79px' lengthAdjust='spacingAndGlyphs'>Barnsley</text>
+<text x='381.13' y='241.16' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='43.32px' lengthAdjust='spacingAndGlyphs'>Bedford</text>
+<text x='270.63' y='341.09' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='209.37px' lengthAdjust='spacingAndGlyphs'>Bournemouth, Christchurch and Poole</text>
 <text x='409.72' y='360.07' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='103.35px' lengthAdjust='spacingAndGlyphs'>Brighton and Hove</text>
-<text x='407.76' y='325.80' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='113.89px' lengthAdjust='spacingAndGlyphs'>Central Bedfordshire</text>
-<text x='524.54' y='251.94' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='65.92px' lengthAdjust='spacingAndGlyphs'>East Sussex</text>
-<text x='457.98' y='379.56' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='55.29px' lengthAdjust='spacingAndGlyphs'>Hillingdon</text>
-<text x='403.22' y='289.70' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='31.01px' lengthAdjust='spacingAndGlyphs'>Luton</text>
-<text x='294.87' y='273.47' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='81.20px' lengthAdjust='spacingAndGlyphs'>Middlesbrough</text>
-<text x='295.82' y='297.46' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='116.88px' lengthAdjust='spacingAndGlyphs'>Newcastle upon Tyne</text>
-<text x='298.24' y='256.45' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='46.81px' lengthAdjust='spacingAndGlyphs'>Swindon</text>
-<text x='347.75' y='382.86' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='68.32px' lengthAdjust='spacingAndGlyphs'>Wandsworth</text>
+<text x='407.68' y='325.77' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='113.89px' lengthAdjust='spacingAndGlyphs'>Central Bedfordshire</text>
+<text x='524.56' y='251.94' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='65.92px' lengthAdjust='spacingAndGlyphs'>East Sussex</text>
+<text x='457.99' y='379.64' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='55.29px' lengthAdjust='spacingAndGlyphs'>Hillingdon</text>
+<text x='403.37' y='289.74' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='31.01px' lengthAdjust='spacingAndGlyphs'>Luton</text>
+<text x='294.81' y='273.43' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='81.20px' lengthAdjust='spacingAndGlyphs'>Middlesbrough</text>
+<text x='295.83' y='297.46' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='116.88px' lengthAdjust='spacingAndGlyphs'>Newcastle upon Tyne</text>
+<text x='298.38' y='256.49' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='46.81px' lengthAdjust='spacingAndGlyphs'>Swindon</text>
+<text x='347.67' y='382.91' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='68.32px' lengthAdjust='spacingAndGlyphs'>Wandsworth</text>
 <line x1='305.78' y1='431.21' x2='305.78' y2='71.87' style='stroke-width: 1.07; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
 <circle cx='293.88' cy='391.92' r='1.95' style='stroke-width: 0.71; stroke: #FF0000; fill: #FF0000;' />
 <circle cx='293.40' cy='391.92' r='1.95' style='stroke-width: 0.71; fill: #000000;' />
