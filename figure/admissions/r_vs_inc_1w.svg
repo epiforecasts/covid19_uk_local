@@ -2123,17 +2123,17 @@
 <polyline points='355.21,356.86 355.21,356.86 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.15; stroke-linecap: butt;' />
 <polyline points='355.21,356.86 298.35,356.86 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.15; stroke-linecap: butt;' />
 <polyline points='298.35,356.86 298.35,356.86 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.15; stroke-linecap: butt;' />
-<text x='166.77' y='204.62' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='47.79px' lengthAdjust='spacingAndGlyphs'>Barnsley</text>
-<text x='211.95' y='269.43' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='43.32px' lengthAdjust='spacingAndGlyphs'>Bedford</text>
-<text x='186.91' y='295.95' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='53.40px' lengthAdjust='spacingAndGlyphs'>Blackpool</text>
-<text x='416.81' y='364.67' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='103.35px' lengthAdjust='spacingAndGlyphs'>Brighton and Hove</text>
-<text x='408.99' y='334.20' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='35.55px' lengthAdjust='spacingAndGlyphs'>Devon</text>
-<text x='321.90' y='273.35' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='56.46px' lengthAdjust='spacingAndGlyphs'>Doncaster</text>
-<text x='495.50' y='131.38' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='65.92px' lengthAdjust='spacingAndGlyphs'>East Sussex</text>
-<text x='507.28' y='349.42' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='147.04px' lengthAdjust='spacingAndGlyphs'>Kingston upon Hull, City of</text>
-<text x='343.96' y='349.43' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='100.30px' lengthAdjust='spacingAndGlyphs'>Northamptonshire</text>
-<text x='272.16' y='289.95' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='46.81px' lengthAdjust='spacingAndGlyphs'>Swindon</text>
-<text x='388.71' y='292.48' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='51.80px' lengthAdjust='spacingAndGlyphs'>Tameside</text>
+<text x='166.67' y='204.64' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='47.79px' lengthAdjust='spacingAndGlyphs'>Barnsley</text>
+<text x='211.79' y='269.41' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='43.32px' lengthAdjust='spacingAndGlyphs'>Bedford</text>
+<text x='187.03' y='295.89' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='53.40px' lengthAdjust='spacingAndGlyphs'>Blackpool</text>
+<text x='416.18' y='364.66' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='103.35px' lengthAdjust='spacingAndGlyphs'>Brighton and Hove</text>
+<text x='409.40' y='334.17' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='35.55px' lengthAdjust='spacingAndGlyphs'>Devon</text>
+<text x='321.74' y='273.25' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='56.46px' lengthAdjust='spacingAndGlyphs'>Doncaster</text>
+<text x='525.22' y='114.44' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='65.92px' lengthAdjust='spacingAndGlyphs'>East Sussex</text>
+<text x='506.88' y='349.40' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='147.04px' lengthAdjust='spacingAndGlyphs'>Kingston upon Hull, City of</text>
+<text x='343.98' y='349.42' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='100.30px' lengthAdjust='spacingAndGlyphs'>Northamptonshire</text>
+<text x='272.01' y='289.85' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='46.81px' lengthAdjust='spacingAndGlyphs'>Swindon</text>
+<text x='388.83' y='292.56' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='51.80px' lengthAdjust='spacingAndGlyphs'>Tameside</text>
 <line x1='321.32' y1='431.21' x2='321.32' y2='71.87' style='stroke-width: 1.07; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
 <circle cx='315.66' cy='386.18' r='1.95' style='stroke-width: 0.71; stroke: #FF0000; fill: #FF0000;' />
 <circle cx='314.65' cy='386.18' r='1.95' style='stroke-width: 0.71; fill: #000000;' />
