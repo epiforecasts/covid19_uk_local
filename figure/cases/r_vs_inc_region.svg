@@ -2827,21 +2827,21 @@
 <polyline points='280.27,154.54 280.28,154.54 ' style='stroke-width: 1.07; stroke: #6A3D9A; stroke-opacity: 0.15; stroke-linecap: butt;' />
 <polyline points='280.28,154.54 280.28,408.04 ' style='stroke-width: 1.07; stroke: #6A3D9A; stroke-opacity: 0.15; stroke-linecap: butt;' />
 <polyline points='280.27,408.04 280.28,408.04 ' style='stroke-width: 1.07; stroke: #6A3D9A; stroke-opacity: 0.15; stroke-linecap: butt;' />
-<line x1='393.84' y1='210.13' x2='387.25' y2='214.73' style='stroke-width: 1.07; stroke: #FF7F00;' />
-<text x='485.59' y='247.61' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='149.64px' lengthAdjust='spacingAndGlyphs'>Cheshire West and Chester</text>
-<text x='428.92' y='262.88' text-anchor='middle' style='font-size: 11.04px; fill: #E31A1C; font-family: Liberation Sans;' textLength='44.77px' lengthAdjust='spacingAndGlyphs'>Reading</text>
-<text x='334.21' y='243.26' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='133.77px' lengthAdjust='spacingAndGlyphs'>Richmond upon Thames</text>
-<text x='412.35' y='224.05' text-anchor='middle' style='font-size: 11.04px; fill: #B2DF8A; font-family: Liberation Sans;' textLength='42.30px' lengthAdjust='spacingAndGlyphs'>Rutland</text>
-<text x='326.89' y='223.57' text-anchor='middle' style='font-size: 11.04px; fill: #FDBF6F; font-family: Liberation Sans;' textLength='36.44px' lengthAdjust='spacingAndGlyphs'>Torbay</text>
-<text x='277.22' y='214.82' text-anchor='middle' style='font-size: 11.04px; fill: #FDBF6F; font-family: Liberation Sans;' textLength='48.01px' lengthAdjust='spacingAndGlyphs'>Wiltshire</text>
-<text x='539.02' y='223.96' text-anchor='middle' style='font-size: 11.04px; fill: #E31A1C; font-family: Liberation Sans;' textLength='64.94px' lengthAdjust='spacingAndGlyphs'>Wokingham</text>
-<text x='413.69' y='190.44' text-anchor='middle' style='font-size: 11.04px; fill: #FF7F00; font-family: Liberation Sans;' textLength='150.20px' lengthAdjust='spacingAndGlyphs'>Antrim and Newtownabbey</text>
-<text x='333.54' y='135.13' text-anchor='middle' style='font-size: 11.04px; fill: #FF7F00; font-family: Liberation Sans;' textLength='150.00px' lengthAdjust='spacingAndGlyphs'>Causeway Coast and Glens</text>
-<text x='264.26' y='195.39' text-anchor='middle' style='font-size: 11.04px; fill: #FF7F00; font-family: Liberation Sans;' textLength='134.27px' lengthAdjust='spacingAndGlyphs'>Lisburn and Castlereagh</text>
-<text x='367.58' y='173.00' text-anchor='middle' style='font-size: 11.04px; fill: #FF7F00; font-family: Liberation Sans;' textLength='111.87px' lengthAdjust='spacingAndGlyphs'>Mid and East Antrim</text>
-<text x='387.97' y='75.84' text-anchor='middle' style='font-size: 11.04px; fill: #FF7F00; font-family: Liberation Sans;' textLength='55.63px' lengthAdjust='spacingAndGlyphs'>Mid Ulster</text>
-<text x='414.50' y='208.33' text-anchor='middle' style='font-size: 11.04px; fill: #FF7F00; font-family: Liberation Sans;' textLength='142.54px' lengthAdjust='spacingAndGlyphs'>Newry, Mourne and Down</text>
-<text x='488.53' y='305.82' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='90.99px' lengthAdjust='spacingAndGlyphs'>Shetland Islands</text>
+<line x1='393.78' y1='210.18' x2='387.25' y2='214.73' style='stroke-width: 1.07; stroke: #FF7F00;' />
+<text x='447.21' y='252.54' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='149.64px' lengthAdjust='spacingAndGlyphs'>Cheshire West and Chester</text>
+<text x='403.24' y='280.15' text-anchor='middle' style='font-size: 11.04px; fill: #E31A1C; font-family: Liberation Sans;' textLength='44.77px' lengthAdjust='spacingAndGlyphs'>Reading</text>
+<text x='298.49' y='239.14' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='133.77px' lengthAdjust='spacingAndGlyphs'>Richmond upon Thames</text>
+<text x='412.41' y='224.04' text-anchor='middle' style='font-size: 11.04px; fill: #B2DF8A; font-family: Liberation Sans;' textLength='42.30px' lengthAdjust='spacingAndGlyphs'>Rutland</text>
+<text x='326.79' y='223.63' text-anchor='middle' style='font-size: 11.04px; fill: #FDBF6F; font-family: Liberation Sans;' textLength='36.44px' lengthAdjust='spacingAndGlyphs'>Torbay</text>
+<text x='277.25' y='214.88' text-anchor='middle' style='font-size: 11.04px; fill: #FDBF6F; font-family: Liberation Sans;' textLength='48.01px' lengthAdjust='spacingAndGlyphs'>Wiltshire</text>
+<text x='538.93' y='224.04' text-anchor='middle' style='font-size: 11.04px; fill: #E31A1C; font-family: Liberation Sans;' textLength='64.94px' lengthAdjust='spacingAndGlyphs'>Wokingham</text>
+<text x='413.72' y='190.32' text-anchor='middle' style='font-size: 11.04px; fill: #FF7F00; font-family: Liberation Sans;' textLength='150.20px' lengthAdjust='spacingAndGlyphs'>Antrim and Newtownabbey</text>
+<text x='359.18' y='117.87' text-anchor='middle' style='font-size: 11.04px; fill: #FF7F00; font-family: Liberation Sans;' textLength='150.00px' lengthAdjust='spacingAndGlyphs'>Causeway Coast and Glens</text>
+<text x='264.34' y='194.36' text-anchor='middle' style='font-size: 11.04px; fill: #FF7F00; font-family: Liberation Sans;' textLength='134.27px' lengthAdjust='spacingAndGlyphs'>Lisburn and Castlereagh</text>
+<text x='367.65' y='172.89' text-anchor='middle' style='font-size: 11.04px; fill: #FF7F00; font-family: Liberation Sans;' textLength='111.87px' lengthAdjust='spacingAndGlyphs'>Mid and East Antrim</text>
+<text x='413.66' y='58.51' text-anchor='middle' style='font-size: 11.04px; fill: #FF7F00; font-family: Liberation Sans;' textLength='55.63px' lengthAdjust='spacingAndGlyphs'>Mid Ulster</text>
+<text x='414.46' y='208.38' text-anchor='middle' style='font-size: 11.04px; fill: #FF7F00; font-family: Liberation Sans;' textLength='142.54px' lengthAdjust='spacingAndGlyphs'>Newry, Mourne and Down</text>
+<text x='488.47' y='305.87' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='90.99px' lengthAdjust='spacingAndGlyphs'>Shetland Islands</text>
 <line x1='278.23' y1='400.29' x2='278.23' y2='5.48' style='stroke-width: 1.07; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
 <rect x='45.84' y='5.48' width='587.74' height='394.82' style='stroke-width: 1.07; stroke: #333333;' />
 </g>
