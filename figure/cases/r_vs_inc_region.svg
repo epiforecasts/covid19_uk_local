@@ -2824,20 +2824,19 @@
 <polyline points='431.07,54.11 431.07,54.11 ' style='stroke-width: 1.07; stroke: #6A3D9A; stroke-opacity: 0.15; stroke-linecap: butt;' />
 <polyline points='431.07,54.11 431.07,347.41 ' style='stroke-width: 1.07; stroke: #6A3D9A; stroke-opacity: 0.15; stroke-linecap: butt;' />
 <polyline points='431.07,347.41 431.07,347.41 ' style='stroke-width: 1.07; stroke: #6A3D9A; stroke-opacity: 0.15; stroke-linecap: butt;' />
-<line x1='484.94' y1='74.32' x2='469.04' y2='85.28' style='stroke-width: 1.07; stroke: #FF7F00;' />
-<text x='541.39' y='229.79' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='46.01px' lengthAdjust='spacingAndGlyphs'>Croydon</text>
-<text x='371.05' y='138.08' text-anchor='middle' style='font-size: 11.04px; fill: #FDBF6F; font-family: Liberation Sans;' textLength='35.55px' lengthAdjust='spacingAndGlyphs'>Devon</text>
-<text x='507.95' y='179.81' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='126.61px' lengthAdjust='spacingAndGlyphs'>Kingston upon Thames</text>
-<text x='471.33' y='153.20' text-anchor='middle' style='font-size: 11.04px; fill: #A6CEE3; font-family: Liberation Sans;' textLength='76.76px' lengthAdjust='spacingAndGlyphs'>Milton Keynes</text>
-<text x='430.06' y='85.55' text-anchor='middle' style='font-size: 11.04px; fill: #B2DF8A; font-family: Liberation Sans;' textLength='42.30px' lengthAdjust='spacingAndGlyphs'>Rutland</text>
-<text x='397.10' y='109.60' text-anchor='middle' style='font-size: 11.04px; fill: #E31A1C; font-family: Liberation Sans;' textLength='35.94px' lengthAdjust='spacingAndGlyphs'>Surrey</text>
-<text x='425.30' y='137.91' text-anchor='middle' style='font-size: 11.04px; fill: #FDBF6F; font-family: Liberation Sans;' textLength='36.44px' lengthAdjust='spacingAndGlyphs'>Torbay</text>
-<text x='507.56' y='53.75' text-anchor='middle' style='font-size: 11.04px; fill: #E31A1C; font-family: Liberation Sans;' textLength='64.94px' lengthAdjust='spacingAndGlyphs'>Wokingham</text>
-<text x='533.47' y='72.52' text-anchor='middle' style='font-size: 11.04px; fill: #FF7F00; font-family: Liberation Sans;' textLength='150.20px' lengthAdjust='spacingAndGlyphs'>Antrim and Newtownabbey</text>
-<text x='345.88' y='94.31' text-anchor='middle' style='font-size: 11.04px; fill: #FF7F00; font-family: Liberation Sans;' textLength='111.87px' lengthAdjust='spacingAndGlyphs'>Mid and East Antrim</text>
-<text x='444.27' y='100.86' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='35.53px' lengthAdjust='spacingAndGlyphs'>Falkirk</text>
-<text x='472.05' y='119.30' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='34.09px' lengthAdjust='spacingAndGlyphs'>Moray</text>
-<text x='471.67' y='214.54' text-anchor='middle' style='font-size: 11.04px; fill: #6A3D9A; font-family: Liberation Sans;' textLength='86.95px' lengthAdjust='spacingAndGlyphs'>Isle of Anglesey</text>
+<text x='515.54' y='246.99' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='46.01px' lengthAdjust='spacingAndGlyphs'>Croydon</text>
+<text x='371.08' y='138.11' text-anchor='middle' style='font-size: 11.04px; fill: #FDBF6F; font-family: Liberation Sans;' textLength='35.55px' lengthAdjust='spacingAndGlyphs'>Devon</text>
+<text x='508.03' y='179.90' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='126.61px' lengthAdjust='spacingAndGlyphs'>Kingston upon Thames</text>
+<text x='471.48' y='153.24' text-anchor='middle' style='font-size: 11.04px; fill: #A6CEE3; font-family: Liberation Sans;' textLength='76.76px' lengthAdjust='spacingAndGlyphs'>Milton Keynes</text>
+<text x='420.88' y='86.03' text-anchor='middle' style='font-size: 11.04px; fill: #B2DF8A; font-family: Liberation Sans;' textLength='42.30px' lengthAdjust='spacingAndGlyphs'>Rutland</text>
+<text x='397.07' y='109.53' text-anchor='middle' style='font-size: 11.04px; fill: #E31A1C; font-family: Liberation Sans;' textLength='35.94px' lengthAdjust='spacingAndGlyphs'>Surrey</text>
+<text x='425.28' y='137.91' text-anchor='middle' style='font-size: 11.04px; fill: #FDBF6F; font-family: Liberation Sans;' textLength='36.44px' lengthAdjust='spacingAndGlyphs'>Torbay</text>
+<text x='481.71' y='70.98' text-anchor='middle' style='font-size: 11.04px; fill: #E31A1C; font-family: Liberation Sans;' textLength='64.94px' lengthAdjust='spacingAndGlyphs'>Wokingham</text>
+<text x='547.98' y='86.33' text-anchor='middle' style='font-size: 11.04px; fill: #FF7F00; font-family: Liberation Sans;' textLength='150.20px' lengthAdjust='spacingAndGlyphs'>Antrim and Newtownabbey</text>
+<text x='336.53' y='94.28' text-anchor='middle' style='font-size: 11.04px; fill: #FF7F00; font-family: Liberation Sans;' textLength='111.87px' lengthAdjust='spacingAndGlyphs'>Mid and East Antrim</text>
+<text x='444.40' y='101.26' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='35.53px' lengthAdjust='spacingAndGlyphs'>Falkirk</text>
+<text x='471.82' y='119.37' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='34.09px' lengthAdjust='spacingAndGlyphs'>Moray</text>
+<text x='533.14' y='200.06' text-anchor='middle' style='font-size: 11.04px; fill: #6A3D9A; font-family: Liberation Sans;' textLength='86.95px' lengthAdjust='spacingAndGlyphs'>Isle of Anglesey</text>
 <line x1='421.77' y1='400.29' x2='421.77' y2='5.48' style='stroke-width: 1.07; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
 <rect x='40.24' y='5.48' width='593.33' height='394.82' style='stroke-width: 1.07; stroke: #333333;' />
 </g>
