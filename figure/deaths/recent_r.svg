@@ -1157,17 +1157,17 @@
 <polyline points='71.49,153.33 207.69,153.96 343.88,153.28 480.08,152.56 616.28,152.29 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.20; stroke-linecap: butt;' />
 <polyline points='71.49,171.18 207.69,173.06 343.88,174.22 480.08,173.88 616.28,172.79 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.20; stroke-linecap: butt;' />
 <line x1='37.44' y1='156.08' x2='786.52' y2='156.08' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.50; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
-<text x='587.28' y='198.06' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='47.79px' lengthAdjust='spacingAndGlyphs'>Barnsley</text>
-<text x='654.19' y='210.21' text-anchor='middle' style='font-size: 11.04px; fill: #E31A1C; font-family: Liberation Sans;' textLength='65.92px' lengthAdjust='spacingAndGlyphs'>East Sussex</text>
-<text x='634.70' y='246.37' text-anchor='middle' style='font-size: 11.04px; fill: #E31A1C; font-family: Liberation Sans;' textLength='59.68px' lengthAdjust='spacingAndGlyphs'>Hampshire</text>
-<text x='581.57' y='213.51' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='59.61px' lengthAdjust='spacingAndGlyphs'>Lancashire</text>
-<text x='634.61' y='229.12' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='32.28px' lengthAdjust='spacingAndGlyphs'>Leeds</text>
-<text x='634.71' y='102.76' text-anchor='middle' style='font-size: 11.04px; fill: #FDBF6F; font-family: Liberation Sans;' textLength='52.05px' lengthAdjust='spacingAndGlyphs'>Plymouth</text>
-<text x='652.96' y='127.31' text-anchor='middle' style='font-size: 11.04px; fill: #E31A1C; font-family: Liberation Sans;' textLength='63.41px' lengthAdjust='spacingAndGlyphs'>Portsmouth</text>
-<text x='647.57' y='194.87' text-anchor='middle' style='font-size: 11.04px; fill: #FDBF6F; font-family: Liberation Sans;' textLength='52.68px' lengthAdjust='spacingAndGlyphs'>Somerset</text>
-<text x='634.65' y='21.39' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='58.76px' lengthAdjust='spacingAndGlyphs'>Southwark</text>
-<text x='583.50' y='118.94' text-anchor='middle' style='font-size: 11.04px; fill: #FF7F00; font-family: Liberation Sans;' textLength='55.63px' lengthAdjust='spacingAndGlyphs'>Mid Ulster</text>
-<text x='591.78' y='134.23' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='39.05px' lengthAdjust='spacingAndGlyphs'>Stirling</text>
+<text x='587.34' y='197.98' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='47.79px' lengthAdjust='spacingAndGlyphs'>Barnsley</text>
+<text x='654.10' y='209.90' text-anchor='middle' style='font-size: 11.04px; fill: #E31A1C; font-family: Liberation Sans;' textLength='65.92px' lengthAdjust='spacingAndGlyphs'>East Sussex</text>
+<text x='597.88' y='263.02' text-anchor='middle' style='font-size: 11.04px; fill: #E31A1C; font-family: Liberation Sans;' textLength='59.68px' lengthAdjust='spacingAndGlyphs'>Hampshire</text>
+<text x='581.49' y='213.34' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='59.61px' lengthAdjust='spacingAndGlyphs'>Lancashire</text>
+<text x='634.56' y='229.11' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='32.28px' lengthAdjust='spacingAndGlyphs'>Leeds</text>
+<text x='634.47' y='102.79' text-anchor='middle' style='font-size: 11.04px; fill: #FDBF6F; font-family: Liberation Sans;' textLength='52.05px' lengthAdjust='spacingAndGlyphs'>Plymouth</text>
+<text x='652.90' y='127.33' text-anchor='middle' style='font-size: 11.04px; fill: #E31A1C; font-family: Liberation Sans;' textLength='63.41px' lengthAdjust='spacingAndGlyphs'>Portsmouth</text>
+<text x='647.48' y='194.59' text-anchor='middle' style='font-size: 11.04px; fill: #FDBF6F; font-family: Liberation Sans;' textLength='52.68px' lengthAdjust='spacingAndGlyphs'>Somerset</text>
+<text x='634.59' y='21.42' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='58.76px' lengthAdjust='spacingAndGlyphs'>Southwark</text>
+<text x='583.54' y='118.98' text-anchor='middle' style='font-size: 11.04px; fill: #FF7F00; font-family: Liberation Sans;' textLength='55.63px' lengthAdjust='spacingAndGlyphs'>Mid Ulster</text>
+<text x='591.55' y='134.22' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='39.05px' lengthAdjust='spacingAndGlyphs'>Stirling</text>
 <rect x='37.44' y='5.48' width='749.08' height='338.34' style='stroke-width: 1.07; stroke: #333333;' />
 </g>
 <g clip-path='url(#cpMC4wMHw3OTIuMDB8MC4wMHw0MzIuMDA=)'>
