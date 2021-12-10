@@ -1964,15 +1964,15 @@
 <polyline points='342.06,237.24 342.06,237.24 ' style='stroke-width: 1.07; stroke: #33A02C; stroke-opacity: 0.15; stroke-linecap: butt;' />
 <polyline points='342.06,237.24 342.06,309.80 ' style='stroke-width: 1.07; stroke: #33A02C; stroke-opacity: 0.15; stroke-linecap: butt;' />
 <polyline points='342.06,309.80 342.06,309.80 ' style='stroke-width: 1.07; stroke: #33A02C; stroke-opacity: 0.15; stroke-linecap: butt;' />
-<text x='230.63' y='68.34' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='47.79px' lengthAdjust='spacingAndGlyphs'>Barnsley</text>
-<text x='313.43' y='113.27' text-anchor='middle' style='font-size: 11.04px; fill: #A6CEE3; font-family: Liberation Sans;' textLength='43.32px' lengthAdjust='spacingAndGlyphs'>Bedford</text>
-<text x='489.78' y='233.98' text-anchor='middle' style='font-size: 11.04px; fill: #FDBF6F; font-family: Liberation Sans;' textLength='47.70px' lengthAdjust='spacingAndGlyphs'>Cornwall</text>
-<text x='381.82' y='83.80' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='56.46px' lengthAdjust='spacingAndGlyphs'>Doncaster</text>
-<text x='154.09' y='76.22' text-anchor='middle' style='font-size: 11.04px; fill: #E31A1C; font-family: Liberation Sans;' textLength='65.92px' lengthAdjust='spacingAndGlyphs'>East Sussex</text>
-<text x='343.00' y='51.50' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='57.33px' lengthAdjust='spacingAndGlyphs'>Hartlepool</text>
-<text x='423.42' y='68.38' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='81.20px' lengthAdjust='spacingAndGlyphs'>Middlesbrough</text>
-<text x='417.80' y='110.51' text-anchor='middle' style='font-size: 11.04px; fill: #E31A1C; font-family: Liberation Sans;' textLength='63.41px' lengthAdjust='spacingAndGlyphs'>Portsmouth</text>
-<text x='415.54' y='140.03' text-anchor='middle' style='font-size: 11.04px; fill: #B2DF8A; font-family: Liberation Sans;' textLength='102.39px' lengthAdjust='spacingAndGlyphs'>Telford and Wrekin</text>
+<text x='230.48' y='68.39' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='47.79px' lengthAdjust='spacingAndGlyphs'>Barnsley</text>
+<text x='313.34' y='113.31' text-anchor='middle' style='font-size: 11.04px; fill: #A6CEE3; font-family: Liberation Sans;' textLength='43.32px' lengthAdjust='spacingAndGlyphs'>Bedford</text>
+<text x='489.77' y='233.97' text-anchor='middle' style='font-size: 11.04px; fill: #FDBF6F; font-family: Liberation Sans;' textLength='47.70px' lengthAdjust='spacingAndGlyphs'>Cornwall</text>
+<text x='381.96' y='83.86' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='56.46px' lengthAdjust='spacingAndGlyphs'>Doncaster</text>
+<text x='154.16' y='76.20' text-anchor='middle' style='font-size: 11.04px; fill: #E31A1C; font-family: Liberation Sans;' textLength='65.92px' lengthAdjust='spacingAndGlyphs'>East Sussex</text>
+<text x='343.15' y='51.56' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='57.33px' lengthAdjust='spacingAndGlyphs'>Hartlepool</text>
+<text x='423.33' y='68.41' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='81.20px' lengthAdjust='spacingAndGlyphs'>Middlesbrough</text>
+<text x='417.79' y='110.43' text-anchor='middle' style='font-size: 11.04px; fill: #E31A1C; font-family: Liberation Sans;' textLength='63.41px' lengthAdjust='spacingAndGlyphs'>Portsmouth</text>
+<text x='415.33' y='140.08' text-anchor='middle' style='font-size: 11.04px; fill: #B2DF8A; font-family: Liberation Sans;' textLength='102.39px' lengthAdjust='spacingAndGlyphs'>Telford and Wrekin</text>
 <line x1='390.07' y1='400.29' x2='390.07' y2='5.48' style='stroke-width: 1.07; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
 <rect x='34.65' y='5.48' width='598.93' height='394.82' style='stroke-width: 1.07; stroke: #333333;' />
 </g>
