@@ -1161,13 +1161,13 @@
 <polyline points='71.49,151.74 207.69,163.69 343.88,169.36 480.08,170.64 616.28,170.82 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.20; stroke-linecap: butt;' />
 <polyline points='71.49,101.70 207.69,100.95 343.88,101.12 480.08,100.91 616.28,101.42 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.20; stroke-linecap: butt;' />
 <line x1='37.44' y1='106.28' x2='786.52' y2='106.28' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.50; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
-<text x='616.07' y='27.72' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='45.73px' lengthAdjust='spacingAndGlyphs'>Bromley</text>
-<text x='599.00' y='296.14' text-anchor='middle' style='font-size: 11.04px; fill: #E31A1C; font-family: Liberation Sans;' textLength='24.80px' lengthAdjust='spacingAndGlyphs'>Kent</text>
-<text x='614.43' y='154.21' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='32.28px' lengthAdjust='spacingAndGlyphs'>Leeds</text>
-<text x='616.54' y='78.82' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='50.63px' lengthAdjust='spacingAndGlyphs'>Liverpool</text>
-<text x='615.97' y='60.59' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='43.24px' lengthAdjust='spacingAndGlyphs'>Oldham</text>
-<text x='646.02' y='43.90' text-anchor='middle' style='font-size: 11.04px; fill: #B2DF8A; font-family: Liberation Sans;' textLength='49.69px' lengthAdjust='spacingAndGlyphs'>Sandwell</text>
-<text x='634.45' y='176.32' text-anchor='middle' style='font-size: 11.04px; fill: #E31A1C; font-family: Liberation Sans;' textLength='69.24px' lengthAdjust='spacingAndGlyphs'>West Sussex</text>
+<text x='618.74' y='27.68' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='45.73px' lengthAdjust='spacingAndGlyphs'>Bromley</text>
+<text x='633.63' y='280.57' text-anchor='middle' style='font-size: 11.04px; fill: #E31A1C; font-family: Liberation Sans;' textLength='24.80px' lengthAdjust='spacingAndGlyphs'>Kent</text>
+<text x='615.11' y='154.19' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='32.28px' lengthAdjust='spacingAndGlyphs'>Leeds</text>
+<text x='615.09' y='78.91' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='50.63px' lengthAdjust='spacingAndGlyphs'>Liverpool</text>
+<text x='617.43' y='60.67' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='43.24px' lengthAdjust='spacingAndGlyphs'>Oldham</text>
+<text x='586.52' y='43.88' text-anchor='middle' style='font-size: 11.04px; fill: #B2DF8A; font-family: Liberation Sans;' textLength='49.69px' lengthAdjust='spacingAndGlyphs'>Sandwell</text>
+<text x='634.66' y='176.30' text-anchor='middle' style='font-size: 11.04px; fill: #E31A1C; font-family: Liberation Sans;' textLength='69.24px' lengthAdjust='spacingAndGlyphs'>West Sussex</text>
 <rect x='37.44' y='5.48' width='749.08' height='338.34' style='stroke-width: 1.07; stroke: #333333;' />
 </g>
 <g clip-path='url(#cpMC4wMHw3OTIuMDB8MC4wMHw0MzIuMDA=)'>
