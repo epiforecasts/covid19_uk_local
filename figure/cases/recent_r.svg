@@ -1323,42 +1323,41 @@
 <polyline points='71.49,197.46 207.69,198.65 343.88,199.46 480.08,199.63 616.28,199.40 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.20; stroke-linecap: butt;' />
 <polyline points='71.49,195.50 207.69,179.86 343.88,156.20 480.08,132.82 616.28,141.34 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.20; stroke-linecap: butt;' />
 <line x1='37.44' y1='196.43' x2='786.52' y2='196.43' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.50; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
-<line x1='603.00' y1='76.30' x2='615.05' y2='72.32' style='stroke-width: 1.07; stroke: #33A02C;' />
-<line x1='557.71' y1='191.63' x2='614.83' y2='199.49' style='stroke-width: 1.07; stroke: #1F78B4;' />
-<line x1='613.16' y1='239.73' x2='616.14' y2='254.39' style='stroke-width: 1.07; stroke: #1F78B4;' />
-<line x1='592.10' y1='185.95' x2='615.48' y2='168.72' style='stroke-width: 1.07; stroke: #A6CEE3;' />
-<line x1='619.61' y1='280.54' x2='616.55' y2='273.14' style='stroke-width: 1.07; stroke: #1F78B4;' />
-<text x='577.30' y='82.06' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='47.79px' lengthAdjust='spacingAndGlyphs'>Barnsley</text>
-<text x='640.03' y='149.36' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='37.08px' lengthAdjust='spacingAndGlyphs'>Bexley</text>
-<text x='636.48' y='180.12' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='29.97px' lengthAdjust='spacingAndGlyphs'>Brent</text>
-<text x='609.41' y='226.37' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='45.73px' lengthAdjust='spacingAndGlyphs'>Bromley</text>
-<text x='646.59' y='91.76' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='59.28px' lengthAdjust='spacingAndGlyphs'>Calderdale</text>
-<text x='644.22' y='318.49' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='45.99px' lengthAdjust='spacingAndGlyphs'>Camden</text>
-<text x='644.19' y='195.76' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='46.01px' lengthAdjust='spacingAndGlyphs'>Croydon</text>
-<text x='643.02' y='211.10' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='33.85px' lengthAdjust='spacingAndGlyphs'>Ealing</text>
-<text x='592.28' y='177.32' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='37.76px' lengthAdjust='spacingAndGlyphs'>Enfield</text>
-<text x='577.39' y='257.06' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='146.79px' lengthAdjust='spacingAndGlyphs'>Hammersmith and Fulham</text>
-<text x='646.38' y='241.79' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='49.97px' lengthAdjust='spacingAndGlyphs'>Haringey</text>
-<text x='586.01' y='145.83' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='49.97px' lengthAdjust='spacingAndGlyphs'>Havering</text>
-<text x='648.24' y='134.03' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='53.60px' lengthAdjust='spacingAndGlyphs'>Hounslow</text>
-<text x='644.89' y='302.82' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='47.19px' lengthAdjust='spacingAndGlyphs'>Islington</text>
-<text x='492.60' y='195.41' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='126.61px' lengthAdjust='spacingAndGlyphs'>Kingston upon Thames</text>
-<text x='583.69' y='161.07' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='55.07px' lengthAdjust='spacingAndGlyphs'>Lewisham</text>
-<text x='641.25' y='272.26' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='38.91px' lengthAdjust='spacingAndGlyphs'>Merton</text>
-<text x='544.48' y='241.81' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='133.77px' lengthAdjust='spacingAndGlyphs'>Richmond upon Thames</text>
-<text x='591.61' y='112.67' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='38.79px' lengthAdjust='spacingAndGlyphs'>Salford</text>
-<text x='581.70' y='274.13' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='58.76px' lengthAdjust='spacingAndGlyphs'>Southwark</text>
-<text x='639.70' y='164.65' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='36.38px' lengthAdjust='spacingAndGlyphs'>Sutton</text>
-<text x='634.53' y='67.29' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='51.80px' lengthAdjust='spacingAndGlyphs'>Tameside</text>
-<text x='587.04' y='195.79' text-anchor='middle' style='font-size: 11.04px; fill: #A6CEE3; font-family: Liberation Sans;' textLength='48.55px' lengthAdjust='spacingAndGlyphs'>Thurrock</text>
-<text x='662.01' y='287.54' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='81.19px' lengthAdjust='spacingAndGlyphs'>Tower Hamlets</text>
-<text x='567.80' y='211.07' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='86.21px' lengthAdjust='spacingAndGlyphs'>Waltham Forest</text>
-<text x='577.05' y='340.22' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='68.32px' lengthAdjust='spacingAndGlyphs'>Wandsworth</text>
-<text x='576.72' y='318.48' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='69.32px' lengthAdjust='spacingAndGlyphs'>Westminster</text>
-<text x='592.47' y='97.32' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='34.48px' lengthAdjust='spacingAndGlyphs'>Wigan</text>
-<text x='533.76' y='289.45' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='155.28px' lengthAdjust='spacingAndGlyphs'>Hackney and City of London</text>
-<text x='640.40' y='109.44' text-anchor='middle' style='font-size: 11.04px; fill: #FF7F00; font-family: Liberation Sans;' textLength='38.14px' lengthAdjust='spacingAndGlyphs'>Belfast</text>
-<text x='597.79' y='47.54' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='81.99px' lengthAdjust='spacingAndGlyphs'>Orkney Islands</text>
+<line x1='603.59' y1='72.44' x2='614.77' y2='71.98' style='stroke-width: 1.07; stroke: #33A02C;' />
+<line x1='613.24' y1='254.20' x2='616.02' y2='261.55' style='stroke-width: 1.07; stroke: #1F78B4;' />
+<line x1='654.51' y1='201.01' x2='617.78' y2='199.74' style='stroke-width: 1.07; stroke: #1F78B4;' />
+<line x1='619.65' y1='183.87' x2='616.42' y2='168.82' style='stroke-width: 1.07; stroke: #A6CEE3;' />
+<text x='577.89' y='76.46' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='47.79px' lengthAdjust='spacingAndGlyphs'>Barnsley</text>
+<text x='592.53' y='149.76' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='37.08px' lengthAdjust='spacingAndGlyphs'>Bexley</text>
+<text x='596.02' y='180.31' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='29.97px' lengthAdjust='spacingAndGlyphs'>Brent</text>
+<text x='641.39' y='224.74' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='45.73px' lengthAdjust='spacingAndGlyphs'>Bromley</text>
+<text x='650.85' y='92.33' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='59.28px' lengthAdjust='spacingAndGlyphs'>Calderdale</text>
+<text x='588.45' y='318.51' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='45.99px' lengthAdjust='spacingAndGlyphs'>Camden</text>
+<text x='588.30' y='195.76' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='46.01px' lengthAdjust='spacingAndGlyphs'>Croydon</text>
+<text x='638.72' y='209.48' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='33.85px' lengthAdjust='spacingAndGlyphs'>Ealing</text>
+<text x='640.60' y='174.43' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='37.76px' lengthAdjust='spacingAndGlyphs'>Enfield</text>
+<text x='538.04' y='255.22' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='146.79px' lengthAdjust='spacingAndGlyphs'>Hammersmith and Fulham</text>
+<text x='586.26' y='239.86' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='49.97px' lengthAdjust='spacingAndGlyphs'>Haringey</text>
+<text x='646.56' y='143.83' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='49.97px' lengthAdjust='spacingAndGlyphs'>Havering</text>
+<text x='584.38' y='134.52' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='53.60px' lengthAdjust='spacingAndGlyphs'>Hounslow</text>
+<text x='587.52' y='302.70' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='47.19px' lengthAdjust='spacingAndGlyphs'>Islington</text>
+<text x='719.61' y='205.04' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='126.61px' lengthAdjust='spacingAndGlyphs'>Kingston upon Thames</text>
+<text x='649.01' y='159.12' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='55.07px' lengthAdjust='spacingAndGlyphs'>Lewisham</text>
+<text x='640.88' y='268.00' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='38.91px' lengthAdjust='spacingAndGlyphs'>Merton</text>
+<text x='688.02' y='252.23' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='133.77px' lengthAdjust='spacingAndGlyphs'>Richmond upon Thames</text>
+<text x='591.67' y='111.79' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='38.79px' lengthAdjust='spacingAndGlyphs'>Salford</text>
+<text x='581.88' y='270.67' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='58.76px' lengthAdjust='spacingAndGlyphs'>Southwark</text>
+<text x='592.88' y='165.08' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='36.38px' lengthAdjust='spacingAndGlyphs'>Sutton</text>
+<text x='634.92' y='67.17' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='51.80px' lengthAdjust='spacingAndGlyphs'>Tameside</text>
+<text x='645.73' y='189.80' text-anchor='middle' style='font-size: 11.04px; fill: #A6CEE3; font-family: Liberation Sans;' textLength='48.55px' lengthAdjust='spacingAndGlyphs'>Thurrock</text>
+<text x='570.69' y='285.91' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='81.19px' lengthAdjust='spacingAndGlyphs'>Tower Hamlets</text>
+<text x='568.17' y='211.12' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='86.21px' lengthAdjust='spacingAndGlyphs'>Waltham Forest</text>
+<text x='655.41' y='340.20' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='68.32px' lengthAdjust='spacingAndGlyphs'>Wandsworth</text>
+<text x='655.77' y='318.46' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='69.32px' lengthAdjust='spacingAndGlyphs'>Westminster</text>
+<text x='596.82' y='91.78' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='34.48px' lengthAdjust='spacingAndGlyphs'>Wigan</text>
+<text x='698.76' y='289.30' text-anchor='middle' style='font-size: 11.04px; fill: #1F78B4; font-family: Liberation Sans;' textLength='155.28px' lengthAdjust='spacingAndGlyphs'>Hackney and City of London</text>
+<text x='640.37' y='109.44' text-anchor='middle' style='font-size: 11.04px; fill: #FF7F00; font-family: Liberation Sans;' textLength='38.14px' lengthAdjust='spacingAndGlyphs'>Belfast</text>
+<text x='597.94' y='47.61' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='81.99px' lengthAdjust='spacingAndGlyphs'>Orkney Islands</text>
 <rect x='37.44' y='5.48' width='749.08' height='338.34' style='stroke-width: 1.07; stroke: #333333;' />
 </g>
 <g clip-path='url(#cpMC4wMHw3OTIuMDB8MC4wMHw0MzIuMDA=)'>
