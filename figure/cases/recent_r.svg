@@ -1314,10 +1314,10 @@
 <polyline points='71.49,204.95 207.69,205.70 343.88,206.38 480.08,206.45 616.28,206.40 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.20; stroke-linecap: butt;' />
 <polyline points='71.49,194.06 207.69,180.48 343.88,150.67 480.08,138.81 616.28,143.41 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.20; stroke-linecap: butt;' />
 <line x1='37.44' y1='202.87' x2='786.52' y2='202.87' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.50; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
-<text x='584.75' y='17.19' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='53.40px' lengthAdjust='spacingAndGlyphs'>Blackpool</text>
-<text x='616.33' y='36.34' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='56.02px' lengthAdjust='spacingAndGlyphs'>St. Helens</text>
-<text x='634.42' y='96.03' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='51.80px' lengthAdjust='spacingAndGlyphs'>Tameside</text>
-<text x='616.41' y='75.86' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='34.48px' lengthAdjust='spacingAndGlyphs'>Wigan</text>
+<text x='647.77' y='17.19' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='53.40px' lengthAdjust='spacingAndGlyphs'>Blackpool</text>
+<text x='616.12' y='36.36' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='56.02px' lengthAdjust='spacingAndGlyphs'>St. Helens</text>
+<text x='634.59' y='95.97' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='51.80px' lengthAdjust='spacingAndGlyphs'>Tameside</text>
+<text x='618.54' y='75.92' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='34.48px' lengthAdjust='spacingAndGlyphs'>Wigan</text>
 <rect x='37.44' y='5.48' width='749.08' height='338.34' style='stroke-width: 1.07; stroke: #333333;' />
 </g>
 <g clip-path='url(#cpMC4wMHw3OTIuMDB8MC4wMHw0MzIuMDA=)'>

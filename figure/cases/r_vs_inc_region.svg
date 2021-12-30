@@ -2672,16 +2672,15 @@
 <polyline points='267.24,231.26 267.24,231.26 ' style='stroke-width: 1.07; stroke: #6A3D9A; stroke-opacity: 0.15; stroke-linecap: butt;' />
 <polyline points='267.24,231.26 267.24,394.11 ' style='stroke-width: 1.07; stroke: #6A3D9A; stroke-opacity: 0.15; stroke-linecap: butt;' />
 <polyline points='267.24,394.11 267.24,394.11 ' style='stroke-width: 1.07; stroke: #6A3D9A; stroke-opacity: 0.15; stroke-linecap: butt;' />
-<line x1='508.74' y1='214.93' x2='514.91' y2='219.70' style='stroke-width: 1.07; stroke: #33A02C;' />
-<text x='584.14' y='243.67' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='53.40px' lengthAdjust='spacingAndGlyphs'>Blackpool</text>
-<text x='501.60' y='213.13' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='46.80px' lengthAdjust='spacingAndGlyphs'>Cumbria</text>
-<text x='497.41' y='130.68' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='52.13px' lengthAdjust='spacingAndGlyphs'>Knowsley</text>
-<text x='486.49' y='248.60' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='127.63px' lengthAdjust='spacingAndGlyphs'>North East Lincolnshire</text>
-<text x='534.91' y='149.02' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='56.02px' lengthAdjust='spacingAndGlyphs'>St. Helens</text>
-<text x='459.19' y='230.76' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='93.66px' lengthAdjust='spacingAndGlyphs'>Stockton-on-Tees</text>
-<text x='443.24' y='103.60' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='51.80px' lengthAdjust='spacingAndGlyphs'>Tameside</text>
-<text x='539.89' y='228.35' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='53.55px' lengthAdjust='spacingAndGlyphs'>Wakefield</text>
-<text x='473.94' y='154.22' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='34.48px' lengthAdjust='spacingAndGlyphs'>Wigan</text>
+<text x='584.67' y='243.73' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='53.40px' lengthAdjust='spacingAndGlyphs'>Blackpool</text>
+<text x='501.67' y='213.18' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='46.80px' lengthAdjust='spacingAndGlyphs'>Cumbria</text>
+<text x='497.45' y='130.60' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='52.13px' lengthAdjust='spacingAndGlyphs'>Knowsley</text>
+<text x='487.00' y='248.57' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='127.63px' lengthAdjust='spacingAndGlyphs'>North East Lincolnshire</text>
+<text x='535.09' y='149.08' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='56.02px' lengthAdjust='spacingAndGlyphs'>St. Helens</text>
+<text x='459.11' y='230.75' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='93.66px' lengthAdjust='spacingAndGlyphs'>Stockton-on-Tees</text>
+<text x='443.20' y='103.64' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='51.80px' lengthAdjust='spacingAndGlyphs'>Tameside</text>
+<text x='539.90' y='228.42' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='53.55px' lengthAdjust='spacingAndGlyphs'>Wakefield</text>
+<text x='473.96' y='154.24' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='34.48px' lengthAdjust='spacingAndGlyphs'>Wigan</text>
 <line x1='272.67' y1='400.29' x2='272.67' y2='5.48' style='stroke-width: 1.07; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
 <rect x='45.84' y='5.48' width='587.74' height='394.82' style='stroke-width: 1.07; stroke: #333333;' />
 </g>
