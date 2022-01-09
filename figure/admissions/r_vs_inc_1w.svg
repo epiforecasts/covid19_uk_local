@@ -2124,15 +2124,15 @@
 <polyline points='410.13,365.77 410.13,365.77 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.15; stroke-linecap: butt;' />
 <polyline points='410.13,365.77 282.29,365.77 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.15; stroke-linecap: butt;' />
 <polyline points='282.29,365.77 282.29,365.77 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.15; stroke-linecap: butt;' />
-<text x='243.43' y='201.02' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='47.79px' lengthAdjust='spacingAndGlyphs'>Barnsley</text>
-<text x='328.26' y='231.42' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='43.32px' lengthAdjust='spacingAndGlyphs'>Bedford</text>
-<text x='543.32' y='301.48' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='47.70px' lengthAdjust='spacingAndGlyphs'>Cornwall</text>
-<text x='400.32' y='211.49' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='56.46px' lengthAdjust='spacingAndGlyphs'>Doncaster</text>
-<text x='133.86' y='223.11' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='65.92px' lengthAdjust='spacingAndGlyphs'>East Sussex</text>
-<text x='359.31' y='189.59' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='57.33px' lengthAdjust='spacingAndGlyphs'>Hartlepool</text>
-<text x='435.57' y='190.41' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='81.20px' lengthAdjust='spacingAndGlyphs'>Middlesbrough</text>
-<text x='440.49' y='234.86' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='63.41px' lengthAdjust='spacingAndGlyphs'>Portsmouth</text>
-<text x='408.19' y='254.86' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='102.39px' lengthAdjust='spacingAndGlyphs'>Telford and Wrekin</text>
+<text x='213.90' y='217.90' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='47.79px' lengthAdjust='spacingAndGlyphs'>Barnsley</text>
+<text x='328.40' y='231.44' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='43.32px' lengthAdjust='spacingAndGlyphs'>Bedford</text>
+<text x='513.79' y='318.36' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='47.70px' lengthAdjust='spacingAndGlyphs'>Cornwall</text>
+<text x='400.40' y='211.52' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='56.46px' lengthAdjust='spacingAndGlyphs'>Doncaster</text>
+<text x='133.68' y='223.18' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='65.92px' lengthAdjust='spacingAndGlyphs'>East Sussex</text>
+<text x='359.39' y='189.59' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='57.33px' lengthAdjust='spacingAndGlyphs'>Hartlepool</text>
+<text x='435.68' y='190.39' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='81.20px' lengthAdjust='spacingAndGlyphs'>Middlesbrough</text>
+<text x='440.47' y='234.88' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='63.41px' lengthAdjust='spacingAndGlyphs'>Portsmouth</text>
+<text x='408.30' y='254.81' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='102.39px' lengthAdjust='spacingAndGlyphs'>Telford and Wrekin</text>
 <line x1='410.06' y1='431.21' x2='410.06' y2='71.87' style='stroke-width: 1.07; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
 <circle cx='396.91' cy='366.30' r='1.95' style='stroke-width: 0.71; stroke: #FF0000; fill: #FF0000;' />
 <circle cx='396.75' cy='366.30' r='1.95' style='stroke-width: 0.71; fill: #000000;' />
