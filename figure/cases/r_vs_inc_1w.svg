@@ -3047,15 +3047,15 @@
 <polyline points='561.67,407.01 561.67,407.01 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.15; stroke-linecap: butt;' />
 <polyline points='561.67,407.01 475.91,407.01 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.15; stroke-linecap: butt;' />
 <polyline points='475.91,407.01 475.91,407.01 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.15; stroke-linecap: butt;' />
-<line x1='198.98' y1='257.97' x2='212.20' y2='266.10' style='stroke-width: 1.07;' />
+<line x1='198.92' y1='257.94' x2='212.20' y2='266.10' style='stroke-width: 1.07;' />
 <text x='426.43' y='280.06' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='57.98px' lengthAdjust='spacingAndGlyphs'>Darlington</text>
-<text x='329.43' y='247.08' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='57.33px' lengthAdjust='spacingAndGlyphs'>Hartlepool</text>
-<text x='171.00' y='256.17' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='81.20px' lengthAdjust='spacingAndGlyphs'>Middlesbrough</text>
-<text x='379.33' y='301.46' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='116.88px' lengthAdjust='spacingAndGlyphs'>Newcastle upon Tyne</text>
-<text x='259.47' y='271.38' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='82.29px' lengthAdjust='spacingAndGlyphs'>North Tyneside</text>
-<text x='268.25' y='301.26' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='90.73px' lengthAdjust='spacingAndGlyphs'>Northumberland</text>
-<text x='432.21' y='264.63' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='83.49px' lengthAdjust='spacingAndGlyphs'>South Tyneside</text>
-<text x='339.40' y='276.26' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='63.12px' lengthAdjust='spacingAndGlyphs'>Sunderland</text>
+<text x='329.45' y='247.05' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='57.33px' lengthAdjust='spacingAndGlyphs'>Hartlepool</text>
+<text x='170.90' y='256.14' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='81.20px' lengthAdjust='spacingAndGlyphs'>Middlesbrough</text>
+<text x='379.36' y='301.47' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='116.88px' lengthAdjust='spacingAndGlyphs'>Newcastle upon Tyne</text>
+<text x='259.35' y='271.33' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='82.29px' lengthAdjust='spacingAndGlyphs'>North Tyneside</text>
+<text x='268.25' y='301.29' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='90.73px' lengthAdjust='spacingAndGlyphs'>Northumberland</text>
+<text x='432.32' y='264.61' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='83.49px' lengthAdjust='spacingAndGlyphs'>South Tyneside</text>
+<text x='339.33' y='276.28' text-anchor='middle' style='font-size: 11.04px; font-family: Liberation Sans;' textLength='63.12px' lengthAdjust='spacingAndGlyphs'>Sunderland</text>
 <line x1='442.86' y1='431.21' x2='442.86' y2='71.87' style='stroke-width: 1.07; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
 <circle cx='494.61' cy='392.41' r='1.95' style='stroke-width: 0.71; stroke: #FF0000; fill: #FF0000;' />
 <circle cx='494.53' cy='383.13' r='1.95' style='stroke-width: 0.71; fill: #000000;' />
