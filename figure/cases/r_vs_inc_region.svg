@@ -2810,24 +2810,24 @@
 <polyline points='491.39,-53.39 491.39,-53.39 ' style='stroke-width: 1.07; stroke: #6A3D9A; stroke-opacity: 0.15; stroke-linecap: butt;' />
 <polyline points='491.39,-53.39 491.39,392.43 ' style='stroke-width: 1.07; stroke: #6A3D9A; stroke-opacity: 0.15; stroke-linecap: butt;' />
 <polyline points='491.39,392.43 491.39,392.43 ' style='stroke-width: 1.07; stroke: #6A3D9A; stroke-opacity: 0.15; stroke-linecap: butt;' />
-<line x1='505.45' y1='216.41' x2='515.53' y2='209.48' style='stroke-width: 1.07; stroke: #CAB2D6;' />
-<line x1='489.99' y1='183.53' x2='496.14' y2='178.65' style='stroke-width: 1.07; stroke: #CAB2D6;' />
-<line x1='533.37' y1='206.85' x2='521.55' y2='204.25' style='stroke-width: 1.07; stroke: #6A3D9A;' />
-<text x='135.67' y='174.76' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='83.49px' lengthAdjust='spacingAndGlyphs'>South Tyneside</text>
-<text x='560.73' y='180.42' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='34.27px' lengthAdjust='spacingAndGlyphs'>Angus</text>
-<text x='440.04' y='146.91' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='102.10px' lengthAdjust='spacingAndGlyphs'>Clackmannanshire</text>
-<text x='465.42' y='226.25' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='128.51px' lengthAdjust='spacingAndGlyphs'>Dumfries and Galloway</text>
-<text x='429.03' y='165.93' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='99.12px' lengthAdjust='spacingAndGlyphs'>East Renfrewshire</text>
-<text x='526.12' y='162.83' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='72.02px' lengthAdjust='spacingAndGlyphs'>Glasgow City</text>
-<text x='531.39' y='58.49' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='57.30px' lengthAdjust='spacingAndGlyphs'>Inverclyde</text>
-<text x='483.74' y='193.37' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='34.09px' lengthAdjust='spacingAndGlyphs'>Moray</text>
-<text x='551.84' y='145.67' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='98.83px' lengthAdjust='spacingAndGlyphs'>North Lanarkshire</text>
-<text x='458.58' y='131.53' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='71.81px' lengthAdjust='spacingAndGlyphs'>Renfrewshire</text>
-<text x='553.27' y='122.91' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='100.03px' lengthAdjust='spacingAndGlyphs'>South Lanarkshire</text>
-<text x='485.33' y='106.90' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='116.35px' lengthAdjust='spacingAndGlyphs'>West Dunbartonshire</text>
-<text x='537.19' y='195.71' text-anchor='middle' style='font-size: 11.04px; fill: #6A3D9A; font-family: Liberation Sans;' textLength='36.99px' lengthAdjust='spacingAndGlyphs'>Conwy</text>
-<text x='582.57' y='211.04' text-anchor='middle' style='font-size: 11.04px; fill: #6A3D9A; font-family: Liberation Sans;' textLength='94.81px' lengthAdjust='spacingAndGlyphs'>Neath Port Talbot</text>
-<text x='458.16' y='208.93' text-anchor='middle' style='font-size: 11.04px; fill: #6A3D9A; font-family: Liberation Sans;' textLength='106.68px' lengthAdjust='spacingAndGlyphs'>Rhondda Cynon Taf</text>
+<line x1='505.49' y1='216.39' x2='515.53' y2='209.48' style='stroke-width: 1.07; stroke: #CAB2D6;' />
+<line x1='490.05' y1='183.47' x2='496.14' y2='178.65' style='stroke-width: 1.07; stroke: #CAB2D6;' />
+<line x1='533.37' y1='206.82' x2='521.56' y2='204.25' style='stroke-width: 1.07; stroke: #6A3D9A;' />
+<text x='161.28' y='157.58' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='83.49px' lengthAdjust='spacingAndGlyphs'>South Tyneside</text>
+<text x='560.68' y='180.38' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='34.27px' lengthAdjust='spacingAndGlyphs'>Angus</text>
+<text x='439.91' y='146.88' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='102.10px' lengthAdjust='spacingAndGlyphs'>Clackmannanshire</text>
+<text x='465.52' y='226.23' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='128.51px' lengthAdjust='spacingAndGlyphs'>Dumfries and Galloway</text>
+<text x='429.23' y='165.91' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='99.12px' lengthAdjust='spacingAndGlyphs'>East Renfrewshire</text>
+<text x='526.09' y='162.82' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='72.02px' lengthAdjust='spacingAndGlyphs'>Glasgow City</text>
+<text x='505.76' y='75.73' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='57.30px' lengthAdjust='spacingAndGlyphs'>Inverclyde</text>
+<text x='483.79' y='193.32' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='34.09px' lengthAdjust='spacingAndGlyphs'>Moray</text>
+<text x='551.64' y='145.69' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='98.83px' lengthAdjust='spacingAndGlyphs'>North Lanarkshire</text>
+<text x='458.47' y='131.51' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='71.81px' lengthAdjust='spacingAndGlyphs'>Renfrewshire</text>
+<text x='553.25' y='122.90' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='100.03px' lengthAdjust='spacingAndGlyphs'>South Lanarkshire</text>
+<text x='485.27' y='106.85' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='116.35px' lengthAdjust='spacingAndGlyphs'>West Dunbartonshire</text>
+<text x='537.10' y='195.73' text-anchor='middle' style='font-size: 11.04px; fill: #6A3D9A; font-family: Liberation Sans;' textLength='36.99px' lengthAdjust='spacingAndGlyphs'>Conwy</text>
+<text x='582.57' y='211.00' text-anchor='middle' style='font-size: 11.04px; fill: #6A3D9A; font-family: Liberation Sans;' textLength='94.81px' lengthAdjust='spacingAndGlyphs'>Neath Port Talbot</text>
+<text x='458.09' y='209.18' text-anchor='middle' style='font-size: 11.04px; fill: #6A3D9A; font-family: Liberation Sans;' textLength='106.68px' lengthAdjust='spacingAndGlyphs'>Rhondda Cynon Taf</text>
 <line x1='430.74' y1='400.29' x2='430.74' y2='5.48' style='stroke-width: 1.07; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
 <rect x='45.84' y='5.48' width='587.74' height='394.82' style='stroke-width: 1.07; stroke: #333333;' />
 </g>
