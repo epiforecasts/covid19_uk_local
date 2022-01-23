@@ -935,17 +935,17 @@
 <polyline points='71.49,149.58 207.69,140.87 343.88,142.02 480.08,146.61 616.28,147.88 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.20; stroke-linecap: butt;' />
 <polyline points='71.49,144.34 207.69,147.60 343.88,158.46 480.08,168.83 616.28,174.18 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.20; stroke-linecap: butt;' />
 <line x1='37.44' y1='195.51' x2='786.52' y2='195.51' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.50; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
-<text x='634.54' y='258.81' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='47.79px' lengthAdjust='spacingAndGlyphs'>Barnsley</text>
-<text x='634.74' y='170.16' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='53.40px' lengthAdjust='spacingAndGlyphs'>Blackpool</text>
-<text x='597.97' y='135.77' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='47.83px' lengthAdjust='spacingAndGlyphs'>Bradford</text>
-<text x='650.00' y='241.93' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='57.33px' lengthAdjust='spacingAndGlyphs'>Hartlepool</text>
-<text x='647.34' y='224.69' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='52.13px' lengthAdjust='spacingAndGlyphs'>Knowsley</text>
-<text x='597.83' y='208.69' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='50.63px' lengthAdjust='spacingAndGlyphs'>Liverpool</text>
-<text x='570.61' y='226.43' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='81.20px' lengthAdjust='spacingAndGlyphs'>Middlesbrough</text>
-<text x='552.99' y='242.54' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='116.88px' lengthAdjust='spacingAndGlyphs'>Newcastle upon Tyne</text>
-<text x='662.38' y='151.93' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='82.29px' lengthAdjust='spacingAndGlyphs'>North Tyneside</text>
-<text x='551.10' y='193.33' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='120.77px' lengthAdjust='spacingAndGlyphs'>Redcar and Cleveland</text>
-<text x='580.68' y='151.90' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='60.85px' lengthAdjust='spacingAndGlyphs'>Rotherham</text>
+<text x='634.66' y='258.85' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='47.79px' lengthAdjust='spacingAndGlyphs'>Barnsley</text>
+<text x='634.75' y='170.13' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='53.40px' lengthAdjust='spacingAndGlyphs'>Blackpool</text>
+<text x='597.89' y='135.77' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='47.83px' lengthAdjust='spacingAndGlyphs'>Bradford</text>
+<text x='650.04' y='241.98' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='57.33px' lengthAdjust='spacingAndGlyphs'>Hartlepool</text>
+<text x='647.48' y='224.69' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='52.13px' lengthAdjust='spacingAndGlyphs'>Knowsley</text>
+<text x='597.92' y='208.68' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='50.63px' lengthAdjust='spacingAndGlyphs'>Liverpool</text>
+<text x='570.61' y='226.42' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='81.20px' lengthAdjust='spacingAndGlyphs'>Middlesbrough</text>
+<text x='552.84' y='242.54' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='116.88px' lengthAdjust='spacingAndGlyphs'>Newcastle upon Tyne</text>
+<text x='662.43' y='151.94' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='82.29px' lengthAdjust='spacingAndGlyphs'>North Tyneside</text>
+<text x='681.50' y='193.36' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='120.77px' lengthAdjust='spacingAndGlyphs'>Redcar and Cleveland</text>
+<text x='580.77' y='151.90' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='60.85px' lengthAdjust='spacingAndGlyphs'>Rotherham</text>
 <rect x='37.44' y='5.48' width='749.08' height='338.34' style='stroke-width: 1.07; stroke: #333333;' />
 </g>
 <g clip-path='url(#cpMC4wMHw3OTIuMDB8MC4wMHw0MzIuMDA=)'>
