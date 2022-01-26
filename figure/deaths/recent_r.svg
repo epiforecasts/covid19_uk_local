@@ -1170,12 +1170,12 @@
 <polyline points='71.49,189.99 207.69,190.44 343.88,195.36 480.08,197.99 616.28,198.94 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.20; stroke-linecap: butt;' />
 <polyline points='71.49,216.36 207.69,221.23 343.88,223.20 480.08,223.15 616.28,222.38 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.20; stroke-linecap: butt;' />
 <line x1='37.44' y1='219.75' x2='786.52' y2='219.75' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.50; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
-<text x='581.52' y='104.17' text-anchor='middle' style='font-size: 11.04px; fill: #E31A1C; font-family: Liberation Sans;' textLength='59.68px' lengthAdjust='spacingAndGlyphs'>Hampshire</text>
-<text x='637.53' y='88.80' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='116.88px' lengthAdjust='spacingAndGlyphs'>Newcastle upon Tyne</text>
-<text x='597.85' y='69.45' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='127.63px' lengthAdjust='spacingAndGlyphs'>North East Lincolnshire</text>
-<text x='597.97' y='170.84' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='63.12px' lengthAdjust='spacingAndGlyphs'>Sunderland</text>
-<text x='634.53' y='119.51' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='72.06px' lengthAdjust='spacingAndGlyphs'>East Ayrshire</text>
-<text x='634.61' y='18.87' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='57.54px' lengthAdjust='spacingAndGlyphs'>Midlothian</text>
+<text x='581.48' y='103.34' text-anchor='middle' style='font-size: 11.04px; fill: #E31A1C; font-family: Liberation Sans;' textLength='59.68px' lengthAdjust='spacingAndGlyphs'>Hampshire</text>
+<text x='676.93' y='88.82' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='116.88px' lengthAdjust='spacingAndGlyphs'>Newcastle upon Tyne</text>
+<text x='597.96' y='69.49' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='127.63px' lengthAdjust='spacingAndGlyphs'>North East Lincolnshire</text>
+<text x='634.65' y='154.33' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='63.12px' lengthAdjust='spacingAndGlyphs'>Sunderland</text>
+<text x='634.68' y='119.50' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='72.06px' lengthAdjust='spacingAndGlyphs'>East Ayrshire</text>
+<text x='597.83' y='35.51' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='57.54px' lengthAdjust='spacingAndGlyphs'>Midlothian</text>
 <rect x='37.44' y='5.48' width='749.08' height='338.34' style='stroke-width: 1.07; stroke: #333333;' />
 </g>
 <g clip-path='url(#cpMC4wMHw3OTIuMDB8MC4wMHw0MzIuMDA=)'>

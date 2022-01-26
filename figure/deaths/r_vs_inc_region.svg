@@ -2472,22 +2472,22 @@
 <polyline points='335.68,273.63 335.68,273.63 ' style='stroke-width: 1.07; stroke: #CAB2D6; stroke-opacity: 0.15; stroke-linecap: butt;' />
 <polyline points='335.68,273.63 335.68,382.35 ' style='stroke-width: 1.07; stroke: #CAB2D6; stroke-opacity: 0.15; stroke-linecap: butt;' />
 <polyline points='335.68,382.35 335.68,382.35 ' style='stroke-width: 1.07; stroke: #CAB2D6; stroke-opacity: 0.15; stroke-linecap: butt;' />
-<text x='394.03' y='216.55' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='47.79px' lengthAdjust='spacingAndGlyphs'>Barnsley</text>
-<text x='458.83' y='287.36' text-anchor='middle' style='font-size: 11.04px; fill: #FDBF6F; font-family: Liberation Sans;' textLength='167.75px' lengthAdjust='spacingAndGlyphs'>Bath and North East Somerset</text>
-<text x='350.10' y='302.69' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='87.12px' lengthAdjust='spacingAndGlyphs'>County Durham</text>
-<text x='395.51' y='235.72' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='46.80px' lengthAdjust='spacingAndGlyphs'>Cumbria</text>
-<text x='436.97' y='322.94' text-anchor='middle' style='font-size: 11.04px; fill: #E31A1C; font-family: Liberation Sans;' textLength='59.68px' lengthAdjust='spacingAndGlyphs'>Hampshire</text>
-<text x='484.56' y='246.02' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='116.88px' lengthAdjust='spacingAndGlyphs'>Newcastle upon Tyne</text>
-<text x='442.09' y='394.98' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='127.63px' lengthAdjust='spacingAndGlyphs'>North East Lincolnshire</text>
-<text x='307.30' y='251.55' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='63.12px' lengthAdjust='spacingAndGlyphs'>Sunderland</text>
-<text x='421.41' y='51.42' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='72.06px' lengthAdjust='spacingAndGlyphs'>East Ayrshire</text>
-<text x='365.27' y='377.85' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='113.03px' lengthAdjust='spacingAndGlyphs'>East Dunbartonshire</text>
-<text x='353.26' y='235.05' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='19.28px' lengthAdjust='spacingAndGlyphs'>Fife</text>
-<text x='356.10' y='139.07' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='57.30px' lengthAdjust='spacingAndGlyphs'>Inverclyde</text>
-<text x='538.28' y='377.84' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='57.54px' lengthAdjust='spacingAndGlyphs'>Midlothian</text>
-<text x='395.65' y='261.17' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='98.83px' lengthAdjust='spacingAndGlyphs'>North Lanarkshire</text>
-<text x='329.10' y='283.76' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='71.81px' lengthAdjust='spacingAndGlyphs'>Renfrewshire</text>
-<text x='359.80' y='171.11' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='116.35px' lengthAdjust='spacingAndGlyphs'>West Dunbartonshire</text>
+<text x='393.91' y='216.54' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='47.79px' lengthAdjust='spacingAndGlyphs'>Barnsley</text>
+<text x='458.45' y='287.33' text-anchor='middle' style='font-size: 11.04px; fill: #FDBF6F; font-family: Liberation Sans;' textLength='167.75px' lengthAdjust='spacingAndGlyphs'>Bath and North East Somerset</text>
+<text x='350.06' y='302.61' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='87.12px' lengthAdjust='spacingAndGlyphs'>County Durham</text>
+<text x='395.38' y='235.70' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='46.80px' lengthAdjust='spacingAndGlyphs'>Cumbria</text>
+<text x='436.98' y='323.02' text-anchor='middle' style='font-size: 11.04px; fill: #E31A1C; font-family: Liberation Sans;' textLength='59.68px' lengthAdjust='spacingAndGlyphs'>Hampshire</text>
+<text x='484.53' y='245.97' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='116.88px' lengthAdjust='spacingAndGlyphs'>Newcastle upon Tyne</text>
+<text x='441.96' y='377.77' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='127.63px' lengthAdjust='spacingAndGlyphs'>North East Lincolnshire</text>
+<text x='307.31' y='251.58' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='63.12px' lengthAdjust='spacingAndGlyphs'>Sunderland</text>
+<text x='421.31' y='51.47' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='72.06px' lengthAdjust='spacingAndGlyphs'>East Ayrshire</text>
+<text x='365.05' y='394.98' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='113.03px' lengthAdjust='spacingAndGlyphs'>East Dunbartonshire</text>
+<text x='353.17' y='235.17' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='19.28px' lengthAdjust='spacingAndGlyphs'>Fife</text>
+<text x='382.10' y='121.87' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='57.30px' lengthAdjust='spacingAndGlyphs'>Inverclyde</text>
+<text x='538.44' y='394.89' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='57.54px' lengthAdjust='spacingAndGlyphs'>Midlothian</text>
+<text x='395.60' y='261.06' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='98.83px' lengthAdjust='spacingAndGlyphs'>North Lanarkshire</text>
+<text x='329.05' y='283.78' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='71.81px' lengthAdjust='spacingAndGlyphs'>Renfrewshire</text>
+<text x='385.81' y='153.91' text-anchor='middle' style='font-size: 11.04px; fill: #CAB2D6; font-family: Liberation Sans;' textLength='116.35px' lengthAdjust='spacingAndGlyphs'>West Dunbartonshire</text>
 <line x1='251.64' y1='400.29' x2='251.64' y2='5.48' style='stroke-width: 1.07; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
 <rect x='34.65' y='5.48' width='598.93' height='394.82' style='stroke-width: 1.07; stroke: #333333;' />
 </g>
