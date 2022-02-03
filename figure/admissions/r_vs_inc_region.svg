@@ -9,6 +9,9 @@
       stroke-linejoin: round;
       stroke-miterlimit: 10.00;
     }
+    .svglite text {
+      white-space: pre;
+    }
   ]]></style>
 </defs>
 <rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
@@ -1970,27 +1973,27 @@
 <polyline points='470.76,225.46 470.76,225.46 ' style='stroke-width: 1.07; stroke: #33A02C; stroke-opacity: 0.15; stroke-linecap: butt;' />
 <polyline points='470.76,225.46 470.76,345.02 ' style='stroke-width: 1.07; stroke: #33A02C; stroke-opacity: 0.15; stroke-linecap: butt;' />
 <polyline points='470.76,345.02 470.76,345.02 ' style='stroke-width: 1.07; stroke: #33A02C; stroke-opacity: 0.15; stroke-linecap: butt;' />
-<text x='302.76' y='98.61' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='47.79px' lengthAdjust='spacingAndGlyphs'>Barnsley</text>
-<text x='453.95' y='66.85' text-anchor='middle' style='font-size: 11.04px; fill: #A6CEE3; font-family: Liberation Sans;' textLength='43.32px' lengthAdjust='spacingAndGlyphs'>Bedford</text>
-<text x='342.41' y='154.51' text-anchor='middle' style='font-size: 11.04px; fill: #B2DF8A; font-family: Liberation Sans;' textLength='67.27px' lengthAdjust='spacingAndGlyphs'>Birmingham</text>
-<text x='351.49' y='114.12' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='53.40px' lengthAdjust='spacingAndGlyphs'>Blackpool</text>
-<text x='518.78' y='281.46' text-anchor='middle' style='font-size: 11.04px; fill: #FDBF6F; font-family: Liberation Sans;' textLength='47.70px' lengthAdjust='spacingAndGlyphs'>Cornwall</text>
-<text x='512.68' y='73.36' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='59.71px' lengthAdjust='spacingAndGlyphs'>Gateshead</text>
-<text x='272.74' y='161.26' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='57.33px' lengthAdjust='spacingAndGlyphs'>Hartlepool</text>
-<text x='267.34' y='181.79' text-anchor='middle' style='font-size: 11.04px; fill: #FB9A99; font-family: Liberation Sans;' textLength='50.63px' lengthAdjust='spacingAndGlyphs'>Liverpool</text>
-<text x='468.68' y='181.31' text-anchor='middle' style='font-size: 11.04px; fill: #A6CEE3; font-family: Liberation Sans;' textLength='31.01px' lengthAdjust='spacingAndGlyphs'>Luton</text>
-<text x='243.56' y='72.95' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='81.20px' lengthAdjust='spacingAndGlyphs'>Middlesbrough</text>
-<text x='253.38' y='139.13' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='116.88px' lengthAdjust='spacingAndGlyphs'>Newcastle upon Tyne</text>
-<text x='424.29' y='144.37' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='82.29px' lengthAdjust='spacingAndGlyphs'>North Tyneside</text>
-<text x='453.18' y='159.73' text-anchor='middle' style='font-size: 11.04px; fill: #33A02C; font-family: Liberation Sans;' textLength='90.73px' lengthAdjust='spacingAndGlyphs'>Northumberland</text>
+<text x='302.87' y='98.58' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='47.79px' lengthAdjust='spacingAndGlyphs'>Barnsley</text>
+<text x='453.81' y='66.87' text-anchor='middle' style='font-size: 11.04px;fill: #A6CEE3; font-family: "Liberation Sans";' textLength='43.32px' lengthAdjust='spacingAndGlyphs'>Bedford</text>
+<text x='342.40' y='154.45' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='67.27px' lengthAdjust='spacingAndGlyphs'>Birmingham</text>
+<text x='351.70' y='114.15' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='53.40px' lengthAdjust='spacingAndGlyphs'>Blackpool</text>
+<text x='544.59' y='264.40' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='47.70px' lengthAdjust='spacingAndGlyphs'>Cornwall</text>
+<text x='525.98' y='56.32' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='59.71px' lengthAdjust='spacingAndGlyphs'>Gateshead</text>
+<text x='272.81' y='161.28' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='57.33px' lengthAdjust='spacingAndGlyphs'>Hartlepool</text>
+<text x='267.24' y='181.90' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='50.63px' lengthAdjust='spacingAndGlyphs'>Liverpool</text>
+<text x='468.77' y='181.31' text-anchor='middle' style='font-size: 11.04px;fill: #A6CEE3; font-family: "Liberation Sans";' textLength='31.01px' lengthAdjust='spacingAndGlyphs'>Luton</text>
+<text x='243.35' y='72.97' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='81.20px' lengthAdjust='spacingAndGlyphs'>Middlesbrough</text>
+<text x='253.30' y='139.07' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='116.88px' lengthAdjust='spacingAndGlyphs'>Newcastle upon Tyne</text>
+<text x='424.29' y='144.46' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='82.29px' lengthAdjust='spacingAndGlyphs'>North Tyneside</text>
+<text x='453.32' y='159.89' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='90.73px' lengthAdjust='spacingAndGlyphs'>Northumberland</text>
 <line x1='429.25' y1='400.29' x2='429.25' y2='5.48' style='stroke-width: 1.07; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
 <rect x='34.65' y='5.48' width='598.93' height='394.82' style='stroke-width: 1.07; stroke: #333333;' />
 </g>
 <g clip-path='url(#cpMC4wMHw3OTIuMDB8MC4wMHw0MzIuMDA=)'>
-<text x='29.72' y='347.96' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Liberation Sans;' textLength='11.19px' lengthAdjust='spacingAndGlyphs'>10</text>
-<text x='29.72' y='258.03' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Liberation Sans;' textLength='11.19px' lengthAdjust='spacingAndGlyphs'>20</text>
-<text x='29.72' y='168.10' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Liberation Sans;' textLength='11.19px' lengthAdjust='spacingAndGlyphs'>30</text>
-<text x='29.72' y='78.17' text-anchor='end' style='font-size: 8.80px; fill: #4D4D4D; font-family: Liberation Sans;' textLength='11.19px' lengthAdjust='spacingAndGlyphs'>40</text>
+<text x='29.72' y='347.96' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='11.19px' lengthAdjust='spacingAndGlyphs'>10</text>
+<text x='29.72' y='258.03' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='11.19px' lengthAdjust='spacingAndGlyphs'>20</text>
+<text x='29.72' y='168.10' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='11.19px' lengthAdjust='spacingAndGlyphs'>30</text>
+<text x='29.72' y='78.17' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='11.19px' lengthAdjust='spacingAndGlyphs'>40</text>
 <polyline points='31.91,344.76 34.65,344.76 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
 <polyline points='31.91,254.82 34.65,254.82 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
 <polyline points='31.91,164.89 34.65,164.89 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
@@ -2000,15 +2003,15 @@
 <polyline points='300.26,403.03 300.26,400.29 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
 <polyline points='429.25,403.03 429.25,400.29 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
 <polyline points='558.24,403.03 558.24,400.29 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<text x='42.27' y='411.64' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: Liberation Sans;' textLength='13.98px' lengthAdjust='spacingAndGlyphs'>0.4</text>
-<text x='171.27' y='411.64' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: Liberation Sans;' textLength='13.98px' lengthAdjust='spacingAndGlyphs'>0.6</text>
-<text x='300.26' y='411.64' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: Liberation Sans;' textLength='13.98px' lengthAdjust='spacingAndGlyphs'>0.8</text>
-<text x='429.25' y='411.64' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: Liberation Sans;' textLength='13.98px' lengthAdjust='spacingAndGlyphs'>1.0</text>
-<text x='558.24' y='411.64' text-anchor='middle' style='font-size: 8.80px; fill: #4D4D4D; font-family: Liberation Sans;' textLength='13.98px' lengthAdjust='spacingAndGlyphs'>1.2</text>
-<text x='334.11' y='424.23' text-anchor='middle' style='font-size: 11.00px; font-family: Liberation Sans;' textLength='7.65px' lengthAdjust='spacingAndGlyphs'>R</text>
-<text transform='translate(13.50,202.89) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: Liberation Sans;' textLength='125.45px' lengthAdjust='spacingAndGlyphs'>7-day incidence / 100k</text>
+<text x='42.27' y='411.64' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='13.98px' lengthAdjust='spacingAndGlyphs'>0.4</text>
+<text x='171.27' y='411.64' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='13.98px' lengthAdjust='spacingAndGlyphs'>0.6</text>
+<text x='300.26' y='411.64' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='13.98px' lengthAdjust='spacingAndGlyphs'>0.8</text>
+<text x='429.25' y='411.64' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='13.98px' lengthAdjust='spacingAndGlyphs'>1.0</text>
+<text x='558.24' y='411.64' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='13.98px' lengthAdjust='spacingAndGlyphs'>1.2</text>
+<text x='334.11' y='424.23' text-anchor='middle' style='font-size: 11.00px; font-family: "Liberation Sans";' textLength='7.65px' lengthAdjust='spacingAndGlyphs'>R</text>
+<text transform='translate(13.50,202.89) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: "Liberation Sans";' textLength='125.45px' lengthAdjust='spacingAndGlyphs'>7-day incidence / 100k</text>
 <rect x='644.54' y='103.11' width='141.98' height='199.55' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
-<text x='650.02' y='117.76' style='font-size: 11.00px; font-family: Liberation Sans;' textLength='37.66px' lengthAdjust='spacingAndGlyphs'>Region</text>
+<text x='650.02' y='117.76' style='font-size: 11.00px; font-family: "Liberation Sans";' textLength='37.66px' lengthAdjust='spacingAndGlyphs'>Region</text>
 <rect x='650.02' y='124.38' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
 <circle cx='658.66' cy='133.02' r='1.95' style='stroke-width: 0.71; stroke: #A6CEE3; fill: #A6CEE3;' />
 <line x1='651.74' y1='133.02' x2='665.57' y2='133.02' style='stroke-width: 1.07; stroke: #A6CEE3; stroke-opacity: 0.30; stroke-linecap: butt;' />
@@ -2069,15 +2072,15 @@
 <line x1='651.74' y1='288.54' x2='665.57' y2='288.54' style='stroke-width: 1.07; stroke: #6A3D9A; stroke-opacity: 0.30; stroke-linecap: butt;' />
 <line x1='651.74' y1='288.54' x2='665.57' y2='288.54' style='stroke-width: 1.07; stroke: #6A3D9A; stroke-opacity: 0.15; stroke-linecap: butt;' />
 <line x1='651.74' y1='288.54' x2='665.57' y2='288.54' style='stroke-width: 1.07; stroke: #6A3D9A; stroke-opacity: 0.15; stroke-linecap: butt;' />
-<text x='672.77' y='136.23' style='font-size: 8.80px; font-family: Liberation Sans;' textLength='68.77px' lengthAdjust='spacingAndGlyphs'>East of England</text>
-<text x='672.77' y='153.51' style='font-size: 8.80px; font-family: Liberation Sans;' textLength='32.26px' lengthAdjust='spacingAndGlyphs'>London</text>
-<text x='672.77' y='170.79' style='font-size: 8.80px; font-family: Liberation Sans;' textLength='39.21px' lengthAdjust='spacingAndGlyphs'>Midlands</text>
-<text x='672.77' y='188.07' style='font-size: 8.80px; font-family: Liberation Sans;' textLength='108.27px' lengthAdjust='spacingAndGlyphs'>North East and Yorkshire</text>
-<text x='672.77' y='205.35' style='font-size: 8.80px; font-family: Liberation Sans;' textLength='49.02px' lengthAdjust='spacingAndGlyphs'>North West</text>
-<text x='672.77' y='222.63' style='font-size: 8.80px; font-family: Liberation Sans;' textLength='47.35px' lengthAdjust='spacingAndGlyphs'>South East</text>
-<text x='672.77' y='239.91' style='font-size: 8.80px; font-family: Liberation Sans;' textLength='49.99px' lengthAdjust='spacingAndGlyphs'>South West</text>
-<text x='672.77' y='257.19' style='font-size: 8.80px; font-family: Liberation Sans;' textLength='72.27px' lengthAdjust='spacingAndGlyphs'>Northern Ireland</text>
-<text x='672.77' y='274.47' style='font-size: 8.80px; font-family: Liberation Sans;' textLength='38.26px' lengthAdjust='spacingAndGlyphs'>Scotland</text>
-<text x='672.77' y='291.75' style='font-size: 8.80px; font-family: Liberation Sans;' textLength='25.98px' lengthAdjust='spacingAndGlyphs'>Wales</text>
+<text x='672.77' y='136.23' style='font-size: 8.80px; font-family: "Liberation Sans";' textLength='68.77px' lengthAdjust='spacingAndGlyphs'>East of England</text>
+<text x='672.77' y='153.51' style='font-size: 8.80px; font-family: "Liberation Sans";' textLength='32.26px' lengthAdjust='spacingAndGlyphs'>London</text>
+<text x='672.77' y='170.79' style='font-size: 8.80px; font-family: "Liberation Sans";' textLength='39.21px' lengthAdjust='spacingAndGlyphs'>Midlands</text>
+<text x='672.77' y='188.07' style='font-size: 8.80px; font-family: "Liberation Sans";' textLength='108.27px' lengthAdjust='spacingAndGlyphs'>North East and Yorkshire</text>
+<text x='672.77' y='205.35' style='font-size: 8.80px; font-family: "Liberation Sans";' textLength='49.02px' lengthAdjust='spacingAndGlyphs'>North West</text>
+<text x='672.77' y='222.63' style='font-size: 8.80px; font-family: "Liberation Sans";' textLength='47.35px' lengthAdjust='spacingAndGlyphs'>South East</text>
+<text x='672.77' y='239.91' style='font-size: 8.80px; font-family: "Liberation Sans";' textLength='49.99px' lengthAdjust='spacingAndGlyphs'>South West</text>
+<text x='672.77' y='257.19' style='font-size: 8.80px; font-family: "Liberation Sans";' textLength='72.27px' lengthAdjust='spacingAndGlyphs'>Northern Ireland</text>
+<text x='672.77' y='274.47' style='font-size: 8.80px; font-family: "Liberation Sans";' textLength='38.26px' lengthAdjust='spacingAndGlyphs'>Scotland</text>
+<text x='672.77' y='291.75' style='font-size: 8.80px; font-family: "Liberation Sans";' textLength='25.98px' lengthAdjust='spacingAndGlyphs'>Wales</text>
 </g>
 </svg>
