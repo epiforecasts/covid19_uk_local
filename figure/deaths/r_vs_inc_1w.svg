@@ -2687,20 +2687,20 @@
 <polyline points='439.23,414.88 439.23,414.86 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.15; stroke-linecap: butt;' />
 <polyline points='439.23,414.87 297.29,414.87 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.15; stroke-linecap: butt;' />
 <polyline points='297.29,414.88 297.29,414.86 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.15; stroke-linecap: butt;' />
-<line x1='556.65' y1='300.55' x2='535.64' y2='287.85' style='stroke-width: 1.07;' />
-<line x1='435.54' y1='281.79' x2='445.81' y2='287.95' style='stroke-width: 1.07;' />
-<text x='455.04' y='138.32' text-anchor='middle' style='font-size: 11.04px; font-family: "Liberation Sans";' textLength='128.18px' lengthAdjust='spacingAndGlyphs'>Blackburn with Darwen</text>
+<line x1='556.72' y1='300.60' x2='535.64' y2='287.85' style='stroke-width: 1.07;' />
+<line x1='435.56' y1='281.80' x2='445.81' y2='287.95' style='stroke-width: 1.07;' />
+<text x='455.10' y='138.30' text-anchor='middle' style='font-size: 11.04px; font-family: "Liberation Sans";' textLength='128.18px' lengthAdjust='spacingAndGlyphs'>Blackburn with Darwen</text>
 <text x='399.87' y='214.12' text-anchor='middle' style='font-size: 11.04px; font-family: "Liberation Sans";' textLength='25.62px' lengthAdjust='spacingAndGlyphs'>Bury</text>
-<text x='495.37' y='295.20' text-anchor='middle' style='font-size: 11.04px; font-family: "Liberation Sans";' textLength='87.12px' lengthAdjust='spacingAndGlyphs'>County Durham</text>
-<text x='597.57' y='310.40' text-anchor='middle' style='font-size: 11.04px; font-family: "Liberation Sans";' textLength='127.63px' lengthAdjust='spacingAndGlyphs'>North East Lincolnshire</text>
-<text x='412.48' y='279.99' text-anchor='middle' style='font-size: 11.04px; font-family: "Liberation Sans";' textLength='90.73px' lengthAdjust='spacingAndGlyphs'>Northumberland</text>
-<text x='576.76' y='113.50' text-anchor='middle' style='font-size: 11.04px; font-family: "Liberation Sans";' textLength='120.77px' lengthAdjust='spacingAndGlyphs'>Redcar and Cleveland</text>
-<text x='451.55' y='318.68' text-anchor='middle' style='font-size: 11.04px; font-family: "Liberation Sans";' textLength='52.68px' lengthAdjust='spacingAndGlyphs'>Somerset</text>
-<text x='419.09' y='230.64' text-anchor='middle' style='font-size: 11.04px; font-family: "Liberation Sans";' textLength='51.80px' lengthAdjust='spacingAndGlyphs'>Tameside</text>
-<text x='554.33' y='270.90' text-anchor='middle' style='font-size: 11.04px; font-family: "Liberation Sans";' textLength='134.27px' lengthAdjust='spacingAndGlyphs'>Lisburn and Castlereagh</text>
-<text x='446.50' y='427.41' text-anchor='middle' style='font-size: 11.04px; font-family: "Liberation Sans";' textLength='113.03px' lengthAdjust='spacingAndGlyphs'>East Dunbartonshire</text>
-<text x='491.37' y='410.32' text-anchor='middle' style='font-size: 11.04px; font-family: "Liberation Sans";' textLength='57.30px' lengthAdjust='spacingAndGlyphs'>Inverclyde</text>
-<text x='527.41' y='427.43' text-anchor='middle' style='font-size: 11.04px; font-family: "Liberation Sans";' textLength='34.09px' lengthAdjust='spacingAndGlyphs'>Moray</text>
+<text x='495.45' y='295.21' text-anchor='middle' style='font-size: 11.04px; font-family: "Liberation Sans";' textLength='87.12px' lengthAdjust='spacingAndGlyphs'>County Durham</text>
+<text x='597.69' y='310.44' text-anchor='middle' style='font-size: 11.04px; font-family: "Liberation Sans";' textLength='127.63px' lengthAdjust='spacingAndGlyphs'>North East Lincolnshire</text>
+<text x='412.52' y='280.00' text-anchor='middle' style='font-size: 11.04px; font-family: "Liberation Sans";' textLength='90.73px' lengthAdjust='spacingAndGlyphs'>Northumberland</text>
+<text x='576.99' y='113.42' text-anchor='middle' style='font-size: 11.04px; font-family: "Liberation Sans";' textLength='120.77px' lengthAdjust='spacingAndGlyphs'>Redcar and Cleveland</text>
+<text x='451.58' y='318.66' text-anchor='middle' style='font-size: 11.04px; font-family: "Liberation Sans";' textLength='52.68px' lengthAdjust='spacingAndGlyphs'>Somerset</text>
+<text x='389.22' y='247.57' text-anchor='middle' style='font-size: 11.04px; font-family: "Liberation Sans";' textLength='51.80px' lengthAdjust='spacingAndGlyphs'>Tameside</text>
+<text x='554.05' y='270.92' text-anchor='middle' style='font-size: 11.04px; font-family: "Liberation Sans";' textLength='134.27px' lengthAdjust='spacingAndGlyphs'>Lisburn and Castlereagh</text>
+<text x='446.75' y='427.42' text-anchor='middle' style='font-size: 11.04px; font-family: "Liberation Sans";' textLength='113.03px' lengthAdjust='spacingAndGlyphs'>East Dunbartonshire</text>
+<text x='491.47' y='410.40' text-anchor='middle' style='font-size: 11.04px; font-family: "Liberation Sans";' textLength='57.30px' lengthAdjust='spacingAndGlyphs'>Inverclyde</text>
+<text x='527.51' y='427.32' text-anchor='middle' style='font-size: 11.04px; font-family: "Liberation Sans";' textLength='34.09px' lengthAdjust='spacingAndGlyphs'>Moray</text>
 <line x1='383.23' y1='431.21' x2='383.23' y2='71.87' style='stroke-width: 1.07; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
 <circle cx='333.27' cy='414.87' r='1.95' style='stroke-width: 0.71; stroke: #FF0000; fill: #FF0000;' />
 <circle cx='336.10' cy='414.87' r='1.95' style='stroke-width: 0.71; fill: #000000;' />
