@@ -2476,22 +2476,21 @@
 <polyline points='386.11,382.35 386.11,382.35 ' style='stroke-width: 1.07; stroke: #CAB2D6; stroke-opacity: 0.15; stroke-linecap: butt;' />
 <polyline points='386.11,382.35 386.11,382.35 ' style='stroke-width: 1.07; stroke: #CAB2D6; stroke-opacity: 0.15; stroke-linecap: butt;' />
 <polyline points='386.11,382.35 386.11,382.35 ' style='stroke-width: 1.07; stroke: #CAB2D6; stroke-opacity: 0.15; stroke-linecap: butt;' />
-<line x1='446.78' y1='173.71' x2='458.70' y2='169.35' style='stroke-width: 1.07; stroke: #33A02C;' />
-<line x1='427.44' y1='103.50' x2='435.00' y2='106.84' style='stroke-width: 1.07; stroke: #33A02C;' />
-<text x='448.22' y='160.15' text-anchor='middle' style='font-size: 11.04px;fill: #A6CEE3; font-family: "Liberation Sans";' textLength='43.32px' lengthAdjust='spacingAndGlyphs'>Bedford</text>
-<text x='408.43' y='124.54' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='53.40px' lengthAdjust='spacingAndGlyphs'>Blackpool</text>
-<text x='402.85' y='197.45' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='25.62px' lengthAdjust='spacingAndGlyphs'>Bury</text>
-<text x='401.42' y='178.72' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='87.12px' lengthAdjust='spacingAndGlyphs'>County Durham</text>
-<text x='502.14' y='164.85' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='50.06px' lengthAdjust='spacingAndGlyphs'>Leicester</text>
-<text x='392.81' y='141.44' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='127.63px' lengthAdjust='spacingAndGlyphs'>North East Lincolnshire</text>
-<text x='532.86' y='145.11' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='90.73px' lengthAdjust='spacingAndGlyphs'>Northumberland</text>
-<text x='365.26' y='106.15' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='120.77px' lengthAdjust='spacingAndGlyphs'>Redcar and Cleveland</text>
-<text x='463.77' y='193.92' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='52.68px' lengthAdjust='spacingAndGlyphs'>Somerset</text>
-<text x='505.64' y='128.06' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='83.49px' lengthAdjust='spacingAndGlyphs'>South Tyneside</text>
-<text x='343.06' y='123.16' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='63.12px' lengthAdjust='spacingAndGlyphs'>Sunderland</text>
-<text x='472.94' y='51.53' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='72.92px' lengthAdjust='spacingAndGlyphs'>Warwickshire</text>
-<text x='370.39' y='163.45' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='34.48px' lengthAdjust='spacingAndGlyphs'>Wigan</text>
-<text x='476.47' y='91.37' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='87.29px' lengthAdjust='spacingAndGlyphs'>Wolverhampton</text>
+<line x1='447.00' y1='173.51' x2='458.69' y2='169.35' style='stroke-width: 1.07; stroke: #33A02C;' />
+<text x='447.97' y='160.14' text-anchor='middle' style='font-size: 11.04px;fill: #A6CEE3; font-family: "Liberation Sans";' textLength='43.32px' lengthAdjust='spacingAndGlyphs'>Bedford</text>
+<text x='408.54' y='124.45' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='53.40px' lengthAdjust='spacingAndGlyphs'>Blackpool</text>
+<text x='402.85' y='197.43' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='25.62px' lengthAdjust='spacingAndGlyphs'>Bury</text>
+<text x='401.64' y='178.41' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='87.12px' lengthAdjust='spacingAndGlyphs'>County Durham</text>
+<text x='501.89' y='164.85' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='50.06px' lengthAdjust='spacingAndGlyphs'>Leicester</text>
+<text x='392.66' y='141.44' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='127.63px' lengthAdjust='spacingAndGlyphs'>North East Lincolnshire</text>
+<text x='532.82' y='145.13' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='90.73px' lengthAdjust='spacingAndGlyphs'>Northumberland</text>
+<text x='365.79' y='106.16' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='120.77px' lengthAdjust='spacingAndGlyphs'>Redcar and Cleveland</text>
+<text x='465.45' y='193.76' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='52.68px' lengthAdjust='spacingAndGlyphs'>Somerset</text>
+<text x='505.65' y='127.97' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='83.49px' lengthAdjust='spacingAndGlyphs'>South Tyneside</text>
+<text x='343.05' y='123.19' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='63.12px' lengthAdjust='spacingAndGlyphs'>Sunderland</text>
+<text x='472.98' y='51.45' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='72.92px' lengthAdjust='spacingAndGlyphs'>Warwickshire</text>
+<text x='370.41' y='163.13' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='34.48px' lengthAdjust='spacingAndGlyphs'>Wigan</text>
+<text x='476.90' y='91.29' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='87.29px' lengthAdjust='spacingAndGlyphs'>Wolverhampton</text>
 <line x1='440.34' y1='400.29' x2='440.34' y2='5.48' style='stroke-width: 1.07; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
 <rect x='29.06' y='5.48' width='604.52' height='394.82' style='stroke-width: 1.07; stroke: #333333;' />
 </g>
