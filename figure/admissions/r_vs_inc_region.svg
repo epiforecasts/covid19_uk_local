@@ -1967,19 +1967,19 @@
 <polyline points='212.93,299.99 212.96,299.99 ' style='stroke-width: 1.07; stroke: #33A02C; stroke-opacity: 0.15; stroke-linecap: butt;' />
 <polyline points='212.94,299.99 212.94,380.63 ' style='stroke-width: 1.07; stroke: #33A02C; stroke-opacity: 0.15; stroke-linecap: butt;' />
 <polyline points='212.93,380.63 212.96,380.63 ' style='stroke-width: 1.07; stroke: #33A02C; stroke-opacity: 0.15; stroke-linecap: butt;' />
-<text x='243.93' y='122.45' text-anchor='middle' style='font-size: 11.04px;fill: #A6CEE3; font-family: "Liberation Sans";' textLength='43.32px' lengthAdjust='spacingAndGlyphs'>Bedford</text>
-<text x='308.53' y='121.25' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='67.27px' lengthAdjust='spacingAndGlyphs'>Birmingham</text>
-<text x='325.38' y='167.72' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='35.45px' lengthAdjust='spacingAndGlyphs'>Bolton</text>
-<text x='535.44' y='109.03' text-anchor='middle' style='font-size: 11.04px;fill: #1F78B4; font-family: "Liberation Sans";' textLength='46.01px' lengthAdjust='spacingAndGlyphs'>Croydon</text>
-<text x='380.49' y='96.31' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='65.92px' lengthAdjust='spacingAndGlyphs'>East Sussex</text>
-<text x='496.38' y='193.57' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='86.49px' lengthAdjust='spacingAndGlyphs'>Gloucestershire</text>
-<text x='229.71' y='72.18' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='81.20px' lengthAdjust='spacingAndGlyphs'>Middlesbrough</text>
-<text x='346.88' y='139.85' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='63.41px' lengthAdjust='spacingAndGlyphs'>Portsmouth</text>
-<text x='314.98' y='75.69' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='37.79px' lengthAdjust='spacingAndGlyphs'>Slough</text>
-<text x='269.10' y='141.69' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='40.00px' lengthAdjust='spacingAndGlyphs'>Solihull</text>
-<text x='422.56' y='220.49' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='35.94px' lengthAdjust='spacingAndGlyphs'>Surrey</text>
-<text x='419.10' y='173.85' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='60.96px' lengthAdjust='spacingAndGlyphs'>Warrington</text>
-<text x='384.55' y='201.00' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='34.48px' lengthAdjust='spacingAndGlyphs'>Wigan</text>
+<text x='243.89' y='122.44' text-anchor='middle' style='font-size: 11.04px;fill: #A6CEE3; font-family: "Liberation Sans";' textLength='43.32px' lengthAdjust='spacingAndGlyphs'>Bedford</text>
+<text x='308.54' y='121.18' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='67.27px' lengthAdjust='spacingAndGlyphs'>Birmingham</text>
+<text x='325.35' y='167.77' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='35.45px' lengthAdjust='spacingAndGlyphs'>Bolton</text>
+<text x='509.53' y='126.19' text-anchor='middle' style='font-size: 11.04px;fill: #1F78B4; font-family: "Liberation Sans";' textLength='46.01px' lengthAdjust='spacingAndGlyphs'>Croydon</text>
+<text x='380.53' y='96.28' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='65.92px' lengthAdjust='spacingAndGlyphs'>East Sussex</text>
+<text x='516.83' y='193.57' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='86.49px' lengthAdjust='spacingAndGlyphs'>Gloucestershire</text>
+<text x='255.56' y='55.05' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='81.20px' lengthAdjust='spacingAndGlyphs'>Middlesbrough</text>
+<text x='347.01' y='139.80' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='63.41px' lengthAdjust='spacingAndGlyphs'>Portsmouth</text>
+<text x='314.82' y='75.72' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='37.79px' lengthAdjust='spacingAndGlyphs'>Slough</text>
+<text x='269.17' y='141.76' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='40.00px' lengthAdjust='spacingAndGlyphs'>Solihull</text>
+<text x='448.26' y='203.45' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='35.94px' lengthAdjust='spacingAndGlyphs'>Surrey</text>
+<text x='419.01' y='173.81' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='60.96px' lengthAdjust='spacingAndGlyphs'>Warrington</text>
+<text x='384.53' y='200.95' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='34.48px' lengthAdjust='spacingAndGlyphs'>Wigan</text>
 <line x1='323.04' y1='400.29' x2='323.04' y2='5.48' style='stroke-width: 1.07; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
 <rect x='34.65' y='5.48' width='598.93' height='394.82' style='stroke-width: 1.07; stroke: #333333;' />
 </g>
