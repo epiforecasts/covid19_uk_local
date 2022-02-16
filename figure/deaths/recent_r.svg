@@ -1171,24 +1171,24 @@
 <polyline points='76.83,88.79 212.01,104.72 347.19,113.76 482.37,117.07 617.55,117.29 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.20; stroke-linecap: butt;' />
 <polyline points='76.83,124.56 212.01,126.01 347.19,124.19 482.37,123.01 617.55,121.15 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.20; stroke-linecap: butt;' />
 <line x1='43.04' y1='89.11' x2='786.52' y2='89.11' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.50; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
-<line x1='587.31' y1='147.36' x2='616.08' y2='144.10' style='stroke-width: 1.07; stroke: #FB9A99;' />
-<line x1='599.87' y1='83.46' x2='616.24' y2='79.18' style='stroke-width: 1.07; stroke: #33A02C;' />
-<line x1='620.83' y1='41.33' x2='617.66' y2='60.55' style='stroke-width: 1.07; stroke: #CAB2D6;' />
-<text x='590.55' y='73.19' text-anchor='middle' style='font-size: 11.04px;fill: #A6CEE3; font-family: "Liberation Sans";' textLength='43.32px' lengthAdjust='spacingAndGlyphs'>Bedford</text>
-<text x='521.42' y='151.50' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='128.18px' lengthAdjust='spacingAndGlyphs'>Blackburn with Darwen</text>
-<text x='646.50' y='121.44' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='53.40px' lengthAdjust='spacingAndGlyphs'>Blackpool</text>
-<text x='652.05' y='89.78' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='59.28px' lengthAdjust='spacingAndGlyphs'>Calderdale</text>
-<text x='568.92' y='136.16' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='87.12px' lengthAdjust='spacingAndGlyphs'>County Durham</text>
-<text x='582.64' y='120.89' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='59.71px' lengthAdjust='spacingAndGlyphs'>Gateshead</text>
-<text x='587.36' y='103.69' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='50.06px' lengthAdjust='spacingAndGlyphs'>Leicester</text>
-<text x='668.67' y='105.14' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='90.73px' lengthAdjust='spacingAndGlyphs'>Northumberland</text>
-<text x='652.95' y='165.48' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='120.77px' lengthAdjust='spacingAndGlyphs'>Redcar and Cleveland</text>
-<text x='556.33' y='88.51' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='83.49px' lengthAdjust='spacingAndGlyphs'>South Tyneside</text>
-<text x='673.60' y='74.51' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='102.39px' lengthAdjust='spacingAndGlyphs'>Telford and Wrekin</text>
-<text x='686.30' y='59.25' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='128.51px' lengthAdjust='spacingAndGlyphs'>Dumfries and Galloway</text>
-<text x='558.44' y='56.97' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='113.03px' lengthAdjust='spacingAndGlyphs'>East Dunbartonshire</text>
-<text x='656.70' y='43.79' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='68.15px' lengthAdjust='spacingAndGlyphs'>East Lothian</text>
-<text x='579.46' y='37.76' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='72.02px' lengthAdjust='spacingAndGlyphs'>Glasgow City</text>
+<line x1='645.83' y1='148.05' x2='618.99' y2='144.14' style='stroke-width: 1.07; stroke: #FB9A99;' />
+<line x1='557.18' y1='86.51' x2='616.11' y2='77.95' style='stroke-width: 1.07; stroke: #33A02C;' />
+<line x1='614.07' y1='42.32' x2='617.43' y2='61.14' style='stroke-width: 1.07; stroke: #CAB2D6;' />
+<text x='644.32' y='74.09' text-anchor='middle' style='font-size: 11.04px;fill: #A6CEE3; font-family: "Liberation Sans";' textLength='43.32px' lengthAdjust='spacingAndGlyphs'>Bedford</text>
+<text x='711.72' y='152.29' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='128.18px' lengthAdjust='spacingAndGlyphs'>Blackburn with Darwen</text>
+<text x='635.81' y='121.48' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='53.40px' lengthAdjust='spacingAndGlyphs'>Blackpool</text>
+<text x='525.74' y='90.78' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='59.28px' lengthAdjust='spacingAndGlyphs'>Calderdale</text>
+<text x='666.15' y='136.97' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='87.12px' lengthAdjust='spacingAndGlyphs'>County Durham</text>
+<text x='582.53' y='106.20' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='59.71px' lengthAdjust='spacingAndGlyphs'>Gateshead</text>
+<text x='587.49' y='90.67' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='50.06px' lengthAdjust='spacingAndGlyphs'>Leicester</text>
+<text x='667.97' y='104.83' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='90.73px' lengthAdjust='spacingAndGlyphs'>Northumberland</text>
+<text x='580.37' y='165.56' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='120.77px' lengthAdjust='spacingAndGlyphs'>Redcar and Cleveland</text>
+<text x='664.43' y='89.37' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='83.49px' lengthAdjust='spacingAndGlyphs'>South Tyneside</text>
+<text x='561.26' y='75.27' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='102.39px' lengthAdjust='spacingAndGlyphs'>Telford and Wrekin</text>
+<text x='548.34' y='60.01' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='128.51px' lengthAdjust='spacingAndGlyphs'>Dumfries and Galloway</text>
+<text x='555.76' y='44.74' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='113.03px' lengthAdjust='spacingAndGlyphs'>East Dunbartonshire</text>
+<text x='653.76' y='56.97' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='68.15px' lengthAdjust='spacingAndGlyphs'>East Lothian</text>
+<text x='655.46' y='37.81' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='72.02px' lengthAdjust='spacingAndGlyphs'>Glasgow City</text>
 <rect x='43.04' y='5.48' width='743.48' height='338.34' style='stroke-width: 1.07; stroke: #333333;' />
 </g>
 <g clip-path='url(#cpMC4wMHw3OTIuMDB8MC4wMHw0MzIuMDA=)'>
