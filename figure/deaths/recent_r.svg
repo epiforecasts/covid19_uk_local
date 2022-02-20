@@ -1167,24 +1167,24 @@
 <polyline points='71.49,69.03 207.69,81.03 343.88,86.04 480.08,85.10 616.28,85.14 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.20; stroke-linecap: butt;' />
 <polyline points='71.49,103.83 207.69,106.14 343.88,107.19 480.08,104.91 616.28,103.93 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.20; stroke-linecap: butt;' />
 <line x1='37.44' y1='61.95' x2='786.52' y2='61.95' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.50; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
-<line x1='580.90' y1='144.48' x2='614.81' y2='140.75' style='stroke-width: 1.07; stroke: #33A02C;' />
-<line x1='626.31' y1='150.15' x2='617.12' y2='143.94' style='stroke-width: 1.07; stroke: #B2DF8A;' />
-<line x1='560.12' y1='99.29' x2='614.90' y2='110.49' style='stroke-width: 1.07; stroke: #CAB2D6;' />
-<text x='593.45' y='133.38' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='35.45px' lengthAdjust='spacingAndGlyphs'>Bolton</text>
-<text x='678.02' y='113.78' text-anchor='middle' style='font-size: 11.04px;fill: #A6CEE3; font-family: "Liberation Sans";' textLength='113.89px' lengthAdjust='spacingAndGlyphs'>Central Bedfordshire</text>
-<text x='634.72' y='201.94' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='87.12px' lengthAdjust='spacingAndGlyphs'>County Durham</text>
-<text x='644.47' y='144.63' text-anchor='middle' style='font-size: 11.04px;fill: #1F78B4; font-family: "Liberation Sans";' textLength='46.01px' lengthAdjust='spacingAndGlyphs'>Croydon</text>
-<text x='638.03' y='129.24' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='33.35px' lengthAdjust='spacingAndGlyphs'>Derby</text>
-<text x='546.28' y='66.84' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='129.56px' lengthAdjust='spacingAndGlyphs'>East Riding of Yorkshire</text>
-<text x='588.37' y='98.81' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='45.62px' lengthAdjust='spacingAndGlyphs'>Medway</text>
-<text x='597.88' y='39.55' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='90.73px' lengthAdjust='spacingAndGlyphs'>Northumberland</text>
-<text x='597.90' y='178.67' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='60.85px' lengthAdjust='spacingAndGlyphs'>Rotherham</text>
-<text x='581.64' y='118.14' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='58.91px' lengthAdjust='spacingAndGlyphs'>Shropshire</text>
-<text x='682.32' y='54.83' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='122.05px' lengthAdjust='spacingAndGlyphs'>South Gloucestershire</text>
-<text x='532.26' y='148.62' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='93.66px' lengthAdjust='spacingAndGlyphs'>Stockton-on-Tees</text>
-<text x='653.08' y='98.54' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='63.12px' lengthAdjust='spacingAndGlyphs'>Sunderland</text>
-<text x='629.77' y='159.99' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='87.29px' lengthAdjust='spacingAndGlyphs'>Wolverhampton</text>
-<text x='508.30' y='102.91' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='100.03px' lengthAdjust='spacingAndGlyphs'>South Lanarkshire</text>
+<line x1='653.70' y1='144.73' x2='617.75' y2='140.75' style='stroke-width: 1.07; stroke: #33A02C;' />
+<line x1='607.15' y1='150.01' x2='615.48' y2='143.95' style='stroke-width: 1.07; stroke: #B2DF8A;' />
+<line x1='672.56' y1='99.43' x2='617.66' y2='110.49' style='stroke-width: 1.07; stroke: #CAB2D6;' />
+<text x='639.16' y='133.62' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='35.45px' lengthAdjust='spacingAndGlyphs'>Bolton</text>
+<text x='554.43' y='113.79' text-anchor='middle' style='font-size: 11.04px;fill: #A6CEE3; font-family: "Liberation Sans";' textLength='113.89px' lengthAdjust='spacingAndGlyphs'>Central Bedfordshire</text>
+<text x='597.85' y='201.92' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='87.12px' lengthAdjust='spacingAndGlyphs'>County Durham</text>
+<text x='587.95' y='144.52' text-anchor='middle' style='font-size: 11.04px;fill: #1F78B4; font-family: "Liberation Sans";' textLength='46.01px' lengthAdjust='spacingAndGlyphs'>Croydon</text>
+<text x='594.54' y='129.21' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='33.35px' lengthAdjust='spacingAndGlyphs'>Derby</text>
+<text x='686.08' y='66.82' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='129.56px' lengthAdjust='spacingAndGlyphs'>East Riding of Yorkshire</text>
+<text x='644.44' y='98.87' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='45.62px' lengthAdjust='spacingAndGlyphs'>Medway</text>
+<text x='634.78' y='39.53' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='90.73px' lengthAdjust='spacingAndGlyphs'>Northumberland</text>
+<text x='634.66' y='178.67' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='60.85px' lengthAdjust='spacingAndGlyphs'>Rotherham</text>
+<text x='650.87' y='118.32' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='58.91px' lengthAdjust='spacingAndGlyphs'>Shropshire</text>
+<text x='550.32' y='54.81' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='122.05px' lengthAdjust='spacingAndGlyphs'>South Gloucestershire</text>
+<text x='702.33' y='148.88' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='93.66px' lengthAdjust='spacingAndGlyphs'>Stockton-on-Tees</text>
+<text x='579.55' y='98.52' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='63.12px' lengthAdjust='spacingAndGlyphs'>Sunderland</text>
+<text x='604.63' y='159.85' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='87.29px' lengthAdjust='spacingAndGlyphs'>Wolverhampton</text>
+<text x='724.38' y='103.06' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='100.03px' lengthAdjust='spacingAndGlyphs'>South Lanarkshire</text>
 <rect x='37.44' y='5.48' width='749.08' height='338.34' style='stroke-width: 1.07; stroke: #333333;' />
 </g>
 <g clip-path='url(#cpMC4wMHw3OTIuMDB8MC4wMHw0MzIuMDA=)'>
