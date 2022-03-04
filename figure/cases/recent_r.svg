@@ -1333,23 +1333,22 @@
 <polyline points='71.49,256.84 207.69,258.22 343.88,260.04 480.08,259.59 616.28,259.74 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.20; stroke-linecap: butt;' />
 <polyline points='71.49,268.51 207.69,273.18 343.88,245.22 480.08,262.96 616.28,287.98 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.20; stroke-linecap: butt;' />
 <line x1='37.44' y1='224.01' x2='786.52' y2='224.01' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.50; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
-<line x1='631.01' y1='239.42' x2='617.33' y2='245.81' style='stroke-width: 1.07; stroke: #FF7F00;' />
-<line x1='636.03' y1='319.41' x2='617.30' y2='310.28' style='stroke-width: 1.07; stroke: #FF7F00;' />
-<line x1='561.66' y1='233.57' x2='614.79' y2='237.94' style='stroke-width: 1.07; stroke: #FF7F00;' />
-<text x='536.18' y='283.48' text-anchor='middle' style='font-size: 11.04px;fill: #FF7F00; font-family: "Liberation Sans";' textLength='150.20px' lengthAdjust='spacingAndGlyphs'>Antrim and Newtownabbey</text>
-<text x='680.22' y='257.61' text-anchor='middle' style='font-size: 11.04px;fill: #FF7F00; font-family: "Liberation Sans";' textLength='118.01px' lengthAdjust='spacingAndGlyphs'>Ards and North Down</text>
-<text x='674.87' y='237.62' text-anchor='middle' style='font-size: 11.04px;fill: #FF7F00; font-family: "Liberation Sans";' textLength='216.09px' lengthAdjust='spacingAndGlyphs'>Armagh City, Banbridge and Craigavon</text>
-<text x='592.14' y='268.15' text-anchor='middle' style='font-size: 11.04px;fill: #FF7F00; font-family: "Liberation Sans";' textLength='38.14px' lengthAdjust='spacingAndGlyphs'>Belfast</text>
-<text x='696.16' y='273.00' text-anchor='middle' style='font-size: 11.04px;fill: #FF7F00; font-family: "Liberation Sans";' textLength='150.00px' lengthAdjust='spacingAndGlyphs'>Causeway Coast and Glens</text>
-<text x='668.77' y='329.25' text-anchor='middle' style='font-size: 11.04px;fill: #FF7F00; font-family: "Liberation Sans";' textLength='133.75px' lengthAdjust='spacingAndGlyphs'>Derry City and Strabane</text>
-<text x='494.84' y='237.52' text-anchor='middle' style='font-size: 11.04px;fill: #FF7F00; font-family: "Liberation Sans";' textLength='130.05px' lengthAdjust='spacingAndGlyphs'>Fermanagh and Omagh</text>
-<text x='544.02' y='298.88' text-anchor='middle' style='font-size: 11.04px;fill: #FF7F00; font-family: "Liberation Sans";' textLength='134.27px' lengthAdjust='spacingAndGlyphs'>Lisburn and Castlereagh</text>
-<text x='677.01' y='288.47' text-anchor='middle' style='font-size: 11.04px;fill: #FF7F00; font-family: "Liberation Sans";' textLength='111.87px' lengthAdjust='spacingAndGlyphs'>Mid and East Antrim</text>
-<text x='649.16' y='303.74' text-anchor='middle' style='font-size: 11.04px;fill: #FF7F00; font-family: "Liberation Sans";' textLength='55.63px' lengthAdjust='spacingAndGlyphs'>Mid Ulster</text>
-<text x='539.62' y='252.87' text-anchor='middle' style='font-size: 11.04px;fill: #FF7F00; font-family: "Liberation Sans";' textLength='142.54px' lengthAdjust='spacingAndGlyphs'>Newry, Mourne and Down</text>
-<text x='560.32' y='205.99' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='101.76px' lengthAdjust='spacingAndGlyphs'>Na h-Eileanan Siar</text>
-<text x='634.63' y='186.58' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='81.99px' lengthAdjust='spacingAndGlyphs'>Orkney Islands</text>
-<text x='565.56' y='314.16' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='90.99px' lengthAdjust='spacingAndGlyphs'>Shetland Islands</text>
+<line x1='619.52' y1='222.20' x2='616.42' y2='237.38' style='stroke-width: 1.07; stroke: #FF7F00;' />
+<line x1='633.32' y1='241.35' x2='617.25' y2='249.99' style='stroke-width: 1.07; stroke: #FF7F00;' />
+<text x='696.33' y='285.53' text-anchor='middle' style='font-size: 11.04px;fill: #FF7F00; font-family: "Liberation Sans";' textLength='150.20px' lengthAdjust='spacingAndGlyphs'>Antrim and Newtownabbey</text>
+<text x='680.20' y='254.90' text-anchor='middle' style='font-size: 11.04px;fill: #FF7F00; font-family: "Liberation Sans";' textLength='118.01px' lengthAdjust='spacingAndGlyphs'>Ards and North Down</text>
+<text x='504.34' y='254.83' text-anchor='middle' style='font-size: 11.04px;fill: #FF7F00; font-family: "Liberation Sans";' textLength='216.09px' lengthAdjust='spacingAndGlyphs'>Armagh City, Banbridge and Craigavon</text>
+<text x='640.62' y='270.14' text-anchor='middle' style='font-size: 11.04px;fill: #FF7F00; font-family: "Liberation Sans";' textLength='38.14px' lengthAdjust='spacingAndGlyphs'>Belfast</text>
+<text x='536.22' y='271.52' text-anchor='middle' style='font-size: 11.04px;fill: #FF7F00; font-family: "Liberation Sans";' textLength='150.00px' lengthAdjust='spacingAndGlyphs'>Causeway Coast and Glens</text>
+<text x='547.76' y='322.11' text-anchor='middle' style='font-size: 11.04px;fill: #FF7F00; font-family: "Liberation Sans";' textLength='133.75px' lengthAdjust='spacingAndGlyphs'>Derry City and Strabane</text>
+<text x='686.35' y='224.33' text-anchor='middle' style='font-size: 11.04px;fill: #FF7F00; font-family: "Liberation Sans";' textLength='130.05px' lengthAdjust='spacingAndGlyphs'>Fermanagh and Omagh</text>
+<text x='688.24' y='300.91' text-anchor='middle' style='font-size: 11.04px;fill: #FF7F00; font-family: "Liberation Sans";' textLength='134.27px' lengthAdjust='spacingAndGlyphs'>Lisburn and Castlereagh</text>
+<text x='555.30' y='287.99' text-anchor='middle' style='font-size: 11.04px;fill: #FF7F00; font-family: "Liberation Sans";' textLength='111.87px' lengthAdjust='spacingAndGlyphs'>Mid and East Antrim</text>
+<text x='583.29' y='303.22' text-anchor='middle' style='font-size: 11.04px;fill: #FF7F00; font-family: "Liberation Sans";' textLength='55.63px' lengthAdjust='spacingAndGlyphs'>Mid Ulster</text>
+<text x='647.70' y='239.55' text-anchor='middle' style='font-size: 11.04px;fill: #FF7F00; font-family: "Liberation Sans";' textLength='142.54px' lengthAdjust='spacingAndGlyphs'>Newry, Mourne and Down</text>
+<text x='560.27' y='205.98' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='101.76px' lengthAdjust='spacingAndGlyphs'>Na h-Eileanan Siar</text>
+<text x='634.71' y='186.58' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='81.99px' lengthAdjust='spacingAndGlyphs'>Orkney Islands</text>
+<text x='667.14' y='316.15' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='90.99px' lengthAdjust='spacingAndGlyphs'>Shetland Islands</text>
 <rect x='37.44' y='5.48' width='749.08' height='338.34' style='stroke-width: 1.07; stroke: #333333;' />
 </g>
 <g clip-path='url(#cpMC4wMHw3OTIuMDB8MC4wMHw0MzIuMDA=)'>
