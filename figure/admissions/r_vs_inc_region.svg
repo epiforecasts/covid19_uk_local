@@ -1969,23 +1969,23 @@
 <polyline points='354.55,296.51 354.55,296.51 ' style='stroke-width: 1.07; stroke: #33A02C; stroke-opacity: 0.15; stroke-linecap: butt;' />
 <polyline points='354.55,296.51 354.55,371.09 ' style='stroke-width: 1.07; stroke: #33A02C; stroke-opacity: 0.15; stroke-linecap: butt;' />
 <polyline points='354.55,371.09 354.55,371.09 ' style='stroke-width: 1.07; stroke: #33A02C; stroke-opacity: 0.15; stroke-linecap: butt;' />
-<text x='493.72' y='53.92' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='47.79px' lengthAdjust='spacingAndGlyphs'>Barnsley</text>
+<text x='467.88' y='71.00' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='47.79px' lengthAdjust='spacingAndGlyphs'>Barnsley</text>
 <text x='480.93' y='241.37' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='167.75px' lengthAdjust='spacingAndGlyphs'>Bath and North East Somerset</text>
-<text x='279.73' y='239.75' text-anchor='middle' style='font-size: 11.04px;fill: #A6CEE3; font-family: "Liberation Sans";' textLength='43.32px' lengthAdjust='spacingAndGlyphs'>Bedford</text>
-<text x='547.09' y='122.26' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='53.40px' lengthAdjust='spacingAndGlyphs'>Blackpool</text>
-<text x='346.44' y='186.97' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='95.44px' lengthAdjust='spacingAndGlyphs'>Buckinghamshire</text>
-<text x='504.01' y='282.77' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='129.56px' lengthAdjust='spacingAndGlyphs'>East Riding of Yorkshire</text>
-<text x='403.63' y='65.57' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='65.92px' lengthAdjust='spacingAndGlyphs'>East Sussex</text>
-<text x='394.12' y='169.60' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='86.49px' lengthAdjust='spacingAndGlyphs'>Gloucestershire</text>
-<text x='400.53' y='337.17' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='57.33px' lengthAdjust='spacingAndGlyphs'>Hartlepool</text>
-<text x='419.50' y='286.95' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='24.80px' lengthAdjust='spacingAndGlyphs'>Kent</text>
-<text x='527.20' y='259.42' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='147.04px' lengthAdjust='spacingAndGlyphs'>Kingston upon Hull, City of</text>
-<text x='362.20' y='238.23' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='50.63px' lengthAdjust='spacingAndGlyphs'>Liverpool</text>
-<text x='250.97' y='181.00' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='81.20px' lengthAdjust='spacingAndGlyphs'>Middlesbrough</text>
-<text x='373.75' y='261.95' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='64.07px' lengthAdjust='spacingAndGlyphs'>Oxfordshire</text>
-<text x='340.42' y='221.03' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='63.41px' lengthAdjust='spacingAndGlyphs'>Portsmouth</text>
-<text x='397.12' y='222.08' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='35.54px' lengthAdjust='spacingAndGlyphs'>Sefton</text>
-<text x='366.59' y='202.34' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='48.01px' lengthAdjust='spacingAndGlyphs'>Wiltshire</text>
+<text x='279.74' y='239.69' text-anchor='middle' style='font-size: 11.04px;fill: #A6CEE3; font-family: "Liberation Sans";' textLength='43.32px' lengthAdjust='spacingAndGlyphs'>Bedford</text>
+<text x='521.09' y='139.38' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='53.40px' lengthAdjust='spacingAndGlyphs'>Blackpool</text>
+<text x='346.51' y='187.03' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='95.44px' lengthAdjust='spacingAndGlyphs'>Buckinghamshire</text>
+<text x='504.11' y='282.79' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='129.56px' lengthAdjust='spacingAndGlyphs'>East Riding of Yorkshire</text>
+<text x='403.47' y='65.61' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='65.92px' lengthAdjust='spacingAndGlyphs'>East Sussex</text>
+<text x='394.35' y='169.51' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='86.49px' lengthAdjust='spacingAndGlyphs'>Gloucestershire</text>
+<text x='400.63' y='337.08' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='57.33px' lengthAdjust='spacingAndGlyphs'>Hartlepool</text>
+<text x='419.48' y='286.96' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='24.80px' lengthAdjust='spacingAndGlyphs'>Kent</text>
+<text x='526.94' y='262.33' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='147.04px' lengthAdjust='spacingAndGlyphs'>Kingston upon Hull, City of</text>
+<text x='362.16' y='238.24' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='50.63px' lengthAdjust='spacingAndGlyphs'>Liverpool</text>
+<text x='251.07' y='180.96' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='81.20px' lengthAdjust='spacingAndGlyphs'>Middlesbrough</text>
+<text x='373.74' y='261.99' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='64.07px' lengthAdjust='spacingAndGlyphs'>Oxfordshire</text>
+<text x='340.33' y='221.15' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='63.41px' lengthAdjust='spacingAndGlyphs'>Portsmouth</text>
+<text x='397.16' y='222.15' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='35.54px' lengthAdjust='spacingAndGlyphs'>Sefton</text>
+<text x='366.50' y='202.44' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='48.01px' lengthAdjust='spacingAndGlyphs'>Wiltshire</text>
 <line x1='364.79' y1='400.29' x2='364.79' y2='5.48' style='stroke-width: 1.07; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
 <rect x='34.65' y='5.48' width='598.93' height='394.82' style='stroke-width: 1.07; stroke: #333333;' />
 </g>
