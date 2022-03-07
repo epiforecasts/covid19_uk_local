@@ -2454,41 +2454,39 @@
 <polyline points='392.42,382.35 392.44,382.35 ' style='stroke-width: 1.07; stroke: #CAB2D6; stroke-opacity: 0.15; stroke-linecap: butt;' />
 <polyline points='392.43,382.35 392.43,382.35 ' style='stroke-width: 1.07; stroke: #CAB2D6; stroke-opacity: 0.15; stroke-linecap: butt;' />
 <polyline points='392.42,382.35 392.44,382.35 ' style='stroke-width: 1.07; stroke: #CAB2D6; stroke-opacity: 0.15; stroke-linecap: butt;' />
-<line x1='513.71' y1='285.55' x2='502.27' y2='294.21' style='stroke-width: 1.07; stroke: #E31A1C;' />
-<line x1='320.67' y1='348.26' x2='331.62' y2='349.48' style='stroke-width: 1.07; stroke: #A6CEE3;' />
-<line x1='342.35' y1='357.74' x2='349.47' y2='347.94' style='stroke-width: 1.07; stroke: #E31A1C;' />
-<line x1='499.90' y1='323.97' x2='492.22' y2='318.36' style='stroke-width: 1.07; stroke: #B2DF8A;' />
-<line x1='285.06' y1='317.94' x2='321.27' y2='323.32' style='stroke-width: 1.07; stroke: #B2DF8A;' />
-<line x1='395.53' y1='314.52' x2='412.97' y2='301.58' style='stroke-width: 1.07; stroke: #E31A1C;' />
-<line x1='511.07' y1='270.53' x2='510.51' y2='283.99' style='stroke-width: 1.07; stroke: #FDBF6F;' />
-<line x1='461.01' y1='282.50' x2='467.64' y2='288.77' style='stroke-width: 1.07; stroke: #CAB2D6;' />
-<text x='400.15' y='352.35' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='67.27px' lengthAdjust='spacingAndGlyphs'>Birmingham</text>
-<text x='435.17' y='334.28' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='35.55px' lengthAdjust='spacingAndGlyphs'>Devon</text>
-<text x='548.46' y='287.84' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='65.92px' lengthAdjust='spacingAndGlyphs'>East Sussex</text>
-<text x='303.07' y='352.26' text-anchor='middle' style='font-size: 11.04px;fill: #A6CEE3; font-family: "Liberation Sans";' textLength='31.59px' lengthAdjust='spacingAndGlyphs'>Essex</text>
-<text x='506.69' y='242.02' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='86.49px' lengthAdjust='spacingAndGlyphs'>Gloucestershire</text>
-<text x='341.30' y='367.58' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='59.68px' lengthAdjust='spacingAndGlyphs'>Hampshire</text>
-<text x='477.40' y='353.96' text-anchor='middle' style='font-size: 11.04px;fill: #A6CEE3; font-family: "Liberation Sans";' textLength='72.80px' lengthAdjust='spacingAndGlyphs'>Hertfordshire</text>
-<text x='377.44' y='285.33' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='24.80px' lengthAdjust='spacingAndGlyphs'>Kent</text>
-<text x='381.14' y='266.93' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='43.62px' lengthAdjust='spacingAndGlyphs'>Kirklees</text>
-<text x='247.37' y='355.06' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='59.61px' lengthAdjust='spacingAndGlyphs'>Lancashire</text>
-<text x='351.40' y='303.79' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='76.95px' lengthAdjust='spacingAndGlyphs'>Leicestershire</text>
-<text x='541.07' y='318.48' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='65.96px' lengthAdjust='spacingAndGlyphs'>Lincolnshire</text>
-<text x='390.19' y='335.13' text-anchor='middle' style='font-size: 11.04px;fill: #A6CEE3; font-family: "Liberation Sans";' textLength='39.61px' lengthAdjust='spacingAndGlyphs'>Norfolk</text>
-<text x='510.33' y='333.82' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='100.30px' lengthAdjust='spacingAndGlyphs'>Northamptonshire</text>
-<text x='237.22' y='321.81' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='92.09px' lengthAdjust='spacingAndGlyphs'>Nottinghamshire</text>
-<text x='325.22' y='336.98' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='70.82px' lengthAdjust='spacingAndGlyphs'>Staffordshire</text>
-<text x='309.22' y='318.96' text-anchor='middle' style='font-size: 11.04px;fill: #A6CEE3; font-family: "Liberation Sans";' textLength='37.95px' lengthAdjust='spacingAndGlyphs'>Suffolk</text>
-<text x='372.84' y='219.50' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='63.12px' lengthAdjust='spacingAndGlyphs'>Sunderland</text>
-<text x='375.76' y='319.78' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='35.94px' lengthAdjust='spacingAndGlyphs'>Surrey</text>
-<text x='536.87' y='272.49' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='48.01px' lengthAdjust='spacingAndGlyphs'>Wiltshire</text>
-<text x='438.32' y='296.01' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='82.43px' lengthAdjust='spacingAndGlyphs'>Worcestershire</text>
-<text x='556.73' y='303.17' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='146.50px' lengthAdjust='spacingAndGlyphs'>Cornwall and Isles of Scilly</text>
-<text x='429.66' y='161.05' text-anchor='middle' style='font-size: 11.04px;fill: #FF7F00; font-family: "Liberation Sans";' textLength='216.09px' lengthAdjust='spacingAndGlyphs'>Armagh City, Banbridge and Craigavon</text>
-<text x='458.18' y='280.70' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='95.62px' lengthAdjust='spacingAndGlyphs'>City of Edinburgh</text>
-<text x='508.21' y='68.67' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='68.19px' lengthAdjust='spacingAndGlyphs'>Dundee City</text>
-<text x='446.57' y='247.35' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='19.28px' lengthAdjust='spacingAndGlyphs'>Fife</text>
-<text x='436.93' y='317.68' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='72.02px' lengthAdjust='spacingAndGlyphs'>Glasgow City</text>
+<line x1='513.52' y1='283.99' x2='502.18' y2='294.17' style='stroke-width: 1.07; stroke: #E31A1C;' />
+<line x1='343.09' y1='357.76' x2='349.52' y2='347.95' style='stroke-width: 1.07; stroke: #E31A1C;' />
+<line x1='285.10' y1='317.94' x2='321.27' y2='323.32' style='stroke-width: 1.07; stroke: #B2DF8A;' />
+<line x1='395.19' y1='314.58' x2='412.96' y2='301.58' style='stroke-width: 1.07; stroke: #E31A1C;' />
+<line x1='511.22' y1='268.74' x2='510.52' y2='283.99' style='stroke-width: 1.07; stroke: #FDBF6F;' />
+<line x1='460.95' y1='282.50' x2='467.64' y2='288.78' style='stroke-width: 1.07; stroke: #CAB2D6;' />
+<text x='400.17' y='352.29' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='67.27px' lengthAdjust='spacingAndGlyphs'>Birmingham</text>
+<text x='435.43' y='334.25' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='35.55px' lengthAdjust='spacingAndGlyphs'>Devon</text>
+<text x='548.28' y='286.27' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='65.92px' lengthAdjust='spacingAndGlyphs'>East Sussex</text>
+<text x='308.91' y='352.26' text-anchor='middle' style='font-size: 11.04px;fill: #A6CEE3; font-family: "Liberation Sans";' textLength='31.59px' lengthAdjust='spacingAndGlyphs'>Essex</text>
+<text x='506.66' y='241.93' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='86.49px' lengthAdjust='spacingAndGlyphs'>Gloucestershire</text>
+<text x='342.34' y='367.60' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='59.68px' lengthAdjust='spacingAndGlyphs'>Hampshire</text>
+<text x='477.29' y='353.93' text-anchor='middle' style='font-size: 11.04px;fill: #A6CEE3; font-family: "Liberation Sans";' textLength='72.80px' lengthAdjust='spacingAndGlyphs'>Hertfordshire</text>
+<text x='377.50' y='285.37' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='24.80px' lengthAdjust='spacingAndGlyphs'>Kent</text>
+<text x='381.19' y='267.01' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='43.62px' lengthAdjust='spacingAndGlyphs'>Kirklees</text>
+<text x='247.31' y='355.09' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='59.61px' lengthAdjust='spacingAndGlyphs'>Lancashire</text>
+<text x='351.40' y='303.72' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='76.95px' lengthAdjust='spacingAndGlyphs'>Leicestershire</text>
+<text x='541.49' y='316.93' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='65.96px' lengthAdjust='spacingAndGlyphs'>Lincolnshire</text>
+<text x='390.72' y='335.12' text-anchor='middle' style='font-size: 11.04px;fill: #A6CEE3; font-family: "Liberation Sans";' textLength='39.61px' lengthAdjust='spacingAndGlyphs'>Norfolk</text>
+<text x='511.46' y='332.58' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='100.30px' lengthAdjust='spacingAndGlyphs'>Northamptonshire</text>
+<text x='237.26' y='321.81' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='92.09px' lengthAdjust='spacingAndGlyphs'>Nottinghamshire</text>
+<text x='325.65' y='337.00' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='70.82px' lengthAdjust='spacingAndGlyphs'>Staffordshire</text>
+<text x='309.40' y='319.02' text-anchor='middle' style='font-size: 11.04px;fill: #A6CEE3; font-family: "Liberation Sans";' textLength='37.95px' lengthAdjust='spacingAndGlyphs'>Suffolk</text>
+<text x='372.82' y='219.48' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='63.12px' lengthAdjust='spacingAndGlyphs'>Sunderland</text>
+<text x='375.41' y='319.83' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='35.94px' lengthAdjust='spacingAndGlyphs'>Surrey</text>
+<text x='537.02' y='270.88' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='48.01px' lengthAdjust='spacingAndGlyphs'>Wiltshire</text>
+<text x='438.30' y='296.05' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='82.43px' lengthAdjust='spacingAndGlyphs'>Worcestershire</text>
+<text x='556.73' y='301.67' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='146.50px' lengthAdjust='spacingAndGlyphs'>Cornwall and Isles of Scilly</text>
+<text x='429.66' y='161.01' text-anchor='middle' style='font-size: 11.04px;fill: #FF7F00; font-family: "Liberation Sans";' textLength='216.09px' lengthAdjust='spacingAndGlyphs'>Armagh City, Banbridge and Craigavon</text>
+<text x='458.02' y='280.70' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='95.62px' lengthAdjust='spacingAndGlyphs'>City of Edinburgh</text>
+<text x='534.42' y='51.55' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='68.19px' lengthAdjust='spacingAndGlyphs'>Dundee City</text>
+<text x='446.50' y='247.39' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='19.28px' lengthAdjust='spacingAndGlyphs'>Fife</text>
+<text x='436.58' y='317.38' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='72.02px' lengthAdjust='spacingAndGlyphs'>Glasgow City</text>
 <line x1='508.92' y1='400.29' x2='508.92' y2='5.48' style='stroke-width: 1.07; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
 <rect x='29.06' y='5.48' width='604.52' height='394.82' style='stroke-width: 1.07; stroke: #333333;' />
 </g>
