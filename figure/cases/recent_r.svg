@@ -1329,9 +1329,9 @@
 <polyline points='71.49,290.57 207.69,288.80 343.88,284.73 480.08,283.83 616.28,284.15 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.20; stroke-linecap: butt;' />
 <polyline points='71.49,295.55 207.69,276.49 343.88,240.23 480.08,149.85 616.28,117.03 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.20; stroke-linecap: butt;' />
 <line x1='37.44' y1='242.24' x2='786.52' y2='242.24' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.50; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
-<text x='677.31' y='197.35' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='113.03px' lengthAdjust='spacingAndGlyphs'>East Dunbartonshire</text>
-<text x='616.76' y='181.06' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='101.76px' lengthAdjust='spacingAndGlyphs'>Na h-Eileanan Siar</text>
-<text x='616.00' y='221.45' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='81.99px' lengthAdjust='spacingAndGlyphs'>Orkney Islands</text>
+<text x='677.30' y='197.35' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='113.03px' lengthAdjust='spacingAndGlyphs'>East Dunbartonshire</text>
+<text x='617.44' y='181.02' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='101.76px' lengthAdjust='spacingAndGlyphs'>Na h-Eileanan Siar</text>
+<text x='615.85' y='221.49' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='81.99px' lengthAdjust='spacingAndGlyphs'>Orkney Islands</text>
 <rect x='37.44' y='5.48' width='749.08' height='338.34' style='stroke-width: 1.07; stroke: #333333;' />
 </g>
 <g clip-path='url(#cpMC4wMHw3OTIuMDB8MC4wMHw0MzIuMDA=)'>
