@@ -1161,19 +1161,19 @@
 <polyline points='71.49,147.74 207.69,141.89 343.88,139.71 480.08,139.79 616.28,140.02 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.20; stroke-linecap: butt;' />
 <polyline points='71.49,167.26 207.69,165.47 343.88,163.95 480.08,163.15 616.28,164.63 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.20; stroke-linecap: butt;' />
 <line x1='37.44' y1='128.42' x2='786.52' y2='128.42' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.50; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
-<text x='598.01' y='55.47' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='167.75px' lengthAdjust='spacingAndGlyphs'>Bath and North East Somerset</text>
-<text x='577.60' y='87.32' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='67.27px' lengthAdjust='spacingAndGlyphs'>Birmingham</text>
-<text x='664.99' y='213.34' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='87.12px' lengthAdjust='spacingAndGlyphs'>County Durham</text>
-<text x='567.92' y='149.06' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='86.49px' lengthAdjust='spacingAndGlyphs'>Gloucestershire</text>
-<text x='654.34' y='198.04' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='65.96px' lengthAdjust='spacingAndGlyphs'>Lincolnshire</text>
-<text x='597.99' y='229.33' text-anchor='middle' style='font-size: 11.04px;fill: #A6CEE3; font-family: "Liberation Sans";' textLength='39.61px' lengthAdjust='spacingAndGlyphs'>Norfolk</text>
-<text x='663.34' y='157.02' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='84.19px' lengthAdjust='spacingAndGlyphs'>North Yorkshire</text>
-<text x='591.86' y='164.42' text-anchor='middle' style='font-size: 11.04px;fill: #A6CEE3; font-family: "Liberation Sans";' textLength='37.95px' lengthAdjust='spacingAndGlyphs'>Suffolk</text>
-<text x='592.90' y='203.37' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='35.94px' lengthAdjust='spacingAndGlyphs'>Surrey</text>
-<text x='576.56' y='188.05' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='69.24px' lengthAdjust='spacingAndGlyphs'>West Sussex</text>
-<text x='661.54' y='94.19' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='80.13px' lengthAdjust='spacingAndGlyphs'>Aberdeenshire</text>
-<text x='634.59' y='71.15' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='34.27px' lengthAdjust='spacingAndGlyphs'>Angus</text>
-<text x='586.43' y='102.66' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='49.17px' lengthAdjust='spacingAndGlyphs'>Highland</text>
+<text x='634.89' y='38.78' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='167.75px' lengthAdjust='spacingAndGlyphs'>Bath and North East Somerset</text>
+<text x='655.01' y='87.25' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='67.27px' lengthAdjust='spacingAndGlyphs'>Birmingham</text>
+<text x='664.81' y='213.30' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='87.12px' lengthAdjust='spacingAndGlyphs'>County Durham</text>
+<text x='567.66' y='149.16' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='86.49px' lengthAdjust='spacingAndGlyphs'>Gloucestershire</text>
+<text x='654.31' y='197.97' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='65.96px' lengthAdjust='spacingAndGlyphs'>Lincolnshire</text>
+<text x='597.90' y='229.32' text-anchor='middle' style='font-size: 11.04px;fill: #A6CEE3; font-family: "Liberation Sans";' textLength='39.61px' lengthAdjust='spacingAndGlyphs'>Norfolk</text>
+<text x='663.42' y='157.02' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='84.19px' lengthAdjust='spacingAndGlyphs'>North Yorkshire</text>
+<text x='591.86' y='164.52' text-anchor='middle' style='font-size: 11.04px;fill: #A6CEE3; font-family: "Liberation Sans";' textLength='37.95px' lengthAdjust='spacingAndGlyphs'>Suffolk</text>
+<text x='592.99' y='203.23' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='35.94px' lengthAdjust='spacingAndGlyphs'>Surrey</text>
+<text x='576.54' y='187.98' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='69.24px' lengthAdjust='spacingAndGlyphs'>West Sussex</text>
+<text x='571.01' y='94.20' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='80.13px' lengthAdjust='spacingAndGlyphs'>Aberdeenshire</text>
+<text x='597.96' y='71.15' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='34.27px' lengthAdjust='spacingAndGlyphs'>Angus</text>
+<text x='645.91' y='102.68' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='49.17px' lengthAdjust='spacingAndGlyphs'>Highland</text>
 <rect x='37.44' y='5.48' width='749.08' height='338.34' style='stroke-width: 1.07; stroke: #333333;' />
 </g>
 <g clip-path='url(#cpMC4wMHw3OTIuMDB8MC4wMHw0MzIuMDA=)'>
