@@ -1334,23 +1334,23 @@
 <polyline points='76.83,224.05 212.01,177.40 347.19,125.55 482.37,90.86 617.55,81.03 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.20; stroke-linecap: butt;' />
 <polyline points='76.83,222.64 212.01,118.77 347.19,87.82 482.37,173.36 617.55,219.24 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.20; stroke-linecap: butt;' />
 <line x1='43.04' y1='194.35' x2='786.52' y2='194.35' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.50; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
-<line x1='595.94' y1='222.79' x2='616.14' y2='226.35' style='stroke-width: 1.07; stroke: #FDBF6F;' />
-<text x='594.69' y='211.17' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='35.55px' lengthAdjust='spacingAndGlyphs'>Devon</text>
-<text x='599.19' y='258.50' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='36.64px' lengthAdjust='spacingAndGlyphs'>Dorset</text>
-<text x='635.87' y='240.67' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='68.54px' lengthAdjust='spacingAndGlyphs'>Isle of Wight</text>
-<text x='635.85' y='278.24' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='87.03px' lengthAdjust='spacingAndGlyphs'>North Somerset</text>
-<text x='586.45' y='150.28' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='52.05px' lengthAdjust='spacingAndGlyphs'>Plymouth</text>
-<text x='649.01' y='222.47' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='52.68px' lengthAdjust='spacingAndGlyphs'>Somerset</text>
-<text x='635.91' y='45.49' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='83.49px' lengthAdjust='spacingAndGlyphs'>South Tyneside</text>
-<text x='635.98' y='165.64' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='36.44px' lengthAdjust='spacingAndGlyphs'>Torbay</text>
-<text x='570.14' y='226.48' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='48.01px' lengthAdjust='spacingAndGlyphs'>Wiltshire</text>
-<text x='635.63' y='195.48' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='146.50px' lengthAdjust='spacingAndGlyphs'>Cornwall and Isles of Scilly</text>
-<text x='635.88' y='134.82' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='72.06px' lengthAdjust='spacingAndGlyphs'>East Ayrshire</text>
-<text x='599.36' y='112.88' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='101.76px' lengthAdjust='spacingAndGlyphs'>Na h-Eileanan Siar</text>
-<text x='635.86' y='95.87' text-anchor='middle' style='font-size: 11.04px;fill: #6A3D9A; font-family: "Liberation Sans";' textLength='51.88px' lengthAdjust='spacingAndGlyphs'>Gwynedd</text>
-<text x='646.06' y='65.99' text-anchor='middle' style='font-size: 11.04px;fill: #6A3D9A; font-family: "Liberation Sans";' textLength='46.67px' lengthAdjust='spacingAndGlyphs'>Newport</text>
-<text x='599.14' y='25.31' text-anchor='middle' style='font-size: 11.04px;fill: #6A3D9A; font-family: "Liberation Sans";' textLength='40.57px' lengthAdjust='spacingAndGlyphs'>Torfaen</text>
-<text x='585.99' y='80.62' text-anchor='middle' style='font-size: 11.04px;fill: #6A3D9A; font-family: "Liberation Sans";' textLength='52.32px' lengthAdjust='spacingAndGlyphs'>Wrexham</text>
+<line x1='638.71' y1='222.56' x2='618.94' y2='226.33' style='stroke-width: 1.07; stroke: #FDBF6F;' />
+<text x='640.43' y='210.88' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='35.55px' lengthAdjust='spacingAndGlyphs'>Devon</text>
+<text x='635.68' y='258.44' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='36.64px' lengthAdjust='spacingAndGlyphs'>Dorset</text>
+<text x='598.95' y='240.83' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='68.54px' lengthAdjust='spacingAndGlyphs'>Isle of Wight</text>
+<text x='599.21' y='278.19' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='87.03px' lengthAdjust='spacingAndGlyphs'>North Somerset</text>
+<text x='648.59' y='150.27' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='52.05px' lengthAdjust='spacingAndGlyphs'>Plymouth</text>
+<text x='586.04' y='222.48' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='52.68px' lengthAdjust='spacingAndGlyphs'>Somerset</text>
+<text x='599.31' y='45.55' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='83.49px' lengthAdjust='spacingAndGlyphs'>South Tyneside</text>
+<text x='599.29' y='165.57' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='36.44px' lengthAdjust='spacingAndGlyphs'>Torbay</text>
+<text x='664.52' y='226.17' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='48.01px' lengthAdjust='spacingAndGlyphs'>Wiltshire</text>
+<text x='599.18' y='195.46' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='146.50px' lengthAdjust='spacingAndGlyphs'>Cornwall and Isles of Scilly</text>
+<text x='599.31' y='134.85' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='72.06px' lengthAdjust='spacingAndGlyphs'>East Ayrshire</text>
+<text x='635.86' y='112.90' text-anchor='middle' style='font-size: 11.04px;fill: #CAB2D6; font-family: "Liberation Sans";' textLength='101.76px' lengthAdjust='spacingAndGlyphs'>Na h-Eileanan Siar</text>
+<text x='599.24' y='95.89' text-anchor='middle' style='font-size: 11.04px;fill: #6A3D9A; font-family: "Liberation Sans";' textLength='51.88px' lengthAdjust='spacingAndGlyphs'>Gwynedd</text>
+<text x='589.06' y='65.98' text-anchor='middle' style='font-size: 11.04px;fill: #6A3D9A; font-family: "Liberation Sans";' textLength='46.67px' lengthAdjust='spacingAndGlyphs'>Newport</text>
+<text x='635.90' y='25.33' text-anchor='middle' style='font-size: 11.04px;fill: #6A3D9A; font-family: "Liberation Sans";' textLength='40.57px' lengthAdjust='spacingAndGlyphs'>Torfaen</text>
+<text x='649.14' y='80.65' text-anchor='middle' style='font-size: 11.04px;fill: #6A3D9A; font-family: "Liberation Sans";' textLength='52.32px' lengthAdjust='spacingAndGlyphs'>Wrexham</text>
 <rect x='43.04' y='5.48' width='743.48' height='338.34' style='stroke-width: 1.07; stroke: #333333;' />
 </g>
 <g clip-path='url(#cpMC4wMHw3OTIuMDB8MC4wMHw0MzIuMDA=)'>
