@@ -937,21 +937,21 @@
 <polyline points='76.83,251.65 212.01,236.08 347.19,222.00 482.37,213.40 617.55,210.21 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.20; stroke-linecap: butt;' />
 <polyline points='76.83,238.50 212.01,211.57 347.19,186.80 482.37,175.56 617.55,174.13 ' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.20; stroke-linecap: butt;' />
 <line x1='43.04' y1='261.01' x2='786.52' y2='261.01' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.50; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
-<text x='548.55' y='136.39' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='128.18px' lengthAdjust='spacingAndGlyphs'>Blackburn with Darwen</text>
-<text x='646.48' y='198.81' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='53.40px' lengthAdjust='spacingAndGlyphs'>Blackpool</text>
-<text x='599.28' y='33.20' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='59.28px' lengthAdjust='spacingAndGlyphs'>Calderdale</text>
-<text x='647.76' y='134.98' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='50.16px' lengthAdjust='spacingAndGlyphs'>Coventry</text>
-<text x='599.20' y='99.60' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='60.24px' lengthAdjust='spacingAndGlyphs'>Derbyshire</text>
-<text x='584.30' y='154.44' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='56.46px' lengthAdjust='spacingAndGlyphs'>Doncaster</text>
-<text x='658.76' y='242.75' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='65.92px' lengthAdjust='spacingAndGlyphs'>East Sussex</text>
-<text x='587.62' y='119.32' text-anchor='middle' style='font-size: 11.04px;fill: #1F78B4; font-family: "Liberation Sans";' textLength='55.29px' lengthAdjust='spacingAndGlyphs'>Hillingdon</text>
-<text x='644.39' y='115.89' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='43.62px' lengthAdjust='spacingAndGlyphs'>Kirklees</text>
-<text x='586.44' y='185.05' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='52.13px' lengthAdjust='spacingAndGlyphs'>Knowsley</text>
-<text x='580.77' y='212.45' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='63.41px' lengthAdjust='spacingAndGlyphs'>Portsmouth</text>
-<text x='599.41' y='227.86' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='37.79px' lengthAdjust='spacingAndGlyphs'>Slough</text>
-<text x='599.21' y='257.99' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='52.68px' lengthAdjust='spacingAndGlyphs'>Somerset</text>
-<text x='650.73' y='150.51' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='56.02px' lengthAdjust='spacingAndGlyphs'>St. Helens</text>
-<text x='635.91' y='169.76' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='36.44px' lengthAdjust='spacingAndGlyphs'>Torbay</text>
+<text x='686.69' y='136.38' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='128.18px' lengthAdjust='spacingAndGlyphs'>Blackburn with Darwen</text>
+<text x='636.10' y='198.79' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='53.40px' lengthAdjust='spacingAndGlyphs'>Blackpool</text>
+<text x='652.16' y='17.15' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='59.28px' lengthAdjust='spacingAndGlyphs'>Calderdale</text>
+<text x='587.45' y='134.94' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='50.16px' lengthAdjust='spacingAndGlyphs'>Coventry</text>
+<text x='635.72' y='99.68' text-anchor='middle' style='font-size: 11.04px;fill: #B2DF8A; font-family: "Liberation Sans";' textLength='60.24px' lengthAdjust='spacingAndGlyphs'>Derbyshire</text>
+<text x='650.88' y='153.31' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='56.46px' lengthAdjust='spacingAndGlyphs'>Doncaster</text>
+<text x='579.63' y='242.59' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='65.92px' lengthAdjust='spacingAndGlyphs'>East Sussex</text>
+<text x='647.35' y='119.31' text-anchor='middle' style='font-size: 11.04px;fill: #1F78B4; font-family: "Liberation Sans";' textLength='55.29px' lengthAdjust='spacingAndGlyphs'>Hillingdon</text>
+<text x='590.59' y='116.70' text-anchor='middle' style='font-size: 11.04px;fill: #33A02C; font-family: "Liberation Sans";' textLength='43.62px' lengthAdjust='spacingAndGlyphs'>Kirklees</text>
+<text x='582.66' y='183.53' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='52.13px' lengthAdjust='spacingAndGlyphs'>Knowsley</text>
+<text x='580.76' y='214.20' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='63.41px' lengthAdjust='spacingAndGlyphs'>Portsmouth</text>
+<text x='638.65' y='227.86' text-anchor='middle' style='font-size: 11.04px;fill: #E31A1C; font-family: "Liberation Sans";' textLength='37.79px' lengthAdjust='spacingAndGlyphs'>Slough</text>
+<text x='635.81' y='257.97' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='52.68px' lengthAdjust='spacingAndGlyphs'>Somerset</text>
+<text x='584.36' y='150.49' text-anchor='middle' style='font-size: 11.04px;fill: #FB9A99; font-family: "Liberation Sans";' textLength='56.02px' lengthAdjust='spacingAndGlyphs'>St. Helens</text>
+<text x='634.13' y='168.62' text-anchor='middle' style='font-size: 11.04px;fill: #FDBF6F; font-family: "Liberation Sans";' textLength='36.44px' lengthAdjust='spacingAndGlyphs'>Torbay</text>
 <rect x='43.04' y='5.48' width='743.48' height='338.34' style='stroke-width: 1.07; stroke: #333333;' />
 </g>
 <g clip-path='url(#cpMC4wMHw3OTIuMDB8MC4wMHw0MzIuMDA=)'>
