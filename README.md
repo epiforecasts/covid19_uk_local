@@ -7,6 +7,8 @@ separately for test positive cases, hospital admisssions, and mortality.
 
 # R vs incidence - week-on-week change
 
+> **Archived.** No longer maintained; last updated April 2022.
+
 ## Cases
 
 ![](figure/cases/r_vs_inc_1w.svg)
